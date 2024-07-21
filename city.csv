@@ -1,0 +1,7672 @@
+city_id,city,state_id
+3001,Atlanta,101
+3002,Saline,102
+3003,Somerville,103
+3004,Baudette,104
+3005,CORDOVA,105
+3006,Cassopolis,102
+3007,San Jose,106
+3008,Houston,107
+3009,Reston,108
+3010,Newington,109
+3011,Baltimore,110
+3012,Shrewsbury,103
+3013,O'FALLON,111
+3014,NINNEKAH,112
+3015,Alpharetta,101
+3016,New York,113
+3017,Plano,107
+3018,Southfield,102
+3019,Seattle,114
+3020,Hartford,109
+3021,Schaumburg,115
+3022,Bristol,105
+3023,Louisville,116
+3024,EAST WINDSOR,117
+3025,MENLO PARK,106
+3026,Sunnyvale,106
+3027,MIAMI,118
+3028,NEW YORK,113
+3029,Princeton,117
+3030,North Wales,119
+3031,Erlanger,116
+3032,GLOUSCESTER CITY,117
+3033,Chicago,115
+3034,Winston-Salem,120
+3035,Albany,113
+3036,Mount Laurel,117
+3037,Nashville,105
+3038,MORRISVILLE,120
+3039,Pittsburgh,119
+3040,Chandler,121
+3041,LONG BEACH,106
+3042,PLANO,107
+3043,LEXINGTON,103
+3044,Portage,102
+3045,Bellevue,114
+3046,Tempe,121
+3047,Charlotte,120
+3048,Laurel,110
+3049,McKinney,107
+3050,hopkins,104
+3051,Sandy,122
+3052,Blue Bell,119
+3053,Morrisville,120
+3054,IRVINE,106
+3055,Raleigh,120
+3056,Fargo,123
+3057,Dulles,108
+3058,RICHMOND,107
+3059,FREMONT,106
+3060,Stanford,106
+3061,NOVI,102
+3062,MONTGOMERY ,124
+3063,JERSEY CITY,117
+3064,San Diego,106
+3065,West Lebanon,125
+3066,Virginia Beach,108
+3067,Detroit,102
+3068,Everett,114
+3069,Redmond,114
+3070,Boise,126
+3071,St. Louis,111
+3072,Southlake,107
+3073,Boston,103
+3074,Charlottesville,108
+3075,Jersey City,117
+3076,Lake Stevens,114
+3077,Mckinney,107
+3078,Malvern,119
+3079,Santa Clara,106
+3080,LYNCHBURG,108
+3081,Frisco,107
+3082,Burbank,106
+3083,Waltham,103
+3084,Irvine,106
+3085,N Chesterfield ,108
+3086,Azusa ,106
+3087,Rockville,110
+3088,O Fallon,111
+3089,Fremont,106
+3090,Metuchen,117
+3091,Florence,116
+3092,Glendale,106
+3093,Allen Park,102
+3094,Omaha,127
+3095,Los Angeles,106
+3096,Secaucus,117
+3097,Mount Holly,120
+3098,Memphis,105
+3099,Dearborn,102
+3100,Purchase,113
+3101,Ithaca ,113
+3102,Walnut Creek,106
+3103,Flushing ,113
+3104,San Francisco,106
+3105,SAN ANTONIO,107
+3106,Tampa,118
+3107,Overland Park,128
+3108,Menlo Park,106
+3109,Harrisburg,119
+3110,Piscataway,117
+3111,Torrance,106
+3112,MURRAY,122
+3113,West Chester,119
+3114,Herndon,108
+3115,Des Moines,129
+3116,Hillsboro,130
+3117,Wheeling,115
+3118,ANAHEIM,106
+3119,Collierville,105
+3120,Portland,130
+3121,TEANECK,117
+3122,Westborough,103
+3123,Trenton,117
+3124,Richmond,108
+3125,Lawrence,128
+3126,Scottsdale,121
+3127,Newark ,106
+3128,Vernon,106
+3129,Campbell,106
+3130,Mayfield Heights,131
+3131,Centennial,132
+3132,Sacramento,106
+3133,Lexington,103
+3134,Philadelphia,119
+3135,NORFOLK,108
+3136,Richmond,106
+3137,Sunnyvale  ,106
+3138,Minnetonka,104
+3139,Mountain View,106
+3140,Dublin,131
+3141,South San Francisco,106
+3142,Baton Rouge,133
+3143,Dallas,107
+3144,Redwood City,106
+3145,Leander,107
+3146,DALLAS,107
+3147,Mechanicsburg ,119
+3148,Cary,120
+3149,Austin,107
+3150,SANTA CLARA,106
+3151,Plano ,107
+3152,Poughkeepsie,113
+3153,Piedmont,134
+3154,Grand Rapids,102
+3155,Collierville ,105
+3156,College Station,107
+3157,Tulsa,112
+3158,Flushing,113
+3159,Columbus,135
+3160,Carlsbad,106
+3161,Eden Prarie,104
+3162,EL SEGUNDO,106
+3163,STUDIO CITY,106
+3164,BOULDER,132
+3165,Salisbury,120
+3166,BOSTON,103
+3167,Kearny,117
+3168,ALPHARETTA,101
+3169,Englewood,132
+3170,CUMMING,101
+3171,Richfield,104
+3172,Center Valley,119
+3173,Palo Alto,106
+3174,CARY,120
+3175,Flower Mound,107
+3176,RENTON,114
+3177,Palo Alto ,106
+3178,ELGIN,115
+3179,BURLINGTON,103
+3180,WESTLAKE,107
+3181,Monument,132
+3182,SAN DIEGO,106
+3183,San Ramon,106
+3184,"Northbrook,",115
+3185,Fridley,104
+3186,Lake Mary,118
+3187,Arvada,132
+3188,Anaheim,106
+3189,Hoboken,117
+3190,Beaverton,130
+3191,New  York,113
+3192,Chicago ,115
+3193,Farmington Hills,102
+3194,East Hanover,117
+3195,Katy,107
+3196,SYLMAR ,106
+3197,Aurora,130
+3198,Smithfield,136
+3199,Hazlet,117
+3200,Durham,120
+3201,Brooklyn,113
+3202,Cambridge,103
+3203,Colorado Springs,132
+3204,Columbia,110
+3205,Lenexa,128
+3206,Cold Spring Harbor,113
+3207,Newark,137
+3208,PALM COAST,118
+3209,Allen,107
+3210,Phoenix,121
+3211,Marlborough,103
+3212,Lewisville,107
+3213,Allentown,119
+3214,Sunrise,118
+3215,IRVING,107
+3216,COLUMBUS,131
+3217,Oak Ridge,105
+3218,Weston,118
+3219,Addison,107
+3220,Fairfield,129
+3221,Chevy Chase,110
+3222,Cumming,101
+3223,NC ,120
+3224,Arvin,106
+3225,KIRKLAND,114
+3226,Mason,131
+3227,Los Angeles ,106
+3228,PALO ALTO,106
+3229,Denver,132
+3230,McLean,108
+3231,RIVERSIDE,106
+3232,Edison,117
+3233,Quincy,103
+3234,Pembroke Pines,118
+3235,WASHINGTON,138
+3236,Verona,139
+3237,Orlando,118
+3238,SAN RAMON,106
+3239,Rosemead ,106
+3240,MELBOURNE,118
+3241,Columbus,131
+3242,East Palo Alto,106
+3243,Sanford,118
+3244,Rochester,104
+3245,Berkeley,106
+3246,ISELIN,117
+3247,AUBURN HILLS,102
+3248,New Albany,131
+3249,FLEMINGTON,117
+3250,London,116
+3251,Calhoun,101
+3252,Danvers,103
+3253,Cupertino,106
+3254,Hicksville,113
+3255,Irving,107
+3256,LONE TREE,132
+3257,Franklin,105
+3258,WESTERVILLE,131
+3259,Cincinnati,131
+3260,CHARLOTTE,120
+3261,Corpus Christi,107
+3262,Detriot,102
+3263,San Clemente,106
+3264,Columbia,134
+3265,COLUMBIA ,134
+3266,Owings Mills,110
+3267,Troy,102
+3268,Westerville,131
+3269,Hawthorn Woods,115
+3270,Conshohocken,119
+3271,College Park,110
+3272,MOUNTAIN VIEW,106
+3273,Hanover,110
+3274,CONCORD,120
+3275,Oswego,113
+3276,Pleasanton,106
+3277,SAINT PAUL,104
+3278,Macomb,102
+3279,Woodland Hills ,106
+3280,ATLANTA,101
+3281,Wilmington,137
+3282,Lathrop,106
+3283,SAN FRANCISCO,106
+3284, Hoboken,117
+3285,Falls Church,108
+3286,TAMPA,118
+3287,Norcross,101
+3288,Research Triangle Park,120
+3289,CLEVELAND,131
+3290,NORWOOD,103
+3291,Greenwood Village,132
+3292,ANDERSON,135
+3293,WILMINGTON,137
+3294,ALTAMONTE SPRINGS,118
+3295,Pasadena,106
+3296,Forney,107
+3297,Newark,106
+3298,HOUSTON ,107
+3299,Prospect Heights,115
+3300,ALLEN PARK,102
+3301,Fairfax,108
+3302,Lexington,116
+3303,Hillsborough,118
+3304,Menomonee Falls,139
+3305,Fairfield,109
+3306,Lewisville ,107
+3307,Iselin,117
+3308,Indianapolis,135
+3309,Middletown ,117
+3310,San Jose	,106
+3311,Lafayette,132
+3312,Saint Louis,111
+3313,Union,117
+3314,Clifton Park,113
+3315,Culver City,106
+3316,Bridgewater,117
+3317,Seattle ,114
+3318,NEW BRUNSWICK,117
+3319,WILD ROSE,139
+3320,Bedminister,117
+3321,Bartlett,105
+3322,Grand Forks,123
+3323,Bloomington,115
+3324,Clovis,106
+3325, Moon Twp,119
+3326,Davie ,118
+3327,RESTON,108
+3328,Richardson,107
+3329,Monroe Township,117
+3330,Concord,106
+3331,Miami,118
+3332,San Bruno,106
+3333,Waterloo,129
+3334,San Antonio,107
+3335,Las Vegas,140
+3336,Monrovia,106
+3337,Auburn Hills,102
+3338,#19820 DETROIT MSA,102
+3339,HONOLULU,141
+3340,MILFORD,131
+3341,Camarillo,106
+3342,CHATTANOOGA,105
+3343,Lisle,115
+3344,RIDGEFIELD,109
+3345,CUPERTINO,106
+3346, Sunnyvale,106
+3347,Saint Paul,104
+3348,Peoria,115
+3349,Berkeley Heights,117
+3350,SILVER SPRING,110
+3351,Fort Worth,107
+3352,Louisville,132
+3353,Birmingham,124
+3354,Ithaca,113
+3355,Hollywood,118
+3356,Gaithersburg,110
+3357,Little Rock,142
+3358,San Marco,106
+3359,MONTGOMERY,124
+3360,Corte Madera,106
+3361,Green Valley,121
+3362,Foster City,106
+3363,FRISCO,107
+3364,Bloomington ,115
+3365,Weehawken ,117
+3366,Plainsboro,117
+3367,Ashland,103
+3368,Peachtree Corners,101
+3369,San Mateo,106
+3370,Milpitas ,106
+3371,Littleton,132
+3372,Nashville	,105
+3373,Teaneck,117
+3374,Fairburn,101
+3375,COLUMBIA,134
+3376,AUSTIN,107
+3377,Riverwoods,115
+3378,Irving ,107
+3379,Whippany,117
+3380,Wickliffe,131
+3381,TAMPA ,118
+3382,Hackensack,117
+3383,Fresno,107
+3384,Madison,139
+3385,Minneapolis,104
+3386,Alpharetta ,101
+3387,LOMBARD,115
+3388,Kansas City,111
+3389,Dalton,101
+3390,Bentonville,142
+3391,Elgin,115
+3392,Covington,101
+3393,Waukegan,115
+3394,Apt. 204,105
+3395,Cumming ,101
+3396,DEARBORN,102
+3397,Framingham,103
+3398,Tucson,121
+3399,Milpitas,106
+3400,Mechanicsburg,119
+3401,O'Fallon,111
+3402,Somerset,116
+3403,Grand Blanc,102
+3404,Germantown,110
+3405,NEWARK,117
+3406,Seminole,107
+3407,Burlington,103
+3408,Watertown ,103
+3409,SAN JOSE,106
+3410,Danville,106
+3411,Rocky Hill,109
+3412,Drexel Hill,119
+3413,Round Rock,107
+3414,Aurora,115
+3415,"Washington, D.C.",138
+3416,Apt 274,106
+3417,LANSING,102
+3418,Milwaukee,139
+3419,St Louis,111
+3420,Jacksonville,118
+3421,HERNDON,108
+3422,Ft. Lauderdale ,118
+3423,Gurnee,115
+3424,Washington,138
+3425,Bismarck,123
+3426,Mclean,108
+3427,Herndon ,108
+3428,Jersey City ,117
+3429,New York City,113
+3430,Parsippany,117
+3431,Fountain Valley,106
+3432,DURHAM,120
+3433,Rancho Cordova,106
+3434,Lake Oswego,130
+3435,Ashburn,108
+3436,Duluth,101
+3437,JOHNS CREEK,101
+3438,Springfield,111
+3439,HOBOKEN,117
+3440,Southington,109
+3441,Copiague ,113
+3442,DULUTH,101
+3443,Shelton ,109
+3444,Oaks,119
+3445,Cherry Hill,117
+3446,Pine Brook,117
+3447,NEWARK,137
+3448,Ann Arbor,102
+3449,WILMINGTON,120
+3450,Chattanooga,105
+3451,OWINGS MILLS,110
+3452,Coppell,107
+3453,Gold River,106
+3454,Batavia,115
+3455,Temple Terrace,118
+3456,SALT LAKE CITY,122
+3457,Madison Heights,102
+3458,West Chicago,115
+3459,BELLEVUE,114
+3460,High Point,120
+3461,Rahway,117
+3462,Plymouth,102
+3463,Solon,131
+3464,El Segundo,106
+3465,Apt. 610,117
+3466,Tamarac ,118
+3467,Lubbock,107
+3468,Norfolk,108
+3469,AUGUSTA,101
+3470,Brookline,103
+3471,Vienna,108
+3472,Newark ,137
+3473,Lake Geneva,139
+3474,BROOKLYN,113
+3475,Livonia,102
+3476,EDINA,104
+3477,Folsom,106
+3478,Carrollton ,107
+3479,Houston ,107
+3480,Santa Monica,106
+3481, Bellevue,114
+3482, Phoenix,121
+3483,La Habra,106
+3484,RENSSELEAR,113
+3485,Bowling Green,116
+3486,SUNNYVALE,106
+3487, Woodland Hills,106
+3488, Seattle,114
+3489,Montgomery,124
+3490,MACON,101
+3491,Monett,111
+3492,SEATTLE,114
+3493,Brea,106
+3494,Lake Forest,115
+3495,"Peoria, IL",115
+3496,Johnston,129
+3497,PHOENIX,121
+3498,Horsham,119
+3499,The Colony,107
+3500,Green Bay,139
+3501,Center Point,124
+3502,FORT MEADE,118
+3503,Greenville,107
+3504,Raritan,117
+3505,Lewis Center,131
+3506,Newark,117
+3507,SAvannah,101
+3508,Mahwah,117
+3509,South Plainfield,117
+3510,Kirkland,114
+3511,Dayton,131
+3512,Rockford,115
+3513,Cleveland,131
+3514,WOODLAND HILLS,106
+3515,Doral,118
+3516,Lehi,122
+3517,Rantoul,115
+3518,Farmington,102
+3519,Austin ,107
+3520,Huntersville,120
+3521,San Rafael,106
+3522,"Columbus, ",131
+3523,HOLLY SPRINGS,120
+3524,UNIVERSITY PARK,119
+3525,Goodyear,121
+3526,West Palm Beach,118
+3527,MASON,131
+3528,East Chicago,135
+3529,Brawley,106
+3530,COLUMBUS,135
+3531,Lincolnshire,115
+3532,Cedar Rapids,129
+3533,Fort Wayne,135
+3534,Elmira,113
+3535,Arlington,108
+3536,Roseville,104
+3537,"Bridgewater,",117
+3538,MEMPHIS,105
+3539,Stamford,109
+3540,Oakdale,104
+3541,FRISCO ,107
+3542,Pensacola,118
+3543,White Plains,113
+3544,Nashville ,105
+3545,Cos Cob,109
+3546,Greensboro,120
+3547,Branchburg,117
+3548,Cranbury,117
+3549,Apex ,120
+3550,GRAND RAPIDS,102
+3551,Orange,117
+3552, New York,113
+3553,East Hartford,109
+3554,Edison ,117
+3555,Sunnyvale ,106
+3556,Kent,114
+3557,Sandy Springs,101
+3558,Boca Raton,118
+3559,Longwood,118
+3560,New Brunswick,117
+3561,SUNRISE,118
+3562,Tampa ,118
+3563,McLean ,108
+3564,Blacksburg,108
+3565,"Chicago, ",115
+3566,Vernon,109
+3567,Reno,140
+3568,Fort Worth ,107
+3569,SCHAUMBURG,115
+3570,"Carmel, ",135
+3571,"Englewood, ",132
+3572,Hamilton,117
+3573,Oakland,106
+3574,DePere,139
+3575,BOCA RATON,118
+3576,Carmel,135
+3577,RIVERTON,122
+3578,Okemos,102
+3579, Mooresville,120
+3580,RICHMOND,108
+3581,San Carlos,106
+3582,Centerbrook,109
+3583,Conroe,107
+3584,North Little Rock,142
+3585,"Sun Prairie,",139
+3586,Clark,117
+3587,Melville,113
+3588,New York ,113
+3589, Englewood,132
+3590,Milford,131
+3591,MANCHESTER,109
+3592,Enfield,109
+3593,HAYWARD,106
+3594,Merrimack,125
+3595,Maumee,131
+3596, Vernon Hills,115
+3597,Salt Lake City,122
+3598,Murphy,107
+3599,Rutherford,117
+3600,Altamonte Springs,118
+3601,Norwood,103
+3602,REDMOND,114
+3603,Woodbridge Township,117
+3604,CHANDLER,121
+3605,Westford,103
+3606,HOUSTON,107
+3607,Lone Tree,132
+3608,Ocala,118
+3609,Lansing,102
+3610,Bedford,103
+3611,MCKINNEY,107
+3612,Brandon,118
+3613,BEDFORD,103
+3614,Mossville,115
+3615,Gallup,143
+3616, Bentonville,142
+3617,Brighton,103
+3618,TRUCKEE ,106
+3619,North Reading,103
+3620,Sterling ,115
+3621,Prosper,107
+3622,Carrollton,107
+3623,Kalamazoo,102
+3624,Fort Lauderdale,118
+3625,New Hope,104
+3626,Wilmington,131
+3627,WOBURN,103
+3628,North Haven,109
+3629,Newtown,119
+3630,Glen Allen,108
+3631,Seatlle,114
+3632,CAMBRIDGE,103
+3633,St. Louis ,111
+3634,Clarksburg,110
+3635,HOFFMAN ESTATES,115
+3636,HILLSBOROUGH,117
+3637,Santa Ana,106
+3638,Newport Beach,106
+3639,Christiansburg,108
+3640,Riverwoods ,115
+3641,New Hill,120
+3642,Lincoln,127
+3643,San Francisco ,106
+3644,Plymouth,104
+3645,Naperville,115
+3646,NEW HAVEN,109
+3647,EDISON,117
+3648,Georgetown,116
+3649,Rolling Meadows ,115
+3650,Northville Twp,102
+3651,Buffalo Grove,115
+3652,Rosemont,115
+3653,Westlake,107
+3654,Chesterfield,111
+3655,Middletown,117
+3656,Dublin,106
+3657,Boxborough,103
+3658,Naples,118
+3659,Plantation,118
+3660,West Columbia,134
+3661,Harrison,117
+3662,Jackson,144
+3663,SAN FRANCISCO ,106
+3664,Maricopa,121
+3665,Hoboken ,117
+3666,Hoffman Estates,115
+3667,San Diego ,106
+3668,Kentfield,106
+3669, Los Angeles,106
+3670,MEDLEY ,118
+3671,Phoenix ,121
+3672,Dania Beach,118
+3673,Annapolis,110
+3674,Thousand Oaks,106
+3675,Columbus,101
+3676,Aberdeen,145
+3677,JUNO BEACH,118
+3678,Holtville,106
+3679,newark,117
+3680,Coral Springs,118
+3681,Gainesville,118
+3682,Redwood City ,106
+3683,Arlington,105
+3684,Maplewood,104
+3685,Toledo ,131
+3686,GLENDALE,106
+3687,WHEELING,115
+3688,Manchester,109
+3689,Eden Prairie,104
+3690,Brookline,125
+3691,Ogden,122
+3692,Boca Raton ,118
+3693,Buffalo,113
+3694,WAUKESHA,139
+3695,FOLSOM,106
+3696,LEXINGTON,116
+3697,Tomball,107
+3698,Issaquah,114
+3699,BLOOMFIELD ,117
+3700,DePere ,139
+3701,CHICAGO,115
+3702,St. Paul,104
+3703,Little Ferry,117
+3704,Livermore,106
+3705,Atlanta ,101
+3706,Aurora,132
+3707,Marietta,101
+3708,Mediacom Park,113
+3709,BATON ROUGE,133
+3710,Bethesda,110
+3711,Oak Creek,139
+3712,Oklahoma City,112
+3713,Boston ,103
+3714,NEWTON,103
+3715,Garland,107
+3716,FOSTER CITY,106
+3717,Farmington,122
+3718,Plymouth ,104
+3719,Nashua,125
+3720,SHALIMAR,118
+3721,University,144
+3722,EAST PEORIA,115
+3723,Grapevine,107
+3724,Auburn,124
+3725,Morgantown,146
+3726,Moline,115
+3727,Snoqualmie,114
+3728,DES PLAINES ,115
+3729,Newton,103
+3730,Covington,133
+3731,Alameda,106
+3732,SPRINGFIELD,103
+3733,Roseville,106
+3734,SANTA BARBARA ,106
+3735,SPRINGFIELD ,103
+3736,Williamsburg,108
+3737,DEERFIELD,115
+3738,Northborough,103
+3739,Glen Allen ,108
+3740,Woodcliff Lake,117
+3741,Knoxville,105
+3742,GLENALLEN,108
+3743,New Haven,109
+3744,FRESNO,106
+3745,PINEVILLE,133
+3746,WEST HOUSTON,107
+3747,Enola,119
+3748,Warren,117
+3749,REDWOOD CITY,106
+3750,Greenville,134
+3751,BETHLEHEM,119
+3752,Redmond ,114
+3753,GREENSBORO,120
+3754,PARAMUS,117
+3755,Glenview,115
+3756,Norristown,119
+3757,Rancho Cucamonga ,106
+3758,Malta,113
+3759,Fenton,111
+3760,Wilton,109
+3761,BLOOMINGTON,115
+3762,Maryland Heights,111
+3763,Worcester,103
+3764,Tracy,106
+3765,Newton,117
+3766,Cincinatti,131
+3767,Audubon,119
+3768,New Providence,117
+3769,CINCINNATI,131
+3770,Downers Grove,115
+3771,Renton,114
+3772,Westbury,113
+3773,BRONX,113
+3774,Mason,102
+3775,Chandler ,121
+3776,Ronkonkoma,113
+3777,Chester,108
+3778,Hopkinton,103
+3779,New Braunfels,107
+3780,LAKE FOREST,115
+3781,Sugar Land,107
+3782,Florham Park,117
+3783,Belmont,103
+3784,Pennington,117
+3785,Exton ,119
+3786,MINNEAPOLIS,104
+3787,Tarrytown,113
+3788,SANTA MONICA,106
+3789,WEST PALM BEACH ,118
+3790,Burlington,129
+3791,Astoria,113
+3792,Harrison,113
+3793,Woburn,103
+3794,MOKENA,115
+3795,Kennesaw,101
+3796, Hopkinton,103
+3797,MURPHY,107
+3798,Round Lake,115
+3799,East Brunswick,117
+3800,Pekin,115
+3801,Downingtown,119
+3802,Basking Ridge,117
+3803,Keene,125
+3804,Alvin,107
+3805,DETROIT,102
+3806,BEAVERTON,130
+3807,Marquette,102
+3808,Powell,131
+3809,Woodbury,104
+3810,Normal,115
+3811,NEWPORT BEACH,106
+3812,Greenbelt,110
+3813, Basking Ridge,117
+3814,Lisle ,115
+3815,RICHARDSON ,107
+3816,West Sacramento,106
+3817,Scarsdale,113
+3818,Rochelle Park,117
+3819,EAST MEADOW,113
+3820,BRANDON,118
+3821,SUMMIT,117
+3822,Pleasant Valley,113
+3823,MIRAMAR,118
+3824,Calabasas,106
+3825,Lacey’s Spring,124
+3826,RICHARDSON,107
+3827,PORTLAND,130
+3828,Augusta ,147
+3829,Deerfield Beach,118
+3830,Brownsburg,135
+3831,DUBLIN,131
+3832,Bristol,119
+3833,ROANOKE,107
+3834,Novi,102
+3835,Boulder,132
+3836,Parker,132
+3837,Midland,102
+3838,Norman,112
+3839,West Lafayette,135
+3840,University Park,119
+3841,"Morgantown, Monogalia ",146
+3842,Fort Mill,134
+3843,Natick,103
+3844,IRVING ,107
+3845,Washington DC ,138
+3846,Creve Coeur,111
+3847,Albuquerque,143
+3848,OVERLAND,128
+3849,Pleasanton ,106
+3850,LEWISVILLE ,107
+3851,SACRAMENTO,106
+3852,FAIRFAX,108
+3853,Ventura,106
+3854,Roseland,117
+3855,BLOOMFIELD,109
+3856,MOUNTAIN HOUSE,106
+3857,Richmond Hill,113
+3858,Woodland Hills,106
+3859,Broomfield,132
+3860,Pontiac,102
+3861,Batesville,135
+3862,GARLAND,107
+3863,Williamsville,113
+3864,San Juan Capistrano,106
+3865,Montgomeryville,119
+3866,Everett,103
+3867,Watertown,103
+3868,Petersburg,108
+3869,Rochester,113
+3870, San Francisco,106
+3871,NASHVILLE,105
+3872,Rensselaer,113
+3873,O’Fallon,111
+3874,Carlisle,119
+3875,Montclair,117
+3876,PLEASANTON,106
+3877,North Las Vegas,140
+3878,Mt. Pleasant,139
+3879,Hayward,106
+3880,Arlington Heights,115
+3881,Richmond,107
+3882,Newtown Square,119
+3883,Irmo,134
+3884,Copley,131
+3885,ADDISON,107
+3886,City of Industry,106
+3887,Indian Land,134
+3888,ROYAL CITY,114
+3889,Warren,102
+3890,GLEN ALLEN,108
+3891,WOONSOCKET,136
+3892,Andover,103
+3893,Gambier,131
+3894,Mountlake Terrace,114
+3895,EAST HANOVER,117
+3896,Arlington ,108
+3897,Webster,103
+3898,Morris Plains,117
+3899,Bethpage,113
+3900,PLEASANTON ,106
+3901,Brookfield,139
+3902,FOXBORO,103
+3903,Cambridge ,103
+3904,South Windsor,109
+3905,Northbrook ,115
+3906,PASADENA,106
+3907,Eagan,104
+3908,Franklin Lakes,117
+3909,JESSUP,119
+3910,PLYMOUTH,104
+3911,Prior Lake,104
+3912,Frederick,110
+3913,Greenwich,109
+3914,Queens,113
+3915,Goleta,106
+3916,Venice,106
+3917, Annandale,108
+3918,Manassas,108
+3919,Wheaton,115
+3920,Henderson,120
+3921,Dunwoody,101
+3922,Cincinnati ,131
+3923,OKEMOS,102
+3924,WEEKHAWKEN,117
+3925,Spring Hill,118
+3926,Windsor Mill,110
+3927,Pittsburgh ,119
+3928,BALTIMORE,110
+3929,Eden Prairie ,104
+3930,Midvale,122
+3931,Allendale,117
+3932,WINDSOR,109
+3933,Englewood Cliffs,117
+3934,SUSSEX,139
+3935,Tysons,108
+3936,Arcadia ,106
+3937,Sugarland,107
+3938,Lafayette,133
+3939,LAS VEGAS,140
+3940,LITTLE ROCK,142
+3941,BROOKLYN,131
+3942,Richland,144
+3943,MALVERN,119
+3944,Neptune,117
+3945,Greenwood,135
+3946,Santa Clara ,106
+3947,Palm Springs,106
+3948,INDIANAPOLIS,135
+3949,North Quincy,103
+3950,San Jose ,106
+3951,Holland,102
+3952,Miamisburg,131
+3953,Matawan,117
+3954,Los Gatos,106
+3955,Red Hook,113
+3956,Beltsville,110
+3957,College Grove,105
+3958,Chatham,117
+3959,chandler,121
+3960,herndon,108
+3961,Long Island City,113
+3962,Conway,142
+3963,The Woodlands,107
+3964,Lake Forest,106
+3965,Brentwood,106
+3966,BURLINGTON,148
+3967,Ofallon,111
+3968,Iowa City,129
+3969,Madison,135
+3970,Budd Lake,117
+3971,CULVER CITY,106
+3972,Scranton,119
+3973,CHICAGO ,115
+3974,Vance,124
+3975,Sanjose	,106
+3976,BRIDGEWATER TOWNSHIP,117
+3977,Deerfield,115
+3978,Somerset,117
+3979,Warrensburg,111
+3980,PRINCETON,117
+3981,Tallahassee,118
+3982,La Jolla,106
+3983,WALTHAM,103
+3984,Loveland,132
+3985,Hartford ,109
+3986,FORT LAUDERDALE ,118
+3987,Morris Plains ,117
+3988,King of Prussia ,119
+3989,Wixom,102
+3990,St. Petersburg,118
+3991,KING OF PRUSSIA,119
+3992,Modesto,106
+3993,King Of Prussia,119
+3994, Pittsburgh,119
+3995,Washington DC,138
+3996,Largo,110
+3997,MILPITAS,106
+3998,Commack,113
+3999,portland,130
+4000,MEDLEY,118
+4001,East Greenwich,136
+4002,Sparta,117
+4003,Washington ,138
+4004,Woodbridge,117
+4005,"Rancho Cordova, ",106
+4006,ARLINGTON HEIGHTS,115
+4007,Indianola,119
+4008,Augusta,101
+4009,Westlake Village,106
+4010,St. Charles,111
+4011,Mesquite,107
+4012,RICHFIELD,104
+4013,Leesburg,108
+4014,PITTSBURGH,119
+4015,Bothell,114
+4016,Willowbrook,115
+4017,STATEN ISLAND,113
+4018,Monterey Park,106
+4019,OVERLAND PARK,128
+4020,Trenton,102
+4021,Chelmsford,103
+4022,Fairless Hills,119
+4023,Canton,102
+4024,SOMERSET,117
+4025,Burlington,148
+4026,Fairfield,117
+4027,LOS ANGELES,106
+4028,PISCATAWAY,117
+4029,Saint Charles,111
+4030,Johns Creek,101
+4031,CHESTERBROOK,119
+4032,EXTON,119
+4033,Centennial ,132
+4034,Lehigh,119
+4035,Centerton,142
+4036,Wapakoneta,131
+4037,Winston Salem,120
+4038,ENGLEWOOD,132
+4039,Jarell,107
+4040,Chesterbrook,119
+4041,Los Alamos,143
+4042,BRIGHTON,102
+4043,Dodgeville,139
+4044,Westwood,103
+4045, Charlotte,120
+4046,Severance,132
+4047,Alliance,131
+4048,Mars,119
+4049,Warren,106
+4050,Tysons Corner,108
+4051,REYNOLDSBURG,131
+4052,Maple Grove,104
+4053,RADNOR,119
+4054,Columbus,127
+4055,Taos,143
+4056,Shakopee,104
+4057,West Haven,109
+4058,West Des Moines,129
+4059,Mankato,104
+4060,Louisville ,116
+4061,Rolling Meadows,115
+4062,Maplewood,117
+4063,Hudson,131
+4064,ANTIOCH,106
+4065,Parsippany ,117
+4066,BROOKFIELD,139
+4067,Waller,107
+4068,Simpsonville,134
+4069,Lakeland,118
+4070,Lonetree,132
+4071,Forest Lake,104
+4072,Mechanicsville,108
+4073,Glendale,121
+4074,TEMPE,121
+4075,Tustin,106
+4076,Kennedy Space Center,118
+4077,HOPKINS,104
+4078,Matawan ,117
+4079,HUNTERSVILLE,120
+4080,Cypress,107
+4081,Jessup,119
+4082,Ontario,106
+4083,North Brunswick,117
+4084,ST LOUIS,111
+4085,MENOMONEE FALLS,139
+4086,Oldsmar,118
+4087,Munice,135
+4088, richmond,108
+4089,Charlotte ,120
+4090,North Charleston,134
+4091,Ridgeland,144
+4092, Santa Clara,106
+4093,Rochelle,115
+4094,ANN ARBOR,102
+4095,Shalimar,118
+4096,Burlingame,106
+4097,Fayetteville,142
+4098,Norton,103
+4099,DORAL,118
+4100,Holland,131
+4101,Central Islip,113
+4102,Royal Oak,102
+4103,COPPELL,107
+4104,RANCHO CORDOVA,106
+4105,Evansville,135
+4106,HARTFORD,109
+4107,Englewood ,132
+4108,Salem,130
+4109,Rancho Cucamonga,106
+4110,El Dorado,106
+4111,Mountain House ,106
+4112,Farmington,111
+4113,Mettawa,115
+4114,Strongsville,131
+4115,DOVER,125
+4116,Hines,115
+4117,Mountain View ,106
+4118,Gettysburg,119
+4119,Monroe,120
+4120,Alexandria ,108
+4121,Jupiter,118
+4122,ARLINGTON,107
+4123,MADISON,139
+4124,Bakersfield ,106
+4125,Weslaco,107
+4126,Juno Beach,118
+4127,Kansas City,128
+4128,Wichita,128
+4129,ROUND ROCK,107
+4130,Penns Grove,117
+4131,Summit,117
+4132,Cypress,106
+4133, OKLAHOMA CITY,112
+4134,Irvine ,106
+4135,SOUTH SAN FRANCISCO,106
+4136,Wauwatosa,139
+4137,New Hudson ,102
+4138,Palm Beach Gardens,118
+4139,North Andover,103
+4140,Cincinnati (Matthews location),131
+4141,Lutz,118
+4142,Newbury Park,106
+4143,SANTA CLARITA,106
+4144,Folsom ,106
+4145,Alhambra,106
+4146,DEVON,119
+4147,PINE BROOK,117
+4148,Bagdad,121
+4149,Playa Vista,106
+4150,MANASSAS,108
+4151,Conyers,101
+4152,Syosset,113
+4153,METTAWA,115
+4154,Smyrna,101
+4155,PLAINSBORO,117
+4156,Keller,107
+4157,West Burlington,129
+4158, PHOENIX,121
+4159,Danbury,109
+4160,SANDY SPRINGS,101
+4161,Rockly Hill,109
+4162,Elkridge,110
+4163,Henrico,108
+4164,Dover,137
+4165,BENTONVILLE,142
+4166,Covina,106
+4167,Bangor,147
+4168,CRYSTAL CITY,107
+4169,Eugene,130
+4170,Snowmass Village,132
+4171,Bloomington,135
+4172,Port Angeles,114
+4173,Richland,114
+4174,Manhattan,113
+4175,Charlton,103
+4176,PORT WASHINGTON,113
+4177,JACKSONVILLE,118
+4178,Pocaello,126
+4179,Idaho Falls,126
+4180,Spartanburg,134
+4181,Euless,107
+4182,Knoxville ,105
+4183,Oviedo,118
+4184,Des Plaines,115
+4185,Warrington,119
+4186,Wilmington,120
+4187,Media,119
+4188,Delanco,117
+4189,White Bear Lake,104
+4190,CHESTNUT RIDGE,113
+4191,,107
+4192,Hendersonville,105
+4193,McDonough,101
+4194,PISCATAWAY TOWNSHIP,117
+4195,Weymouth,103
+4196,Northfield,115
+4197,Wilsonville,130
+4198,San Francsico,106
+4199,Milford,102
+4200,Santa Cruz,106
+4201,Carol Stream,115
+4202,GREAT NECK,113
+4203,Edgewood,113
+4204,BOTHELL,114
+4205,Washington D.C.,138
+4206,Mountain House,106
+4207,Kendall,118
+4208,Tualatin,130
+4209,Harvey,115
+4210,White Plains ,113
+4211,FARMINGTON,102
+4212, Edison ,117
+4213,Richmond ,108
+4214,LITTLETON,132
+4215,ROSEVILLE,106
+4216,Long Beach,106
+4217,Providence,136
+4218,Glendale,132
+4219,Riverside,106
+4220,COLMAR,119
+4221,Cleveland ,131
+4222,MISSISSIPPI STATE,144
+4223,MI,102
+4224,Northbrook,115
+4225,Mounds View,104
+4226,West New York,117
+4227,STAMFORD,109
+4228,PEARL RIVER,113
+4229, Irving,107
+4230,Monmouth Junction,117
+4231,Kankakee,115
+4232,CENTERTON,142
+4233,Marina del Rey ,106
+4234,ISSAQUAH,114
+4235,Salt Lake City ,122
+4236,Devens,103
+4237,Bedminster,117
+4238,WHITEHOUSE STATION,117
+4239,Emeryville,106
+4240,MARYLAND HEIGHTS ,111
+4241, East Palo Alto,106
+4242,Elmsford,113
+4243,MCLEAN,108
+4244,Roswell,101
+4245,Greenfield,139
+4246,Woodbridge ,117
+4247,TORRANCE,106
+4248,INSTITUTE,146
+4249,Spring,107
+4250,Exton,119
+4251,Littleton,103
+4252,Delray Beach,118
+4253,Homewood,124
+4254,Medley,118
+4255,Jacksonville Beach,118
+4256,Lindon,122
+4257,Tuscaloosa,124
+4258,ROSELAND,117
+4259,Decatur ,101
+4260,Coral Springs ,118
+4261,Denville,117
+4262,Chesapeake,108
+4263,Union City,106
+4264,Rio Rancho,143
+4265,Hilliard,131
+4266,LUTZ,118
+4267,Vernon Hills,115
+4268,"Bristol,",109
+4269,Lathrope,106
+4270,Valhalla,113
+4271,Sumner,114
+4272,Malvern ,119
+4273,Westmont ,115
+4274,CRANBERRY TOWNSHIP,119
+4275,Avon,131
+4276,Westmont,115
+4277,Johnston,136
+4278,DENVER,132
+4279,Bolingbrook,115
+4280,Mooresville,120
+4281,Wilmington,103
+4282,Studio City,106
+4283,Lynchburg,108
+4284,Lemont,115
+4285,Middleburg Heights,131
+4286,CHESTERFIELD,111
+4287,ABBOTT PARK,115
+4288,Irwindale,106
+4289,Ewing,117
+4290,RAPID CITY,145
+4291,Whitehouse Station,117
+4292,MOUNT LAUREL TOWNSHIP,117
+4293,Elkton,110
+4294,Moraine,131
+4295,Miami Gardens,118
+4296,Marina Del Rey,106
+4297,Santa Fe ,143
+4298,Weehawken,117
+4299,Duluth ,101
+4300,Brentwood,105
+4301,SANTA BARBARA,106
+4302,Northville,102
+4303,Mt. Juliet,105
+4304,WHEATON,115
+4305,Camden,117
+4306,Toledo,131
+4307,Melrose,103
+4308,Lebanon,125
+4309,Galena Park,107
+4310,Jackson ,144
+4311, Chelmsford,103
+4312,Jeffersonville,135
+4313,Deerfield ,115
+4314,Lowell,142
+4315,Hudson,139
+4316,Dubuque,129
+4317,Kershaw,134
+4318,EAGAN,104
+4319,WEEHAWKEN,117
+4320,IJAMSVILLE,110
+4321,"Dallas, ",107
+4322,Oak Brook,115
+4323,Windsor,109
+4324,Unionville,120
+4325,Liberty Lake,114
+4326,Green Bank,146
+4327,Daytona Beach,118
+4328,DEERFIELD BEACH,118
+4329,LOUISVILLE,116
+4330,Sammamish,114
+4331,Casa Grande,121
+4332,Bayonne,117
+4333,Poway,106
+4334,WEST ORANGE,117
+4335,ESTERO,118
+4336,Fontana,106
+4337,Belmont,106
+4338,Clarks Summit ,119
+4339,Richfield,131
+4340,MERRIMACK,125
+4341,Norwalk,109
+4342,Salisbury,110
+4343,Hastings,102
+4344,Miramar,118
+4345, Mountain View,106
+4346,Indian Trail,120
+4347,Des Moines ,114
+4348,Newtown,109
+4349,Concord,120
+4350,Ellicott City,110
+4351,Lake Buena Vista,118
+4352,Albuquerque ,143
+4353,Napa,106
+4354,COLLIERVILLE,105
+4355,Petaluma,106
+4356,Helotes,107
+4357,Sewell,117
+4358,Belton,107
+4359,Ukiah,106
+4360,New Richmond,139
+4361,MILWAUKEE,139
+4362,Brooklyn,131
+4363,Ridgefield,109
+4364,Chantilly,108
+4365,Galveston,107
+4366,Erie,119
+4367,TALLAHASSEE,118
+4368,Springfield,108
+4369,SPRING,107
+4370,Fayetteville,120
+4371,YPSILANTI,102
+4372,Manhattan Beach,106
+4373,Avenel,117
+4374,ORLANDO,118
+4375,Mount Laurel Township,117
+4376,Mission Viejo,106
+4377,Highland Heights,116
+4378,Hopkins,104
+4379,Minneapolis ,104
+4380, Alpharetta,101
+4381,Carlisle,129
+4382,GAITHERSBURG,110
+4383,West Allis,139
+4384,COMMERCE,106
+4385,Barrington,115
+4386,Mt. Pleasant,119
+4387,Vancouver,114
+4388,MONTVILLE,117
+4389,TRACY,106
+4390, Nashville,105
+4391,CREVE COEUR,111
+4392,Frankfort,116
+4393,Holtsville,113
+4394,Alexandria,108
+4395,UTICA,113
+4396,Medford,130
+4397,Alton,108
+4398,irving,107
+4399,Hanover,103
+4400,NEW BRITAIN,109
+4401,The Woodlands ,107
+4402,Lake Worth,118
+4403,CARLSBAD,143
+4404,CHICAGO ,115
+4405,Pleasant Prairie ,139
+4406,Mequon ,139
+4407, Lawrence,128
+4408,West Memphis,142
+4409,Paramus,117
+4410,Troy,113
+4411,BEVERLY HILLS,106
+4412,Monterey,106
+4413,BURBANK,106
+4414,Corona,106
+4415,Oregon,131
+4416,Odessa,107
+4417,Bernalillo,143
+4418,DES MOINES,114
+4419,Aubrey,107
+4420,Celina,107
+4421,Sterling,108
+4422,Leawood,128
+4423,Great Barrington,103
+4424,Benton Harbor,102
+4425,Thompson’s Station,105
+4426,Evanston,115
+4427,Stony Brook,113
+4428,WAYNE,117
+4429,Mount Juliet,105
+4430,MODESTO ,106
+4431,Novato,106
+4432,"Seattle, WA",114
+4433,Placentia,106
+4434,HOLLYWOOD ,118
+4435,California,106
+4436,PHILADELPHIA,119
+4437,Arlington ,114
+4438,ROCHESTER,113
+4439,Woonsocket,136
+4440,Port Huron,102
+4441,Carson,106
+4442,Orange,106
+4443,Parma Heights ,131
+4444,Henderson,140
+4445,Lolita,107
+4446,Bellevue ,114
+4447,Towson,110
+4448, Iselin,117
+4449,Fullerton,106
+4450,BREA,106
+4451,LOWELL,103
+4452,Blaine,104
+4453,Gilbert,121
+4454,OAK BROOK,115
+4455,Fishers,135
+4456,Wayne,119
+4457,Vacaville,106
+4458,MT PLEASANT,139
+4459,Foster City ,106
+4460,Wentzville,111
+4461,Vernon Rockville ,109
+4462,Portland,147
+4463,Winter Haven,118
+4464,Cranbury ,117
+4465,FAIRBANKS,149
+4466,ROCKVILLE,110
+4467,Webster,113
+4468,Highlands Ranch,132
+4469,Chaska,104
+4470,St. Johns,118
+4471,East Liberty,131
+4472,Denver ,132
+4473,Springfield,105
+4474,Universal City,106
+4475,HINSDALE,115
+4476,FORT WAYNE,135
+4477,Franklin Park,117
+4478, Allen Park,102
+4479,Opelika,124
+4480,MIDDLETOWN ,117
+4481,GREENWOOD VILLAGE,132
+4482,Natchez,144
+4483,Missouri City,107
+4484,Worcester ,103
+4485,San Marcos,106
+4486,Flowood,144
+4487,Ft. Worth,107
+4488,NORFOLK ,108
+4489,Clark ,117
+4490,Vestavia Hills,124
+4491,Kingsville,107
+4492," 283-299 Market Street,",117
+4493,OREM,122
+4494,GURNEE,115
+4495,Walnut,106
+4496,Arlington,107
+4497,IDAHO FALLS,126
+4498,Woodcliff,117
+4499,Reynoldsburg,131
+4500,Bloomingdale,115
+4501, Bloomingdale,115
+4502,Pflugerville,107
+4503,Morganton,120
+4504,Miamisburg ,131
+4505,Round Mountain,106
+4506,Charleston,134
+4507,Rancho Santa Margarita,106
+4508,Mesa,121
+4509,PITTSBBURGH,119
+4510,Suwanee,101
+4511,Nutley,117
+4512,Escondido,106
+4513,Brewster,113
+4514,Leetsdale,119
+4515,Ames,129
+4516,Fitchburg,139
+4517,PHOENIX ,121
+4518,Clinton,134
+4519,Itasca,115
+4520,Little Elm,107
+4521,Twinsburg,131
+4522,Independence,131
+4523,Kohler,139
+4524,Utica,113
+4525,BINGHAMTON,113
+4526,Acton,103
+4527,Dover ,125
+4528,CENTENNIAL ,132
+4529,Blue Ash,131
+4530,BEDMINISTER,117
+4531,Champaign,115
+4532,HOUSTON ,107
+4533,Annandale,108
+4534,Woodburn,130
+4535,LISLE,115
+4536,west chester,119
+4537,Olney,110
+4538,ONTARIO,106
+4539,Bear,137
+4540,Golden Valley,104
+4541,Farmers Branch,107
+4542,Redwood Shores,106
+4543,RIDGELAND,144
+4544,Westport,109
+4545,Topeka,128
+4546,WEST POINT,119
+4547,MERCED,106
+4548,Vail,132
+4549,Kentucky,116
+4550,OMAHA,127
+4551,WICHITA,128
+4552,Pittsfield,103
+4553,Bradley,115
+4554,West Palm Beach ,118
+4555,King of Prussia,119
+4556,ARLINGTON,114
+4557,Saint Davids ,119
+4558,Uniondale,113
+4559,Woodridge,115
+4560,Pleasant Prairie,139
+4561,MOORESVILLE,120
+4562,Brooklyn ,113
+4563,San Diego  ,106
+4564,Medford,103
+4565,SAN JUAN CAPISTRANO,106
+4566,Beaumont,107
+4567,HANOVER,110
+4568,Mason ,131
+4569,San Bruno ,106
+4570,POWELL,131
+4571,Chaska ,104
+4572,Provo,122
+4573,ALHAMBRA,106
+4574,austin,107
+4575,San Marcos,107
+4576,Carpentersville,115
+4577,Olathe,128
+4578,Brooklyn Park,104
+4579,HOLLYWOOD,118
+4580,Athol,103
+4581,Lakewood,132
+4582,St. Petersburg ,118
+4583,Kirkland ,114
+4584,Brisbane,106
+4585,Town and Country ,111
+4586,DELL CITY,107
+4587,Old Greenwich,109
+4588,Dover,125
+4589,MONROE,133
+4590,BASKING RIDGE,117
+4591,Bishop,107
+4592,Underwood,123
+4593,SPRINGFIELD,115
+4594,MARYSVILLE,131
+4595,SAINT LOUIS,111
+4596,SUNNYVALE ,106
+4597,SHERMAN,107
+4598,Apex,120
+4599,Draper,122
+4600,Sylmar,106
+4601,Allston,103
+4602,Lakeway,107
+4603,Davidson,120
+4604,Methuen,103
+4605,Carpinteria,106
+4606,Waukesha,139
+4607,Redford,102
+4608,MANHASSET,113
+4609,Cornelius,120
+4610,Costa Mesa,106
+4611,Gregory,107
+4612,BOCA RATON ,118
+4613,Aliso Viejo,106
+4614,ALEXANDRIA,108
+4615,Boynton Beach,118
+4616,Dunlap,115
+4617,Porterville,106
+4618,Hickory,120
+4619,Aloha,130
+4620,Columbus ,131
+4621,Reston ,108
+4622,Grapevine ,107
+4623,Westfield,135
+4624,Crofton,110
+4625,MELVILLE,113
+4626,Brookhaven,101
+4627,ALBANY,113
+4628,Hanford,106
+4629, Silver Spring,110
+4630,Tacoma,114
+4631,Rocklin,106
+4632,Sunnyvale	,106
+4633,East Windsor,109
+4634,MIDDLETOWN,117
+4635,Uniontown,119
+4636,WEST DES MOINES,129
+4637, Burlington,103
+4638,San Leandro,106
+4639,Orange City,118
+4640,Morrisville ,120
+4641,Iselin ,117
+4642,Waukegan ,115
+4643,Indianapolis ,135
+4644,Mountain VIew,106
+4645,JERSEY VILLAGE,107
+4646,SHERMAN OAKS,106
+4647,MARIETTA,101
+4648,NEW  YORK,113
+4649,Hammond,135
+4650,Lafayette ,133
+4651,PORTLAND,147
+4652,Pittsburg,119
+4653,Akron,131
+4654,Cedar Park,107
+4655,Santa Clara  ,106
+4656,Valencia,106
+4657,Aldie,108
+4658,Trevose,119
+4659,Linthicum Heights,110
+4660,FARMINGTON HILLS,102
+4661,STERLING,108
+4662,BETHESDA,110
+4663,Flint,102
+4664,Battle Creek,102
+4665,Simi Valley,106
+4666,CUMBERLAND,136
+4667,TUSCALOOSA,124
+4668,Maitland,118
+4669,Oakbrook Terrance,115
+4670,Waukesha ,139
+4671,Pleasant Grove,122
+4672,Medina,131
+4673, Merrimack,125
+4674,WEST CONSHOHOCKEN,119
+4675,Melbourne,118
+4676,VALPARAISO,135
+4677,Pewaukee,139
+4678,ORANGE,106
+4679,Kildeer,115
+4680,EVERETT,114
+4681,Cheyenne,150
+4682,Galesburg,102
+4683,Somis,106
+4684,Levittown,113
+4685,Woonsocket ,136
+4686,ALPHARETTA ,101
+4687,Chino ,106
+4688, HARTFORD ,109
+4689,Lakeville,104
+4690,Weston,103
+4691,AUSTIN ,107
+4692, Colorado Springs,132
+4693,WA,114
+4694,Charlotte,134
+4695, San Antonio,107
+4696,Davis,106
+4697,Morgantown,119
+4698,Grandville,102
+4699,Cameron,111
+4700,BUFFALO GROVE,115
+4701,FRANKLIN,139
+4702,Odgen,122
+4703,IRVING ,107
+4704,DUBLIN ,131
+4705,Mundelein,115
+4706,HENRICO,108
+4707,San Marcos ,107
+4708,Daly City,106
+4709,LEXINGTON,134
+4710,Moffett Field,106
+4711,Gretna,127
+4712,Manteca,106
+4713,Watertown,113
+4714,Lithia Springs,101
+4715,Homewood,115
+4716,Glastonbury,109
+4717,Westbrook,147
+4718,Old Tappan,117
+4719,East Dundee,115
+4720,MCLEAN ,108
+4721,Devon,119
+4722,Fort Myers,118
+4723,BALTIMORE ,110
+4724,MONTEREY,106
+4725,Upper St Clair ,119
+4726,SUGAR LAND,107
+4727,Cranberry Township,119
+4728,TRENTON,117
+4729,Honolulu,141
+4730,Bloomfield,109
+4731,Cameron,133
+4732,Berkeley ,106
+4733,North Chicago,115
+4734,New Hudson,102
+4735,DRAPER,122
+4736,Davie,118
+4737,SALISBURY,120
+4738,Hanover,125
+4739,Grandview Heights,131
+4740, Farmington Hills,102
+4741,Lombard,115
+4742,Parkland,118
+4743,Sussex,139
+4744,Tempe ,121
+4745,Tysons ,108
+4746,Collegeville,119
+4747,Stafford,107
+4748,Fort Smith,142
+4749,Huntsville,107
+4750,"Washington, D.C. ",138
+4751,Fresno,106
+4752,FORT COLLINS ,132
+4753,Wilson,120
+4754,Pompano Beach,118
+4755,Edina,104
+4756,York,119
+4757,Madera,106
+4758,GAINESVILLE,118
+4759,New Britain,109
+4760,IRIVING,107
+4761,Morristown,117
+4762,East Lansing,102
+4763,College Station ,107
+4764,BUCKHANNON,146
+4765,Loveland ,132
+4766,North Salt Lake,122
+4767,Bryan,107
+4768,Easton,119
+4769,TUSTIN,106
+4770,Downey,106
+4771,Cottonwood Heights,122
+4772,HENDERSON,140
+4773,Armonk,113
+4774,Earth City,111
+4775,Petoskey,102
+4776,Oceanside,106
+4777,Andover,113
+4778,Saint Petersburg,118
+4779,Helena,151
+4780,new york,113
+4781,Spokane,114
+4782,Shawnee,112
+4783,OAKLAND,106
+4784,Westborough ,103
+4785,Bozeman,151
+4786,Riverside,109
+4787,Allison Park,119
+4788,Marysville,106
+4789,Canton,103
+4790,Oakbrook,115
+4791,Kind of Prussia,119
+4792,Fishersville,108
+4793,ENGLEWOOD CLIFFS,117
+4794,Johnson City,113
+4795,Hudson,113
+4796,Waco,107
+4797,Seattle,106
+4798,Saginaw,102
+4799,RALEIGH,120
+4800,MADISON,117
+4801,Huntington Beach,106
+4802,ALBUQUERQUE,143
+4803,Yorktown Heights,113
+4804,NASHUA,125
+4805,NEENAH,139
+4806,GLASTONBURY,109
+4807,SIKESTON,111
+4808,Owing Mills,110
+4809,Quincy,115
+4810,CALHOUN,101
+4811,Hercules,106
+4812,Freeport,147
+4813,Ambler,119
+4814,American Fork,122
+4815,EDEN PRAIRIE,104
+4816,THOUSAND OAKS,106
+4817,West Conshohocken ,119
+4818,Maple Valley ,114
+4819,Estacada,130
+4820,Fulshear,107
+4821,Lebanon,105
+4822,Union City,117
+4823,Compton,106
+4824,Timonium,110
+4825,RTP,120
+4826,Redlands,106
+4827, West Lafayette,135
+4828,LIBERAL,128
+4829,Lehi ,122
+4830,San Francico,106
+4831,LYNNWOOD,114
+4832,Boron,106
+4833,Lynnwood,114
+4834,Reading,103
+4835,NAPERVILLE,115
+4836,Rutland,103
+4837,Nolensville ,105
+4838,Dublin ,131
+4839,Needham,103
+4840,Lincoln,136
+4841,SPRINGDALE,142
+4842,HIGHLANDS RANCH,132
+4843,Bay City,102
+4844,Arden Hills,104
+4845,WOODBURY,104
+4846,West Valley City,122
+4847,Beverly Hills,106
+4848,Rochester Hills,102
+4849,Hasbrouck Heights,117
+4850,WARREN,102
+4851,East Windsor,117
+4852,Moorestown,117
+4853,Tarzana,106
+4854,Hempstead,107
+4855,Pearland,107
+4856,Covington,116
+4857,Hudson,103
+4858,Westlake ,107
+4859,Burbank ,106
+4860,jacksonville,118
+4861,El Dorado Hills,106
+4862,MAYFIELD HEIGHTS (CLEVELAND),131
+4863,Elk Grove Village,115
+4864,Waltham ,103
+4865,Berwyn,119
+4866,Beaverman,130
+4867,Titusville,118
+4868,DES PLAINES,115
+4869, Ambler,119
+4870, Raleigh,120
+4871,COLORADO SPRINGS,132
+4872,Freemont,106
+4873,Columbia,115
+4874,BOWLING GREEN,116
+4875,Symmes Township ,131
+4876,MORTON,115
+4877,VERNON HILLS,115
+4878,WESTMONT,115
+4879,Roanoke,108
+4880,Hoboken   ,117
+4881,"Chevy Chase, ",110
+4882,Diamond Bar,106
+4883,Farmingdale,113
+4884,Forest,108
+4885,Hartland,139
+4886,Nevada City,106
+4887,Champlin,104
+4888,Foothill Ranch,106
+4889,Roanoke,107
+4890,Royersford ,119
+4891, Richardson,107
+4892,Davenport,118
+4893,Georgetown,107
+4894,Murray,122
+4895,Albion,127
+4896,Urbana,115
+4897,Woodbridge ,108
+4898,Fredericksburg,108
+4899,Clover,134
+4900,PLEASANT GROVE,122
+4901,Chapel Hill ,120
+4902,VENICE,106
+4903,Mount Arlington,117
+4904,Charlestown,103
+4905,Lowell,103
+4906,Splendora,107
+4907,SeaTac,114
+4908,Newport Beach ,106
+4909,Berenda,106
+4910,"Lamesa, ",107
+4911,Randolph,117
+4912,Fort Collins,132
+4913,COLUMBIA,110
+4914,Lawrence,103
+4915,Reisterstown,110
+4916,Rocky River,131
+4917,Bala Cynwyd,119
+4918,Syracuse,113
+4919, Troy,102
+4920,Donalsonville,101
+4921,Kenmore,114
+4922,Chillicothe,115
+4923, Watertown,103
+4924,Glen Cove,113
+4925,Saint Louis ,111
+4926,Chestnut Hill,103
+4927,ST. LOUIS,111
+4928,jersey city,117
+4929,Kenilworth,117
+4930, Irvine,106
+4931,FREMONT ,106
+4932,Vineland,117
+4933,ARLINGTON,108
+4934,El Monte,106
+4935,Roslyn Heights,113
+4936,"Richardson, ",107
+4937,Van Buren Township,102
+4938,Cypress ,107
+4939,Mineola,113
+4940,Decatur,115
+4941,Moorisville,120
+4942,KLEIN,107
+4943,ADA,102
+4944,LATHROP,106
+4945,Anchorage,149
+4946,Medway,147
+4947,Maple Grove ,104
+4948,Stevensville,102
+4949,Mattawan ,117
+4950,Maineville,131
+4951,Port Washington,113
+4952,Shrewsbury ,103
+4953, Lafayette,132
+4954,LONETREE,132
+4955,Jackson,131
+4956,Silverdale,114
+4957,New Kensington,119
+4958,LITTLE FERRY,117
+4959,"Madison Heights,",102
+4960,New Orleans,133
+4961,Lousiville,116
+4962,Keasbey,117
+4963,Orlando ,118
+4964,Sparks,140
+4965,Stevens Point,139
+4966,Plainfield,135
+4967, Seattle,103
+4968,Detroit ,102
+4969,Crystal Springs,144
+4970,Lafayette,135
+4971,FARMERS BRANCH,107
+4972,Macon,120
+4973,FAYETTEVILLE,120
+4974,WOOD DALE,115
+4975,Oshkosh,139
+4976,Levittown,119
+4977,EARTH CITY,111
+4978,Lakewood,117
+4979,BUFFALO,113
+4980,O'FALLON ,111
+4981,Paoli,119
+4982,Carlin,140
+4983,Saint Charles,115
+4984,Chesterfield,117
+4985,Baltimore ,110
+4986,Lawrenceville,117
+4987,Liberty Hill ,107
+4988,Leominster,103
+4989,CONGERS,113
+4990,Silver Spring ,110
+4991,NAUGATUCK,109
+4992,WHIPPANY,117
+4993,Exeter,125
+4994,Talent,130
+4995,PORTSMOUTH,125
+4996,Woodstock,110
+4997, Columbus,135
+4998,Olney,115
+4999,DIAMOND BAR ,106
+5000,Cockeysville,110
+5001,Holliston,103
+5002,Romeoville,115
+5003,Hauppauge,113
+5004,Charles City,113
+5005,Plymouth Meeting,119
+5006,LAUREL,110
+5007,South Jordan,122
+5008,Joplin,111
+5009,BELMONT,106
+5010,Rochester ,104
+5011,Ponte Vedra Beach,118
+5012,CEDAR PARK,107
+5013,Livingston,117
+5014,Crescent City ,106
+5015,Haltom CIty,107
+5016,Harrisburg,120
+5017,West Windsor Township,117
+5018,Riverton ,122
+5019,SAVANNAH,101
+5020,PASSAIC,117
+5021,Santa Barbara,106
+5022,Tigard,130
+5023,UNIONTOWN,119
+5024,Gainesville,107
+5025,De Pere,139
+5026,WEST VALLEY CITY,122
+5027,ALISO VIEJO,106
+5028,Orange,109
+5029,Lake Oswego ,130
+5030,West Reading,119
+5031,san Francisco,106
+5032,Mercer Island,114
+5033,Newburgh,113
+5034,Shreveport,133
+5035,Seymour,135
+5036,Northvale,117
+5037,LEBANON,117
+5038,Town and Country,111
+5039,Storrs,109
+5040,COLLEGE STATION,107
+5041,SAN MATEO,106
+5042,Kannapolis,120
+5043,Chapel Hill,120
+5044,Groton,109
+5045,Lagrange,135
+5046,Heartland,139
+5047,Olympia,114
+5048,Glendale,113
+5049,NORTH CHICAGO,115
+5050,Greer,134
+5051,Hempstead,113
+5052,East Peoria,115
+5053,SAN JOSE ,106
+5054,La Plata,110
+5055, Edgewood,113
+5056,Temple City,106
+5057,Nicholasville,116
+5058,Pineville,120
+5059, FRANKLIN LAKES,117
+5060, FARMINGTON,109
+5061,PROVIDENCE,136
+5062,THE WOODLANDS,107
+5063,Marcy,113
+5064,URBANA,115
+5065,ALLEN,107
+5066,LARKSPUR,106
+5067,BRIDGEPORT,109
+5068,VIENNA,108
+5069,Hemlock,102
+5070,Lutherville-Timonium,110
+5071,Springfield,103
+5072,Middletown,137
+5073,Chattanooga ,105
+5074,OGDEN,122
+5075,St. Augustine,118
+5076,Prineville,130
+5077,Hillsborough,117
+5078,Delaware,131
+5079,Abbott Park,115
+5080,DAYTON,117
+5081,Coraopolis,119
+5082,Landover,110
+5083,Russellville,116
+5084,SANTA ANA,106
+5085,Clawson ,102
+5086,Cumberland,110
+5087,Mifflintown,119
+5088,PLYMOUTH,102
+5089,Melrose Park,115
+5090,Old HIckory,105
+5091,Beavercreek,131
+5092,BELLE MEAD,117
+5093,PHILADELPHIA ,119
+5094,Decatur,101
+5095,Waldorf,110
+5096,Golden,132
+5097,Chelsea,103
+5098,CHARLESTON,134
+5099,Mobile,124
+5100,EL DORADO HILLS,106
+5101,Springfield,115
+5102,Frankenmuth,102
+5103,College Place,114
+5104,Hewlett,113
+5105,TEMPLE TERRACE,118
+5106,Coopersburg,119
+5107, Jacksonville,118
+5108,Sleepy Hollow,113
+5109, Plano,107
+5110,Waxahachie,107
+5111,Medina,104
+5112,Omaha,138
+5113,BALLWIN,111
+5114,Lockport,113
+5115,West Roxbury,103
+5116,Montpelier,148
+5117,Warsaw,135
+5118,Fulton,110
+5119,MARYLAND HEIGHTS,111
+5120,Langhorne,119
+5121,Poplar Bluff,111
+5122,ALBANY ,113
+5123,Jackson,102
+5124,Lake Hiawatha,117
+5125,Lawrence Township,117
+5126,SKOKIE,115
+5127,CHARLOTTE ,120
+5128,Bridgeton,117
+5129,Kingston,113
+5130,Malden,103
+5131,Cooper City,118
+5132, San Ramon ,106
+5133,DFW Airport,107
+5134,COLUMBUS,107
+5135,BLOOMINGTON ,115
+5136,MADISON ,139
+5137,Shoreview,104
+5138,St Petersburg,118
+5139,DECATUR,101
+5140,Noblesville,135
+5141,BRISTOL,109
+5142,TARRYTOWN,113
+5143, Pontiac,115
+5144,madison,139
+5145,Lynn,103
+5146,SAN CARLOS,106
+5147,"Richmond,",108
+5148,QUINCY,103
+5149,PEACHTREE CORNERS,101
+5150, Palo Alto,106
+5151,KETTERING ,131
+5152,Edgerton,128
+5153,Mayfield,116
+5154,SOUDERTON,119
+5155,West Bloomfield,102
+5156,Symmes Township,131
+5157,Southbury,109
+5158,WINDSOR MILL,110
+5159,MORRIS PLAINS,117
+5160,Potosi,111
+5161,Wichita ,128
+5162,Union,116
+5163,WILLOUGHBY HILLS,131
+5164,Overland Park  ,128
+5165,VALDOSTA,101
+5166,Peoria,121
+5167,Wyoming,102
+5168,MAYWOOD,117
+5169,Springfield,148
+5170,CRANFORD,117
+5171,HARTFORD ,109
+5172,Brockton,103
+5173,Long Island City ,113
+5174,FLORHAM PARK ,117
+5175,Middletown,113
+5176,San Antino,107
+5177,SOUTH PLAINFIELD,117
+5178,TUCSON,121
+5179,NEW YORK CITY,113
+5180,District Of Columbia,138
+5181,BERKELEY HEIGHTS,117
+5182,MIAMI GARDENS,118
+5183,Cohoes,113
+5184,LEESBURG,108
+5185,Memphis ,105
+5186,Torrington ,109
+5187,Chester Springs,119
+5188,ASHBURN,108
+5189,La Mesa,106
+5190,Marina del Rey,106
+5191,Coral Gables,118
+5192,SCOTTSDALE,121
+5193,Midlothian,108
+5194,Branford,109
+5195,Newnan,101
+5196,Galloway,117
+5197,East Falmouth,103
+5198,Belle Mead,117
+5199,Amelia,131
+5200,North Billerica,103
+5201,Southborough,103
+5202,Saint Francis,128
+5203,CEDAR RAPIDS,129
+5204,Grand Haven,102
+5205,Yorkville,139
+5206,CAMERON,133
+5207,Sellersville,119
+5208,Portsmouth,125
+5209,Nogales,121
+5210,BUDA,107
+5211,Wilson ,120
+5212,Lutherville- Timonium,110
+5213,Henrietta,113
+5214,Plainfield,115
+5215,Cleveland,105
+5216,Somerille,103
+5217,denver,132
+5218,Taylor,102
+5219,cambridge,103
+5220,Oro Valley,121
+5221,JUPITER ,118
+5222,Bentonville ,142
+5223,ERIE,119
+5224,El Paso,107
+5225,Bronx,113
+5226,Wexford,119
+5227,MAHWAH,117
+5228,cumming,101
+5229,YPSILANTI ,102
+5230,SUGARLAND,107
+5231,RIVERVIEW,118
+5232,Longmeadow,103
+5233,Cranston,136
+5234,Concord,103
+5235,Peachtree City,101
+5236,Riverside,136
+5237,Wellesley Hills,103
+5238,Buena Park,106
+5239,"Pleasanton,",106
+5240,Saugerties,113
+5241,WEYMOUTH,103
+5242,Grand Rapids ,102
+5243,Joint Base Andrews,110
+5244,CHEVY CHASE,110
+5245,Franklin,103
+5246,NORTH BRUNSWICK,117
+5247,Stuart,118
+5248,BARTLESVILLE,112
+5249,Monrovia,110
+5250,Camden,142
+5251,Farmington Hills ,102
+5252,BIRMINGHAM,124
+5253,Sutton,103
+5254,Coppell ,107
+5255,WINDERMERE,118
+5256,Monterey ,106
+5257,Riverside ,106
+5258,Dulles ,108
+5259,Villanova,119
+5260,Myrtle Beach,134
+5261,Niles,115
+5262,Farmington,109
+5263,Seatle,114
+5264,Walnut Creek ,106
+5265,EAST GREENWICH,136
+5266,West Hollywood,106
+5267,WOOD-RIDGE,117
+5268,Rhinebeck,113
+5269,HAMDEN,109
+5270,Wendell,120
+5271,BRENTWOOD,105
+5272,Duarte,106
+5273,GERMANTOWN,110
+5274,Pullman,114
+5275,Haslett,102
+5276,MIDVALE,122
+5277,Benicia,106
+5278,Saint Louis Park,104
+5279,Temple,107
+5280,NORTH KANSAS CITY,111
+5281,Fairbanks,149
+5282,PINEVILLE,120
+5283,RAYNHAM,103
+5284,Odessa,118
+5285,Greenville,120
+5286,Franklin,139
+5287,Sterling ,108
+5288,LAKEVIEW,130
+5289,Virginia,108
+5290,Ramsey,104
+5291,LAKE HIAWATHA,117
+5292,WOODBURY,113
+5293,WINSTON,101
+5294,Billerica ,103
+5295,New Castle,137
+5296,Bay Point,106
+5297,Boardman,130
+5298,Midland,107
+5299,Edinburg,107
+5300,RIDGEFIELD PARK,117
+5301,CHARLOTTESVILLE,108
+5302,Riceboro,101
+5303,KOKOMO,135
+5304,Columbia,111
+5305,Cresson,107
+5306,Valdosta,101
+5307,Chanhassen,104
+5308,Melvindale ,102
+5309,LEHI,122
+5310,Manchester,125
+5311,Windsor ,117
+5312,Mayfield Village,131
+5313,BRANCHBURG,117
+5314,Clayton,111
+5315,Eden prairie,104
+5316,Tucumcari,143
+5317,Maywood,115
+5318,Harmar,119
+5319,Monte Sereno,106
+5320,INDIAN LAND,134
+5321,PURCHASE ,113
+5322,Tualitin,130
+5323, Glastonbury,109
+5324,Culver city,106
+5325,FORT WORTH,107
+5326,Scotts Valley,106
+5327,WELLESLEY,103
+5328,Hackettstown,117
+5329,Valley,127
+5330,BRADLEY,115
+5331,South Bend,135
+5332,Elko,140
+5333,FARMINGTON,109
+5334,WAUKEGAN,115
+5335,GAINESVILLE ,118
+5336,Middlesex,117
+5337,Hebron,116
+5338,DES MOINES,129
+5339, Coppell,107
+5340,Edgewater,117
+5341, Greensboro,120
+5342,Pennsauken Township,117
+5343,INDIALANTIC,118
+5344,BAYONNE,117
+5345,Titusville,117
+5346,Stillwater,112
+5347,HIALEAH,118
+5348,Wallington,117
+5349,BLUE ASH,131
+5350,CHESTER SPRINGS,119
+5351,Somerville ,103
+5352,Fort Lee,117
+5353,MONTGOMERY COUNTY,119
+5354,JUNO BECH,118
+5355,Elk Grove,106
+5356,Wayne,127
+5357,Dallas ,107
+5358,PEORIA,115
+5359,Folsom	,106
+5360,Fairlawn,131
+5361,Selmer ,105
+5362,Millcreek,122
+5363,MARIANNA,118
+5364,Fremont ,106
+5365,Opalocka,118
+5366,FRANKFORT,116
+5367,FORT LAUDERDALE,118
+5368,Whitehall ,119
+5369," Chicago,",115
+5370,Saratoga,106
+5371,Trumbull,109
+5372,Lodi,106
+5373,RESEARCH TRIANGLE PARK,120
+5374,Hingham,103
+5375,Murrieta,106
+5376,Corvallis,130
+5377,Presto,119
+5378,Windsor Mill	,110
+5379,WINSTON-SALEM,120
+5380,Henry,115
+5381,Socorro,143
+5382,West Point,119
+5383,Santa Clarita,106
+5384,VICTORIA,104
+5385,Orono,147
+5386,MOORESTOWN,117
+5387,NEW YORK ,113
+5388,MARIANNA ,118
+5389,Franksville,139
+5390,Miami Beach,118
+5391, Menlo Park,106
+5392,Oak Ridge,120
+5393,TROY,102
+5394,Fergus Falls56537,104
+5395,Maple Shade,117
+5396,Wilder,116
+5397,GARDENA,106
+5398,ANNANDALE,108
+5399,Ellington,109
+5400,WILTON,109
+5401,Tinley Park,115
+5402,Apt. 508,103
+5403,New York City ,113
+5404,Newport News,108
+5405,Hummelstown,119
+5406,Research Triangle Park ,120
+5407,MIDDLETON,139
+5408,Hornell,113
+5409,Largo,118
+5410,Freehold,117
+5411, MCLEAN,108
+5412,BRISTOL,136
+5413, Austin,107
+5414,Hershey,119
+5415,Bethlehem,119
+5416,auxvasse,111
+5417,Peapack,117
+5418,"Levittown,",119
+5419,MILFORD,102
+5420,Waterbury,109
+5421,Mebane ,120
+5422,Olean ,113
+5423,Piqua,131
+5424,Gardena,106
+5425,GUTTENBERG,117
+5426,SAINT LOUIS PARK,104
+5427,Orem,122
+5428,New Freedom,119
+5429,Fond du Lac,139
+5430,MIDLAND,102
+5431,FRAMINGHAM,103
+5432,Franklin,135
+5433,Antigo,139
+5434,SEAL BEACH,106
+5435,GEORGETOWN,107
+5436,Cheektowaga,113
+5437,Edgewood,114
+5438,NEW YORK New York,113
+5439,Sun Prairie,139
+5440,BRANCHVILLE,117
+5441,Eau Claire,139
+5442,Buda,107
+5443,Greeley,132
+5444,COLUMBIA,115
+5445, PLANO,107
+5446,SANTA CLARA ,106
+5447,Grain Valley,111
+5448,Billerica,103
+5449,MEDINA,114
+5450,Cayce,134
+5451,Kent,131
+5452,FRANKLIN LAKES,117
+5453,Carbondale,115
+5454,PURCHASE,113
+5455,Millinocket,147
+5456,Waxhaw,120
+5457,Orangeburg,134
+5458,Allen park,102
+5459,CARLSBAD,106
+5460,Harvard,103
+5461,Vestal,113
+5462,Milford,109
+5463,Middleton,103
+5464,Salisbury ,120
+5465,Verona,108
+5466,PARSIPPANY,117
+5467,MORROW,101
+5468,Corcoran,104
+5469,Amityville,113
+5470,Hialeah,118
+5471,Bridgewater Township,117
+5472,LA VISTA,127
+5473,Eastvale,106
+5474,ATLANTA ,101
+5475,West Lake Hills,107
+5476,MUNDELEIN ,115
+5477,LAKE ZURICH,115
+5478,CHEYENNE,150
+5479,EWING TOWNSHIP,117
+5480,West Valley,122
+5481,PARKLAND,118
+5482,Hermitage,119
+5483,Lake Zurich,115
+5484,Troy ,102
+5485,State College,119
+5486,EASTON,119
+5487,St. Louis Park,104
+5488,17641 S Ashland Ave,115
+5489,West Orange,117
+5490,WEST HOLLYWOOD,106
+5491,NEWARK,106
+5492,Mount Vernon,113
+5493,TOWANDA ,119
+5494,TOWANDA,119
+5495,Roswell,143
+5496,Mckees Rocks,119
+5497,Maple Valley,114
+5498,Mexico,111
+5499,MELROSE PARK,115
+5500,LEBANON,125
+5501,Johnson City,105
+5502,South Hackensack,117
+5503,Fife,114
+5504,Colmar,119
+5505,DICKSON CITY,119
+5506, Long Beach,106
+5507,mechanicsburg,119
+5508,Key West,118
+5509,Loma Linda,106
+5510,DELAWARE,131
+5511,NORTH READING,103
+5512,Grants,143
+5513,ASHLAND,108
+5514,WESTFORD,103
+5515,Augusta,147
+5516,DORCHESTER,103
+5517,Chula Vista,106
+5518,TYSONS,108
+5519,North Richland Hills,107
+5520,Bowie,110
+5521,Fairborn,131
+5522,Bethesda ,110
+5523,Parsippany Troy Hills,117
+5524,Chamblee,101
+5525,Robinson,107
+5526,MAINEVILLE,131
+5527,Somerset ,117
+5528,Clinton,117
+5529,Rolla,123
+5530,Whitakers,120
+5531,Berrien Springs,102
+5532,Oakwood,131
+5533,Midvale ,122
+5534,Savannah,101
+5535,Bannockburn,115
+5536,Bridgewater ,117
+5537,Endicott,113
+5538,Voorhees ,117
+5539,Milton,101
+5540,Oxnard,106
+5541,Athens,131
+5542,STAFFORD,107
+5543,Middleton,139
+5544,Inver Grove Heights,104
+5545,Lansdale,119
+5546,Luling,133
+5547,CENTENNIAL,132
+5548,Diamond Bar ,106
+5549,South Weymouth,103
+5550,Edmond,112
+5551,Johns Creek ,101
+5552,Newcastle,114
+5553,Agoura Hills,106
+5554,SOUTHLAKE,107
+5555,Whitestown,135
+5556,Short Hills,117
+5557,Manchester,148
+5558,Clifton,117
+5559,Meridian,126
+5560,DELRAY BEACH,118
+5561,Thomasville,101
+5562,Ankeny,129
+5563,Charleston,146
+5564,West Point,108
+5565,Upton,113
+5566,Rock Hill,134
+5567,Sandy Hook,109
+5568,Addison ,107
+5569,Fair Oaks,106
+5570,san francisco,106
+5571,DOWNERS GROVE,115
+5572,LEWIS CENTER,131
+5573,AUGUSTA ,147
+5574,Milton,103
+5575,Social Circle,101
+5576,SOUTH WINDSOR,109
+5577,LOWELL,142
+5578,El Monte ,106
+5579,Olean,113
+5580,Clifton Heights,119
+5581,WOODLAND HILLS ,106
+5582,Hunt Valley,110
+5583,CHARLES TOWN,146
+5584,TREVOSE,119
+5585,Philadelphia ,119
+5586,Seguin,107
+5587,Delano,106
+5588,St. ATLANTA,101
+5589,Jackson Heights,113
+5590,Lenox,129
+5591,N. Royalton ,131
+5592,Longmont,132
+5593,Jamesburg,117
+5594,JOHNSTON,129
+5595,Mt. Clemens,102
+5596,Desplaines,115
+5597,CARNEGIE,119
+5598,Wayne,117
+5599,TOWSON,110
+5600,Deer Park,113
+5601,Dorchester,103
+5602,round rock,107
+5603,Fort Oglethorpe,101
+5604,MADISON HEIGHTS,102
+5605,Hiawatha,128
+5606, San Bruno,106
+5607,Latham,113
+5608,CARROLLTON,107
+5609,BEAVERCREEK,131
+5610,Pasadena ,106
+5611,Holly Springs,120
+5612,Acton ,103
+5613, SAN ANTONIO,107
+5614,New Port Richey,118
+5615,Plainsboro ,117
+5616,Caribou,147
+5617,Chino,106
+5618,ALLEGAN,102
+5619,Mount Ayr,129
+5620,Bethlehem ,119
+5621,Jersey City,113
+5622,Middletown,108
+5623,"Miramar,",118
+5624, FAIRFAX,108
+5625,RICARDSON,107
+5626,Sedona,121
+5627,Pasadena,107
+5628,Long Beach ,106
+5629,Baytown,107
+5630,DAllas,107
+5631,Tivoli,113
+5632,South Bound Brook,117
+5633,Westchester,115
+5634,Syracuse ,113
+5635,CEDAR HILL,107
+5636,fargo,123
+5637,LONG ISLAND CITY,113
+5638,SIOUX FALLS,145
+5639,San diego,106
+5640,Vista,106
+5641,Los Altos,106
+5642,North Liberty,129
+5643,MIRAMAR ,118
+5644,"Phoenix, ",121
+5645,Clearlake,106
+5646,Northville ,102
+5647,Holly,102
+5648,Mt. Airy,120
+5649,West Melbourne,118
+5650,CANTON,102
+5651,Laramie,150
+5652,Ooltewah,105
+5653,Cumberland ,136
+5654,Delray Beach ,118
+5655,West Greenwich,136
+5656,Linthicum,110
+5657,Wesley Chapel,118
+5658,Alviso,106
+5659,Menlo Park ,106
+5660,CLEARWATER,118
+5661,Somerville,117
+5662,Blackwood,117
+5663,BELLINGHAM,114
+5664,DALY CITY,106
+5665,Notre Dame,135
+5666,ROCHESTER HILLS,102
+5667,Delafield,139
+5668,Raleigh ,120
+5669,Folsom,117
+5670,Carlsbad ,106
+5671,WEST BERLIN,117
+5672,Sault Ste Marie,102
+5673,Sandusky,131
+5674,PARLIN,117
+5675,East Englewood ,132
+5676,"Smithfield,",136
+5677,"Irvine, ",106
+5678,Manhattan,128
+5679,Tyrone,143
+5680,Morenci,121
+5681,FORTWORTH,107
+5682,NORWALK,109
+5683,FRANKLIN,105
+5684,Fallbrook,106
+5685,Richardson ,107
+5686,Swiftware,119
+5687,Swiftwater,119
+5688,Boothwyn,119
+5689,Oberlin,131
+5690,BELLEUVE,114
+5691,PALM BEACH GARDENS,118
+5692,Dallas   ,107
+5693,SANTA CRUZ,106
+5694,Camp Hill,119
+5695,Talladega,124
+5696,Maryland Height,111
+5697,Willoughby,131
+5698,Wyoming,104
+5699,BRIDGEWATER,117
+5700,HUDSON,139
+5701,Skillman,117
+5702,Bloomington,104
+5703,Milford,103
+5704,METUCHEN,117
+5705,Rancho Dominguez,106
+5706,ORLANDA,118
+5707,Santa Maria,106
+5708,BLOOMINGTON,104
+5709,Sebring,118
+5710,Silver Spring,110
+5711,Tillamook,130
+5712,Columbia ,110
+5713,Jasper,135
+5714,Zachary,133
+5715,Boydton ,108
+5716,Secane,119
+5717,Alphretta,101
+5718,Abington,119
+5719,FORT MILL,134
+5720,Dover,117
+5721,Redondo Beach,106
+5722,DOWNINGTOWN,119
+5723,Mill Creek,114
+5724,woodbridge,117
+5725,Tahlequah,112
+5726,Brooklyn Center,104
+5727,Ferrum,108
+5728, Carrollton,107
+5729,Claymont,137
+5730,New Holland,119
+5731,Plano,130
+5732, Boca Raton,118
+5733,Orange Village,131
+5734,Poulsbo,114
+5735,WOOSTER,131
+5736,Fort Washington,119
+5737,Malborough,103
+5738,Schenectady,113
+5739,Garrison,123
+5740,FLORHAM PARK,117
+5741,BEDMINSTER,117
+5742,Canonsburg,119
+5743,Arcadia,106
+5744,Voorhees,117
+5745,Boxborough ,103
+5746,Hamburg,113
+5747,Wesley Chapel ,118
+5748,St Paul,104
+5749,Ft. Myers,118
+5750,DOWNINGTOWN ,119
+5751,Bristol,109
+5752,Indiana,119
+5753,Trussville,124
+5754,Hoover,124
+5755,Athens ,107
+5756,ROHNERT PARK,106
+5757,Aspen,132
+5758, East Hanover,117
+5759,Emeryville ,106
+5760,Garden City,113
+5761,West Jefferson,131
+5762,Plainville,103
+5763,Murray Hill,117
+5764,Battle Mountain,140
+5765, Cypress,106
+5766,Holmdel,117
+5767,CHARLOTTE ,120
+5768,HASTINGS ON HUDSON,113
+5769,Bonita Springs ,118
+5770,KATY,107
+5771,Richfield ,104
+5772,West Bend,139
+5773,Rosemont ,115
+5774,Schaumburg ,115
+5775,MAYFIELD HEIGHTS,131
+5776,Nixa,111
+5777, SAN JOSE,106
+5778,South Frederick,110
+5779,Colton,106
+5780,Bensalem,119
+5781,Moorpark,106
+5782,Wellesley,103
+5783,Wheeling,146
+5784,Greenville,102
+5785,Royersford,119
+5786,Northridge,106
+5787,Dearborn ,102
+5788,Oroville,114
+5789,Sudbury,103
+5790,Sunrise ,118
+5791,LAKE FOREST,106
+5792,Macomb,115
+5793,Amherst,113
+5794,JESSUP,110
+5795,EL PASO,107
+5796,Beaver Falls,119
+5797,Windham,113
+5798,Hebron,127
+5799,Sioux City,129
+5800,Cantonment,118
+5801,Moosic,119
+5802,Lewisburg,131
+5803,LAKE BLUFF,115
+5804,KOHLER,139
+5805, Folsom,106
+5806,Mount Prospect,115
+5807,Westland,102
+5808,South Amboy,117
+5809,Melville ,113
+5810,St. Garbiel,133
+5811,KALAMAZOO,102
+5812,Pella,129
+5813,"Atlanta,",101
+5814,RINGTOWN,119
+5815,Mishawaka,135
+5816,Huntington,146
+5817,Netcong,117
+5818,Penfield,113
+5819,Bridgeton,111
+5820,MALIBU,106
+5821,Pine Brook ,117
+5822,Groveport,131
+5823,Garner,120
+5824,Key Biscayne,118
+5825,ST PAUL,104
+5826,GARDEN CITY,113
+5827,Covington,114
+5828,Mattapan,103
+5829,MONROEVILLE,119
+5830,PLEASANT PRAIRIE,139
+5831,SHREWSBURY ,103
+5832,Greenland,125
+5833,Glenmoore,119
+5834,Del Mar,106
+5835,Racine,139
+5836,Newport ,130
+5837, San Jose,106
+5838,Trabuco Canyon,106
+5839,DUNWOODY,101
+5840,Redlands ,106
+5841,Bradenton,118
+5842,Mequon,139
+5843,RARITAN,117
+5844,Palo Alro,106
+5845,LIMA,131
+5846,Succasunna,117
+5847,Kingston,119
+5848,DESMOINES,129
+5849,NORCROSS,101
+5850,Marlton,117
+5851,Roaring Gap,120
+5852,Mountain view,106
+5853,Bosnall,106
+5854,SALT LAKE CITY ,122
+5855,Moon Township,119
+5856,Sanford ,118
+5857,Poali,119
+5858,Getzville,113
+5859,Park Ridge,115
+5860,Copley ,131
+5861,Hawthorne,106
+5862,Rosemead,106
+5863,Snohomish,114
+5864,Gulfport,144
+5865, SAN DIEGO,106
+5866,WESTFORD ,103
+5867,BROOKINGS,145
+5868,Lake Wylie ,134
+5869,Thoreau,143
+5870,WINSTON SALEM,120
+5871,Sabetha,128
+5872,Lansdale ,119
+5873,EVANSVILLE,135
+5874,WEST CHESTER,119
+5875,LINCOLNSHIRE ,115
+5876,Bridgewater,108
+5877,San Dimas,106
+5878,Brookshire,107
+5879,Sun City West,121
+5880,Bakesfield,106
+5881,"Parsippany, ",117
+5882,Overland,128
+5883,farmington,109
+5884,Sissonville,146
+5885,Farmington ,102
+5886,Mansfield,107
+5887,East Syracuse,113
+5888,Sherman Oaks,106
+5889,GARDEN GROVE,106
+5890,Bedford ,103
+5891,COSTA MESA,106
+5892,Falls Church ,108
+5893,Tremont,115
+5894,Devils Lake,123
+5895,Gallatin,105
+5896,Snyder,107
+5897,Guilderland,113
+5898,Naperville ,115
+5899,Fort Lauderdale ,118
+5900,Glassboro,117
+5901,Winchester,116
+5902,WATCHUNG,117
+5903, Florham Park,117
+5904,HERMITAGE,105
+5905,Batavia,131
+5906,South Lyon,102
+5907,Lake Orion,102
+5908,SALINE,102
+5909,Farmington hills,102
+5910,Newark,131
+5911,Brighton ,102
+5912,West Chester ,131
+5913,JAMAICA,113
+5914,JERSEY CITY ,117
+5915,Clearwater ,118
+5916,Arlington,103
+5917,Perrysburg,131
+5918,Lyndhurst,117
+5919,Palm Bay,118
+5920,WEST WINDSOR,117
+5921,Waterloo,139
+5922,Jarrell,107
+5923,Grand Junction,132
+5924,Riverview,118
+5925,Silver City,143
+5926,Jersey city,117
+5927,Homestead,118
+5928,Bourbonnais,115
+5929,South Portland ,147
+5930,Tucker,101
+5931,CAMBRIDGE ,103
+5932,Bowling Green ,131
+5933,North Attleborough,103
+5934,SHREWSBURY,103
+5935,MINDEN,140
+5936,Fords,117
+5937,Ripley,105
+5938,DAYTON,131
+5939,ithaca,113
+5940,Scottdale,101
+5941,CARLINVILLE,115
+5942,Trinity,118
+5943,Surfside,118
+5944,EAST HARTFORD,109
+5945,Southgate,102
+5946,Maurice,133
+5947,Texas,107
+5948,Arlington Heights ,115
+5949,Washington,101
+5950,West Springfield,103
+5951,AVENEL,117
+5952,CONCORD,125
+5953,Oak Brook ,115
+5954,Burlington,120
+5955,Urbana,110
+5956,KETTERING,131
+5957,houston,107
+5958,Rockwall,107
+5959,LITTLETON,103
+5960,Winnemucca,140
+5961,BURR RIDGE,115
+5962,Willcox,121
+5963,ROSEVILLE,104
+5964,MEDINA,131
+5965,Fairfield,106
+5966,HILLSBORO,130
+5967,Comstock Park,102
+5968,Great Neck,113
+5969, Lakeville,104
+5970,CLAREMONT,106
+5971,La Vista,127
+5972,Luling,107
+5973,Ipswich,103
+5974,East Norriton,119
+5975,UPTON,103
+5976,WOODSTOCK,101
+5977,DETROIT ,102
+5978,Glens Falls,113
+5979,Foster city,106
+5980,CARSON CITY ,140
+5981,SAN FRANICSCO,106
+5982,DUBLIN,106
+5983,Pomona,106
+5984,Cambridge,127
+5985,WEST CHESTER,131
+5986,PEORIA,121
+5987,West Hills,106
+5988,Mendota Heights,104
+5989,REDWOOD SHORES,106
+5990,Ft. Stewart,101
+5991,Nolensville,105
+5992,Carteret ,117
+5993,Oxford,102
+5994,Piscataway ,117
+5995,RICHMOND ,108
+5996,KENDALL PARK ,117
+5997,PORT  WASHINGTON,113
+5998,Morton Grove,115
+5999,HARRISBURG,120
+6000,ST. PETERSBURG,118
+6001,WARSAW,135
+6002,Brambleton,108
+6003,Newport,130
+6004,McKinney ,107
+6005,Appleton,139
+6006,Portland ,130
+6007,West Windsor,117
+6008,MORRISVILLE,119
+6009,Key Biscane,118
+6010,OKLAHOMA CITY,112
+6011,Mercerville,117
+6012,North ¿Reading,103
+6013,Quincy ,114
+6014,Holyoke,103
+6015,Sioux Falls,145
+6016,West Chester ,119
+6017,Elizabethtown,116
+6018,Lacey,114
+6019,LITTLE ROCK ,142
+6020,KANSAS CITY,128
+6021,Kennett Square ,119
+6022,FOREST CITY,129
+6023,Woodbury,113
+6024,Elmira Heights,113
+6025,Portland,107
+6026,Bellingham,114
+6027,Bellingham ,114
+6028,BLUE ISLAND,115
+6029,Point Comfort,107
+6030,Berlin,109
+6031,MERCERVILLE,117
+6032,St Cloud,118
+6033,YORKTOWN,108
+6034,Laveen,121
+6035,Warrenville,115
+6036,Greene,113
+6037,Cumberland,136
+6038,MOON TWP.,119
+6039,Cedar Falls,129
+6040,HARRISBURG,119
+6041,Newtown Square ,119
+6042,San Marino,106
+6043,Findlay,131
+6044,Century City,106
+6045,Torrance ,106
+6046,Frisco ,107
+6047,Palatine,115
+6048,Cleveland ,107
+6049,Marlborough ,103
+6050,Langeloth,119
+6051,Yankton,145
+6052,Defiance ,131
+6053,charlestown,103
+6054,Lancaster,119
+6055,Sellersvile,119
+6056, Durham,120
+6057,BENTON HARBOR,102
+6058,Hudson,125
+6059,Libertyville,115
+6060,Ashland,124
+6061,NY,113
+6062,Lorman,144
+6063,Mount Dora,118
+6064,Loveland,131
+6065,San Mateo ,106
+6066,MAPLEWOOD,104
+6067,Yonkers,113
+6068,Defiance,131
+6069, Woonsocket,136
+6070,Yuma,121
+6071,west hollywood,106
+6072,MONTEBELLO,106
+6073,Bainbridge,131
+6074,Cooperstown,113
+6075,WOODBRIDGE ,117
+6076,Sugar Hill,101
+6077,Farmers Branch ,107
+6078,Hatfield,119
+6079,ATLANTA ,101
+6080,Norfolk City,108
+6081,Manchester ,125
+6082,FT. LAUDERDALE,118
+6083,WESTON ,118
+6084,TEMECULA,106
+6085,Weldon Springs,111
+6086,Kansas City ,111
+6087,Rocky Mount,120
+6088,LEWISVILLE,107
+6089,NOV,102
+6090,Virtual Location - Florida,118
+6091,Romeo,102
+6092,SUWANEE,101
+6093,Rolla,111
+6094,Winchester,108
+6095,Hays,128
+6096,"Bellevue,",114
+6097,AMELIA,131
+6098,FINDLAY,131
+6099,Jamaica,113
+6100,HORSHAM,119
+6101,HOLTSVILLE,113
+6102,City of industry ,106
+6103,Spokane Valley,114
+6104,Saint George,122
+6105,Reading,119
+6106,Redwood Road,106
+6107,Carmichaels,119
+6108,Milan,115
+6109, Overland Park,128
+6110,Dundee,130
+6111,OAK PARK HEIGHTS,104
+6112,South Orange,117
+6113,Pleasant Hill,106
+6114,Hagerstown,110
+6115,"Seattle,",114
+6116,Ladson,134
+6117,Urbandale,129
+6118,TUKWILA,114
+6119,MODESTO,106
+6120,Virtual Location-Pennsylvania,119
+6121,TaMPA,118
+6122,WEBSTER,113
+6123,Rockland,103
+6124,Hopkins,134
+6125,Perth Amboy,117
+6126,Plymouth,139
+6127,Cochranville ,119
+6128,ROSWELL,101
+6129, WEST CHESTER,119
+6130,Orangeburg,113
+6131,Pearl River ,113
+6132,Lawrence TWP,117
+6133,LOUISVILLE ,116
+6134,Iving,107
+6135,ELMENDORF,107
+6136,LEHIGH ACRES,118
+6137,SAYREVILLE,117
+6138,WILLIAMSVILLE,113
+6139, BRIDGMAN,102
+6140,Marysville,102
+6141, Bakersfield,106
+6142,JACKSON,144
+6143,Cedar Park ,107
+6144,PEARLAND,107
+6145,"Waltham,",103
+6146,ELLICOTT CITY,110
+6147,Oakbrook Terrace,115
+6148,Norwalk,106
+6149,Burtonsville,110
+6150,San Fernando,106
+6151,HAGERSTOWN,110
+6152,Warrenville ,115
+6153,Denton,107
+6154,Las Vegas ,140
+6155,Gaston,134
+6156,Georgetown  ,107
+6157,Warr Acres,112
+6158,Montebello,106
+6159,Youngstown,131
+6160,SPARKS,140
+6161,Raynham,103
+6162,Lancaster ,119
+6163,Pfluggerville,107
+6164,AGAWAM,103
+6165,Middletown ,119
+6166,Aliso Veijo,106
+6167,Glen Burnie,110
+6168,Glendale Heights,115
+6169,Montvale,117
+6170,Maryville,111
+6171,ALAMEDA,106
+6172,Mayodan,120
+6173,Solano Beach,106
+6174,Bothell ,114
+6175,Issaquah ,114
+6176,Gwynn Oak,110
+6177,Cupertino ,106
+6178,Conway,134
+6179, Johnston,129
+6180,ELKHORN,127
+6181,Westminster,132
+6182,"Middletown Township,",117
+6183,Metairie,133
+6184,Mentor,131
+6185, IRVING,107
+6186,BENSON,104
+6187,PLANO ,107
+6188,Wheaton,123
+6189,JASPER,135
+6190,Fuquay Varina,120
+6191, Castle Pines,132
+6192,Cerritos,106
+6193,Forest City,129
+6194, Fond Du Lac,139
+6195,Willmington,137
+6196,TX,107
+6197,Castle Rock,132
+6198,"131 Morristown Rd,",117
+6199,Coming,101
+6200,South Plainfield  ,117
+6201,Lenoir,120
+6202,Bettendorf,129
+6203,Willow Grove,119
+6204,Swanton,131
+6205,Rosenberg,107
+6206,CHELSEA,103
+6207,INDIANOLA,119
+6208,BROOKLYN ,113
+6209,HARTLAND,139
+6210,N Kansas City,111
+6211,Hemet,106
+6212,GREENVILLE,134
+6213,Castro Valley,106
+6214,Warminster,119
+6215, Warsaw,135
+6216,Windsor Mill ,110
+6217,Kissimmee,118
+6218,"Flower Mound,",107
+6219,Kaukauna,139
+6220,Spring House,119
+6221,"East Brunswick,",117
+6222,Canton ,103
+6223,Durham ,120
+6224,New Haven ,109
+6225,BLAIR,134
+6226,Laguna Beach,106
+6227,"Sunnyvale,",106
+6228,newyork,113
+6229,NORTHFIELD,115
+6230,PAINTED POST,113
+6231,Nashua ,125
+6232,Cordova,105
+6233,Rollingwood,107
+6234,Southfield ,102
+6235,Canyon Country ,106
+6236,Wylie,107
+6237,Elmwood,117
+6238,fort mill,134
+6239,Briarcliff Manor,113
+6240,Shelby Township,102
+6241, Morrisville,120
+6242,DeKalb,115
+6243,Morgan Hill,106
+6244,Taylor,107
+6245,Hamilton,131
+6246,Winter Springs,118
+6247,,119
+6248,"Arlington,",108
+6249,Clay Center,128
+6250,FREDERICK,110
+6251,COLUMBUS ,131
+6252,New Jersey,117
+6253,Fort Mills,134
+6254,West Caldwell,117
+6255,BROOKLYN CENTER,104
+6256,LIVONIA,102
+6257,Brenham,107
+6258,OLEAN,113
+6259,MOUNT LAUREL,117
+6260,East Rutherford,117
+6261,Lake Saint Louis,111
+6262,Cudahy,139
+6263,New Hyde Park,113
+6264,Florence ,116
+6265,Dothan,124
+6266,Carmel ,135
+6267,NEWTOWN,119
+6268,Shelton,109
+6269,Ada,102
+6270,Southaven,144
+6271,Decorah,129
+6272,BLUE BELL,119
+6273,Pasandena,106
+6274,Dunlop,115
+6275,STAMFORD ,109
+6276,EI DORADO HILLS ,106
+6277,MC LEAN,108
+6278,Apopka,118
+6279,Dayton,117
+6280,North Kingstown,136
+6281,West Chester,131
+6282,APEX,120
+6283,St Charles,111
+6284,LATHAM,113
+6285,CARMEL,135
+6286,CLAYMONT,137
+6287,Hayti,111
+6288,Clinton,109
+6289,Pleasanton  ,106
+6290,Madison,117
+6291, Herndon,108
+6292,mountain View,106
+6293,LEANDER,107
+6294,ENOLA,119
+6295,Peoria,107
+6296,BROAD CHANNEL,113
+6297,Belfast,147
+6298,Parkersburg,146
+6299,Richmond,116
+6300,Hereford,107
+6301,DALLAS ,107
+6302,Franklin,131
+6303,Monroeville,119
+6304,"Southfield,",102
+6305,LAKE MARY,118
+6306,Vallejo,106
+6307,Middletown,119
+6308,Hillsboro ,130
+6309,Loudoun,108
+6310, San Diego,106
+6311,BUFFALO ,113
+6312,Goshen,131
+6313,San Luis Obispo,106
+6314,JEFFERSON CITY,111
+6315,Long Island,113
+6316,Overland Park ,128
+6317,HENDERSON ,140
+6318,ALLENDALE,117
+6319, Morrisville ,120
+6320,Plainfield,109
+6321,Lexington,134
+6322,Manchester,111
+6323,Claremont,106
+6324,Wilberforce,131
+6325,Sterling Heights,102
+6326,Sacramento ,106
+6327,Corvallis ,130
+6328,Huntsville,124
+6329,Hoffman Estates ,115
+6330,Randolph,103
+6331,Burr Ridge,115
+6332,CHARLESTOWN,103
+6333,GREENWICH,109
+6334,Wall Township,117
+6335,China,106
+6336,Valley View,131
+6337,Lafayette ,135
+6338,Deland,118
+6339, Jersey City,117
+6340,Woodlawn,110
+6341,OLYMPIA,114
+6342,Eagan ,104
+6343,Marysville,131
+6344,HAUPPAUGE,113
+6345,Malvern,103
+6346,Flanders,117
+6347,NORTHWEST ATLANTA,101
+6348,Northford,109
+6349,Carrizo Springs,107
+6350, Norfolk ,108
+6351,Grove City,119
+6352,Burlington,117
+6353,South Abington Township,119
+6354,Victoria ,104
+6355,New Rochelle,113
+6356,Clemson ,134
+6357,NORMAL ,115
+6358,FOXBOROUGH,103
+6359,WESTLAND,102
+6360,HACKENSACK,117
+6361,WATERTOWN,103
+6362,Santa Rosa,106
+6363,Allen Park ,102
+6364,Forth Worth,107
+6365,Byron Center,102
+6366,Concord,125
+6367,Williamsville ,113
+6368,Neenah,139
+6369,Columbus ,101
+6370,Newark ,117
+6371,Manchester,105
+6372,Groton City,109
+6373,WEST PALM BEACH,118
+6374,Channelview,107
+6375,West Point,101
+6376,Saint Johns,118
+6377,Turlock,106
+6378,Amarillo,107
+6379,Brownfield,107
+6380,Wheaton,104
+6381,BUENA PARK,106
+6382,Marina del Ray,106
+6383,Clarksville ,105
+6384,Windsor Locks,109
+6385,Carson City,140
+6386,MENLO PARK ,106
+6387,City of Industry ,106
+6388,Franklin Lakes ,117
+6389,Wilmington ,137
+6390,Mount Horeb,139
+6391,New London,109
+6392,STONEHAM,103
+6393,Jacksonville ,118
+6394,Glendale,139
+6395,Maryland Heights ,111
+6396,Spencer,135
+6397,Grafton,139
+6398,AGOURA HILLS,106
+6399,MOSSVILLE,115
+6400,Auburn,102
+6401,Pleasonton,106
+6402,Dix Hills,113
+6403,MARLBOROUGH,103
+6404,Sunnvale,106
+6405,"O'Fallon,",111
+6406,Brentwood ,105
+6407,Winter Garden,118
+6408,Clinton,129
+6409,Tega Cay,134
+6410,Clearwater,118
+6411,Dover,103
+6412,NEWBURY PARK,106
+6413,Mountainview,106
+6414,ANNAPOLIS JUNCTION,110
+6415,Rosedale,113
+6416, Jefferson City,111
+6417,Pueblo,132
+6418,Ridgefield Park,117
+6419,Heathrow,118
+6420,Carlstadt,117
+6421,MECHANICSBURG,119
+6422,Dearborn Heights,102
+6423,WEBSTER,107
+6424,Jeannette,119
+6425,BROOKLYN PARK,104
+6426,Elyria,131
+6427,South Dublin,131
+6428,SOUTH RIVER,117
+6429,Casper,150
+6430,Rochester Hills ,102
+6431,Nevada,111
+6432,Corapolis,119
+6433, NEW YORK,113
+6434,HICKORY,120
+6435,Canton ,102
+6436,FLANDERS,117
+6437,Cerritos ,106
+6438,HARRISON,117
+6439,Spicewood,107
+6440,Brookings,145
+6441,Philadlephia,119
+6442,EAST NORRITON,119
+6443,Smithtown,113
+6444,HAVRE DE GRACE,110
+6445,Gahanna,131
+6446,Wichita Falls,107
+6447,boston,103
+6448,Uniontown,131
+6449,Snellville,101
+6450,BROOMFIELD,132
+6451,Mountain Home,126
+6452,MOON TOWNSHIP,119
+6453,WAYNE,119
+6454,Stoneham,103
+6455,STATESVILLE,120
+6456,North Arlington,117
+6457,Bee Cave,107
+6458,Campbellsville,116
+6459,Presque Isle,147
+6460,Tullahoma,105
+6461,"Dallas,",107
+6462,Avone,131
+6463,Westfield Center,131
+6464,Flora,115
+6465,Robbinsville,117
+6466,BRAWLEY,106
+6467,San Antonio ,107
+6468,AUBREY,107
+6469,BOSTON ,103
+6470,New Boston,125
+6471,Ft. Lauderdale,118
+6472, Marietta,101
+6473,North Canton,131
+6474,Webberville,102
+6475,Bethesdsa,110
+6476,Flagstaff,121
+6477,BELLEVUE ,114
+6478,Webster,107
+6479,RIVERWOODS,115
+6480,Costa Mesa ,106
+6481,Loganville,101
+6482,Prinevile,130
+6483,Stratford,109
+6484,Aurora ,115
+6485,Greenville,137
+6486,Hutchinson,128
+6487,Export,119
+6488,Mableton,101
+6489,Mundelein ,115
+6490,MT LAUREL TOWNSHIP,117
+6491,WALKER,102
+6492,BLOOMINGTON ,115
+6493,Wharton,117
+6494,Hollister,106
+6495,BINGHAM FARMS,102
+6496,Kennewick,114
+6497,Norcross ,101
+6498,Cary ,120
+6499,CONSHOHOCKEN,119
+6500,Chambersburg,119
+6501,St.Louis,111
+6502,Pittsurgh,119
+6503,Pine Bluff,142
+6504,MEDFORD,103
+6505,Centerreach,113
+6506,BRIDGEWATER ,117
+6507,Sausalito,106
+6508,Waller ,107
+6509,Bridgeport,109
+6510,Olivehurst,106
+6511,ROSEDALE,113
+6512,Grand Prairie,107
+6513,Feasterville-Trevose,119
+6514,CUPERTINO ,106
+6515,Tinton Falls,117
+6516,Amherst,103
+6517, Smithfield,136
+6518,WOODCLIFF LAKE,117
+6519,Harrison,142
+6520,Northglenn,132
+6521,El¿Segundo,106
+6522, Dover ,125
+6523,EAST BRUNSWICK,117
+6524,PRINCETON ,117
+6525,AKRON,131
+6526,Williamsport,135
+6527,North Brunswick Township,117
+6528,SKILLMAN,117
+6529,Justice,115
+6530,Clarks Summit,119
+6531,RANDOLPH,117
+6532,Hamtramck,102
+6533,FEASTERVILLE-TREVOSE,119
+6534,WILMINGTON,131
+6535,Ruston,133
+6536,AURORA,115
+6537,BALDWIN ,113
+6538,Freeport,115
+6539,Princeton Junction,117
+6540,Middletown,109
+6541,Newington,125
+6542,Lake Forest ,115
+6543,NEWHALL,106
+6544,Newport,105
+6545,Montgomery ,124
+6546,WOLVERINE LAKE,102
+6547,Blairsville,101
+6548,Painted Post,113
+6549,PORT ARTHUR,107
+6550,Moses Lake,114
+6551,Paris,115
+6552, Kirkland,114
+6553,Southaven ,144
+6554,Albany,101
+6555,MCKINNEY ,107
+6556,Ballwin,111
+6557,Brighton,102
+6558,Stockton,106
+6559,Coronado,106
+6560,Suite 239,113
+6561,Coconut Grove,118
+6562,Jonesboro,142
+6563,Plummer,126
+6564,FAIRLAWN,131
+6565,Gastonia,120
+6566, COLUMBUS,135
+6567,McLeansville,120
+6568,BLAINE,104
+6569,BENNINGTON,148
+6570,Flower Mound ,107
+6571,Bryn Mawr,119
+6572,BOISE,126
+6573,Campbell ,106
+6574,TIBURON,106
+6575,Lake Mary ,118
+6576,Potomac,110
+6577,Woods Hole,103
+6578,SAN RAFAEL,106
+6579,Allegan,102
+6580,normal,115
+6581,Dublin ,106
+6582,"Camden,",117
+6583,"Plano,",107
+6584,Safety Harbor,118
+6585,Hopkinsville,116
+6586,Colombia,110
+6587,PARISPPANY,117
+6588,ACTON,103
+6589,Ewing Township,117
+6590,SOUTHFIELD,102
+6591,LINCOLNSHIRE,115
+6592,kirkland,114
+6593,Wilton ,109
+6594,Exeter,136
+6595,Olney,151
+6596,PLAINVILLE,109
+6597,Cuyahoga Falls,131
+6598,Old Hickory,105
+6599,plano,107
+6600,Panama City,118
+6601,Brecksville,131
+6602,BELLEVUE ,114
+6603,Windsor ,109
+6604, MONTGOMERY,124
+6605, Redmond,114
+6606,Harahan,133
+6607, Peachtree City,101
+6608,Port Arthur,107
+6609,North Hollywood,106
+6610,Jersey ,117
+6611,Belmont,120
+6612,GADSDEN,124
+6613,Hermitage,105
+6614,VIENNA ,108
+6615,Bakersfield,106
+6616,Overland Park,111
+6617,Centerville,131
+6618,ELLISVILLE,111
+6619,Athens,101
+6620,Lancaster,125
+6621,Biddeford,147
+6622,Florida,118
+6623,Tougaloo,144
+6624,Cottage Grove,104
+6625, ATLANTA,101
+6626,FEASTERVILLE TREVOSE,119
+6627,Mason,107
+6628,Pennington ,117
+6629,Bonney Lake,114
+6630,BRYAN,107
+6631,Longview,107
+6632,Skokie,115
+6633,Venice ,106
+6634,Magna,122
+6635,REDWOOD CITY ,106
+6636,McAllen,107
+6637,FLETCHER,120
+6638,Kutztown,119
+6639,Bonita Springs,118
+6640,BISMARCK,123
+6641,LADSON,134
+6642,O'Fallon ,111
+6643,Richmond,135
+6644,Fort Washington ,119
+6645,PROVO,122
+6646,Stone Mountain,101
+6647,Alexandria ,105
+6648,UNION CITY,106
+6649,Hopkinton ,103
+6650,Centre Hall,119
+6651,Hurst,107
+6652,Castle Pines,132
+6653,Somersworth,125
+6654,Indian Land ,134
+6655, Germantown,110
+6656,SYLMAR,106
+6657,COOPERSBURG,119
+6658,Fermont,106
+6659,Springboro,131
+6660,SARASOTA,118
+6661,SECAUCUS,117
+6662,Tobyhanna,119
+6663,RANCHO CUCAMONGA,106
+6664,Claymont ,137
+6665,CAMPBELL,106
+6666,New Bremen,131
+6667,New Yor,113
+6668,Jackson,105
+6669,Oakford,119
+6670,Huntington Beach ,106
+6671,Palmdale,106
+6672,FOREST HILLS,113
+6673,Cedar Rapids ,129
+6674,Chatsworth,106
+6675,ARDMORE,119
+6676,Avon,109
+6677,Suwanee ,101
+6678,Justin,107
+6679,CELEBRATION,118
+6680,WOODBRIDGE,108
+6681,Hewitt,117
+6682,MO,111
+6683,Sierra Vista,121
+6684,FLORENCE,134
+6685,Fairport,113
+6686,Eureka,106
+6687,Mount Kisco,113
+6688,LONGVIEW,107
+6689,EWING,117
+6690, Feasterville-Trevose,119
+6691,Ocean Springs,144
+6692,Brisbane ,106
+6693,KANSAS CITY,111
+6694,MIAMI ,118
+6695,South Frederick ,110
+6696,Bolingbrook ,115
+6697,Dedham,103
+6698,South Abington,119
+6699,O' Fallon,111
+6700,W Columbia,134
+6701,Cedar Hill,107
+6702,RINCON ,101
+6703,COLORADO,107
+6704,Bee Cave ,107
+6705,Willmington ,137
+6706,South Yarmouth,103
+6707,Forest Grove,130
+6708,Beaumont,106
+6709,"Columbia, ",111
+6710,Encinitas,106
+6711, Anaheim,106
+6712,WESTLAKE ,107
+6713,Stanford ,106
+6714,Frederick ,110
+6715,Bristol,136
+6716,PLAYA DEL REY,106
+6717,Juneau,149
+6718,West Conshohocken,119
+6719,Alamosa,132
+6720,Hendersonville,120
+6721, Hurst,107
+6722,South Pasadena,106
+6723,Hartsville,134
+6724,VENTURA,106
+6725,Scottsboro,124
+6726,Friendswood,107
+6727,ROUND ROCK ,107
+6728,Lilburn,101
+6729,VANCOUVER,114
+6730,East Orange,117
+6731,Painter,108
+6732,SILVER SPRING,108
+6733,Great Falls,151
+6734,Sykesville,110
+6735,EDISON ,117
+6736,Del Ray Beach,118
+6737,Orange City ,118
+6738,Quincy ,103
+6739,CERRITOS,106
+6740,NORTH CHARLESTON,134
+6741, Hillsboro,130
+6742,KENT,114
+6743,NEW ORLEANS,133
+6744,Burnet,107
+6745,Hapeville,101
+6746,Cooper City ,118
+6747,North Bergen,117
+6748,Ball Ground,101
+6749,West Mifflin,119
+6750,Salina,128
+6751,Chantilly ,108
+6752,Buffalo,115
+6753,Bentonvile,142
+6754,EAST SYRACUSE,113
+6755,BUENA VISTA,117
+6756,Tifton,101
+6757,Torrence,106
+6758,Bristol ,119
+6759,WILLIAMSPORT,119
+6760,Lancing,102
+6761,Belle Chasse,133
+6762,Fenton,102
+6763,Kentwood,102
+6764,Wallingford,109
+6765,Bessemer,124
+6766,FAIRFIELD,129
+6767,Alpharetta   ,101
+6768,Menands,113
+6769,MONMOUTH JCT,117
+6770,Secaucus ,117
+6771,MANTECA,106
+6772, FRISCO,107
+6773,Kansas,111
+6774,La Jolla ,106
+6775,PLAIN CITY,131
+6776,Wilmington ,103
+6777,Seminole,112
+6778,EL SOBRANTE,106
+6779,Hanover,119
+6780,SHORT HILLS,117
+6781,NASHVILLE ,105
+6782,"Tempe, ",121
+6783,Sharonville,131
+6784,Rego Park,113
+6785,PAULSBORO,117
+6786,1500,106
+6787,Neshanic Station,117
+6788,Pembroke,103
+6789,Farmers Branch TX ,107
+6790,Bensenville ,115
+6791,CARLISLE,119
+6792,SMYRNA,101
+6793,Russellville,142
+6794,Lowell,102
+6795,Raeford,120
+6796,"ALPHARETTA,",101
+6797,Macedonia,131
+6798,"San Diego, CA",106
+6799, Houston,107
+6800, Chicago,115
+6801,INVER GROVE HEIGHTS,104
+6802,HAPEVILLE,101
+6803,"San Francisco, ",106
+6804,Cherry Hill ,117
+6805, Lake Mary,118
+6806,Merced,106
+6807,ANDOVER,103
+6808,MINNETONKA,104
+6809,Dunedin,118
+6810,Erlanger ,116
+6811,Incline Village,140
+6812,Princeton ,117
+6813,Bulverde,107
+6814,North Potomac ,110
+6815,Rockaway,113
+6816,Mansfield,103
+6817,NEW YORK,117
+6818,PROSPECT HEIGHTS,115
+6819,JEFFERSONVLLE,135
+6820,WEST MELBOURNE,118
+6821,Kearney,127
+6822,Gardena ,106
+6823,Gloucester Point,108
+6824,Weymouth ,103
+6825,GREENWOOD,135
+6826, Arlington,108
+6827,WEST LAKE HILLS,107
+6828,Springdale,131
+6829,Lyons,127
+6830,CARTERSVILLE,101
+6831,LITTLE ELM,107
+6832,Williamsburg ,108
+6833,SIERRA VISTA,121
+6834,Auburn Hills ,102
+6835,Lancaster,106
+6836,Lakeport,106
+6837,GLENVIEW,115
+6838,ROCHESTER,104
+6839,Medway,103
+6840,San Joaquin,106
+6841,MCDONOUGH,101
+6842,Roundrock,107
+6843,Raymond,131
+6844,South Coffeyville,112
+6845,Gloucester City,117
+6846,St. Loius,111
+6847, Naperville,115
+6848, Rocky Hill,109
+6849,N. Palm Beach,118
+6850,ELK GROVE,106
+6851,Normal ,115
+6852,Travis,107
+6853,PFlugerville,107
+6854,GAINESVILLE ,107
+6855,SYRACUSE,113
+6856,Algonac,102
+6857,Linwood,119
+6858,Atlantis,118
+6859,Miami  lakes,118
+6860,Beachwood,131
+6861,Elizabeth,117
+6862,Kettering,131
+6863,Taylors,134
+6864,Winchester,103
+6865,Egg Harbor Township,117
+6866,Parsipanny,117
+6867,North Atlanta,101
+6868,Newton,120
+6869,ROCKLIN,106
+6870,SCHENECTADY,113
+6871,Roanoke ,107
+6872,"HICKSVILLE, ",113
+6873,RAYMOND,131
+6874,Zuni,143
+6875,Byron,101
+6876,VISTA,106
+6877,Leesburg ,108
+6878,Tyler ,107
+6879,Westminster ,132
+6880,Long Tree,132
+6881,ROMEOVILLE,115
+6882,Charles City,129
+6883,Prospect Heights ,115
+6884,Meadville,119
+6885,Summerville,134
+6886,SAG HARBOR,113
+6887,WINTER GARDEN,118
+6888,Chesterfield ,102
+6889,Black Diamond,114
+6890,Marlboro,117
+6891,PROSPER,107
+6892,Winter Garden ,118
+6893,Riverview,102
+6894,freeport,113
+6895,BURLINGTON,120
+6896,Fowler,106
+6897,Brush Prairie,114
+6898,Avon ,131
+6899,Burlingame ,106
+6900,Corsicana,107
+6901, Burlingame,106
+6902,NUTLEY,117
+6903,MOUNDS VIEW,104
+6904,WEST LAKE,107
+6905,RAYLEIGH,120
+6906,San Ramon ,106
+6907,Mayfield,131
+6908,BURLINGAME,106
+6909,Plainwell,102
+6910,BATESVILLE,135
+6911,Berthoud,132
+6912,South Plainfield ,117
+6913,OKEMOS ,102
+6914,Mojave,106
+6915, HERNDON,108
+6916,Newton,124
+6917,"Westlake, ",107
+6918,Cranberry Twp.,119
+6919,LAKE OSWEGO,130
+6920,Winslow,121
+6921,DAVIE,118
+6922,Jericho,113
+6923,Tulare,106
+6924,Walton,116
+6925,WESTBROOK,147
+6926,CORAL GABLES,118
+6927,Quincy,114
+6928,Guilford,109
+6929,Prospect,116
+6930,MENANDS,113
+6931,Woodland ,106
+6932,SAN DIEGO ,106
+6933,Huntersville ,120
+6934,Stevenson Ranch,106
+6935,LONGMONT,132
+6936,DIAMOND BAR,106
+6937,Sammamish ,114
+6938,Irving ,107
+6939,"Durham, ",120
+6940,Sturgis,102
+6941,Upper Chichester,119
+6942,Mint Hill,120
+6943,East Moline,115
+6944,FOUNTAIN VALLEY,106
+6945,CELINA,107
+6946,WESTCHESTER ,115
+6947,NORTH ROYALTON,131
+6948,Morton,115
+6949,Cloverdale,135
+6950,Lake Panasoffkee,118
+6951,WAUWATOSA,139
+6952,Janesville,139
+6953,PLYMOUTH MEETING,119
+6954,virginia beach,108
+6955,Indialantic,118
+6956,Bensenville,115
+6957,LAFAYETTE,101
+6958,BILLERICA,103
+6959,Lees Summit,111
+6960,MIAMI BEACH,118
+6961,OLIVE BRANCH,144
+6962,Haddon Township,117
+6963,WALNUT CREEK,106
+6964,SAN LEANDRO,106
+6965,Chatham,115
+6966,RESEARCH TRIANGLE,120
+6967,MICHIGAN,135
+6968,Brookyn,113
+6969,Norwalk,131
+6970,Franklin  Park,117
+6971,RIDGEFIELD,117
+6972,BEDFORD,125
+6973,Ballston Spa,113
+6974,Rosharon ,107
+6975,PROSPER ,107
+6976,Pico Rivera,106
+6977,CARY ,120
+6978,Thomasville,120
+6979,Georgetown ,107
+6980,Guttenberg,117
+6981,Waukee ,129
+6982,Sound Beach,113
+6983,BETHPAGE,113
+6984,MAITLAND,118
+6985,Paducah,116
+6986,Warsaw ,135
+6987,Whitman,103
+6988,Northridge ,106
+6989,MILFORD ,109
+6990,Douglas,121
+6991,Morris Town,117
+6992,Snowhill,120
+6993,Excelsior Springs,111
+6994,Shelton,114
+6995,Attleboro,103
+6996,KERNERSVILLE,120
+6997,Ypsilanti,102
+6998,GA,101
+6999,North Bethesda,110
+7000,Hot Springs,142
+7001,Tampa Palms,118
+7002,NORTH BERGEN,117
+7003,Hollywood,106
+7004,BLAIRSTOWN,117
+7005,CAMDEN,117
+7006,Taylorsville,122
+7007,Chatsworth ,106
+7008,VIRGINIA BEACH,108
+7009,Marietta,119
+7010,SETTLE,114
+7011,Brea ,106
+7012,South San Francisco ,106
+7013,Winfield,128
+7014,West Trenton,117
+7015,GREER,134
+7016,WHITE PLAINS,113
+7017,Santa Monica ,106
+7018,EMERYVILLE,106
+7019,Guttenberg,129
+7020,Miami ,118
+7021,Watsonville,106
+7022,WACO,107
+7023,Deptford,117
+7024,COLUMBUS,101
+7025,PENNINGTON,117
+7026,Andrews,107
+7027,APPLETON,139
+7028,Lawrenceville,101
+7029,Princeton,107
+7030,New Britain ,109
+7031,Etters,119
+7032,FAIR LAWN,117
+7033,LOVELAND,132
+7034,Pinellas Park,118
+7035,Alpharetta,116
+7036,SALT LAKE,122
+7037,Cleveland Heights,131
+7038,HILLIARD,131
+7039,Rogers,142
+7040,1251 Hyde Street,106
+7041,	College Park,110
+7042,Rushville,135
+7043,Morrilton,142
+7044,Albany ,113
+7045,Seacaucus,117
+7046,John's Creek,101
+7047,Walpole ,103
+7048,Scottsdale ,121
+7049,CANTON,103
+7050,Temecula,106
+7051,Hobbs,143
+7052,CLEARWATER ,118
+7053,LACEY,114
+7054,Mokena,115
+7055,Danville,119
+7056,Dodgeville ,139
+7057,Happy Valley,130
+7058,WALLINGFORD,109
+7059,Groton,108
+7060,"Plano, ",107
+7061,JEFFERSONVILLE,135
+7062,NEW HYDE PARK,113
+7063,Hammond,133
+7064,ST.LOUIS,111
+7065,San Gabriel,106
+7066,Ashburn ,108
+7067,Germantown,113
+7068,Long Valley,117
+7069,West Newton,103
+7070,Smyrna,105
+7071,CLIFTON,117
+7072,Norwood ,103
+7073, DE PERE,139
+7074,Torrington,109
+7075,OLDSMAR,118
+7076,Greenwood Village ,132
+7077, Brooklyn,113
+7078,Glen Mills,119
+7079,McDonald,119
+7080,St peters,111
+7081,Riverdale,110
+7082,  New York City  ,113
+7083,Westlake ,131
+7084,Passaic,117
+7085,Highland,113
+7086,ROCKFORD,115
+7087,"Red Hook,",113
+7088,Jefferson city,111
+7089,CA,106
+7090,Nashua,117
+7091,St Louis ,111
+7092,SANFORD,118
+7093,MIAMISBURG,131
+7094,MUNSTER,135
+7095,Clermont,113
+7096,Winter Park,118
+7097,EAST LOS ANGELES,106
+7098,SOUTHFIELD ,102
+7099,"SAN JOSE, CA",106
+7100,Euless ,107
+7101,Franklin,108
+7102,Delaware ,131
+7103,NORTHBROOK,115
+7104,Goodlettsville,105
+7105,Marion,131
+7106,Winona,104
+7107,TULSA,112
+7108,Landover ,110
+7109,Erie,132
+7110,MIDDLETOWN TOWNSHIP,117
+7111,BERKELEY,106
+7112,Silver Springs,110
+7113,Galveston ,107
+7114,Port Charlotte,118
+7115,Douglasville,101
+7116,Cheshire,109
+7117,Birmingham,102
+7118,Suite 302,105
+7119,Gaithersburg ,110
+7120,Dunn Loring,108
+7121,South Portland,147
+7122,Sparta,139
+7123,Bloomsburg,119
+7124,Schamburg ,115
+7125,Pittsford,113
+7126,STILLWATER,104
+7127,HOLBROOK ,113
+7128,Roseland ,117
+7129,COLONIA,117
+7130,Tewksbury ,103
+7131,OAKS,119
+7132,Voorhees Township,117
+7133,KNOXVILLE,105
+7134,Denton ,107
+7135,San Bernardino,106
+7136,Centreville,108
+7137,REDMONFD,114
+7138,Wyoming,136
+7139,HARRIS,104
+7140,"New York, NY",113
+7141,Selinsgrove,119
+7142,La Mirada,106
+7143, Milwaukee,139
+7144,Andover ,103
+7145,MALDEN,103
+7146,Whittier,106
+7147,PERRYSBURG,131
+7148, Acton,103
+7149,Bingham Farms,102
+7150,Holbrook,103
+7151,PEACHTREE CITY,101
+7152,Tarrytown ,113
+7153,Tehachapi,106
+7154,Paso Robles,106
+7155,"Austin,",107
+7156,Jefferson City,111
+7157,Banning,106
+7158,Lawton,112
+7159,Hollysprings,120
+7160,Grand Ledge,102
+7161, Miami,118
+7162,Sacrament,106
+7163,River Ridge,133
+7164,SANTA ROSA,106
+7165,Los Angeles  ,106
+7166,Catonsville,110
+7167,EDISON     ,117
+7168,Hermitage ,105
+7169,Knoxville,119
+7170,Altoona,119
+7171,Fayetteville,101
+7172,Converse,107
+7173,TROY,113
+7174,Midland,101
+7175,Ontario ,106
+7176,Natchitoches,133
+7177,Minnesota,104
+7178,Cummings,101
+7179,SAMMAMISH,114
+7180,Pinebrook,117
+7181,Sagamore Beach,103
+7182,Williamstown,103
+7183,Asheville,120
+7184,WHITTIE,106
+7185,Salem,125
+7186,CRANBURY,117
+7187,Mt. Laurel,117
+7188,Hamden,109
+7189,Kenosha,139
+7190,ALTAMOTNESPRINGS,118
+7191,WALTHAM ,103
+7192,ROSEMONT,115
+7193,Clovis,143
+7194,Gladstone,117
+7195,GETZVILLE,113
+7196,Parisppany,117
+7197,HOLBROOK,113
+7198,York,134
+7199,Saint Joseph,102
+7200,Scotch Plains,117
+7201, LOUISVILLE,116
+7202,Waverly,129
+7203,Wakefield,103
+7204, LAKELAND,118
+7205,Burke,108
+7206,#19820 FARMINGTON HILLS MSA,102
+7207,Bemidji,104
+7208,Plano,117
+7209, San Jose ,106
+7210,San Juan,107
+7211, Dallas,107
+7212,Oldsmar ,118
+7213,North Miami,118
+7214,Chino Hills,106
+7215,Orange Village ,131
+7216,MANSFIELD CENTER,109
+7217,Breinigsville,119
+7218,Cranberry Township ,119
+7219,Pataskala ,131
+7220,"Sunnyvale, ",106
+7221,Wilsonville ,130
+7222,Mckinney ,107
+7223,Santa Clara University,106
+7224, Lynnwood,114
+7225,MOUNT PROSPECT,115
+7226,LOS Angeles,106
+7227,Marriottsville,110
+7228,Logan,146
+7229,Houma,133
+7230,Port St. Lucie,118
+7231,MESA,121
+7232,Richford,148
+7233,GILBERT,121
+7234,Wyandotte,102
+7235,Delran,117
+7236,Milwaukee ,139
+7237,New berlin,139
+7238,Elkin,120
+7239,Liverpool,113
+7240,Hull,103
+7241,Jessup,110
+7242,Pennsauken,117
+7243,NEEDHAM,103
+7244,PFLUGERVILLE,107
+7245,Briarcliff,107
+7246, Farmers Branch,107
+7247,INWOOD,146
+7248, Pearland,107
+7249,Lake Bluff,115
+7250,Canoga Park,106
+7251,Osceola,142
+7252,Bloomfield Hills,102
+7253,WEST POINT ,101
+7254,Sugar Land ,107
+7255,Brookville,113
+7256,ITASCA,115
+7257,Martinsburg,146
+7258,ROANOKE,108
+7259,Walla Walla,114
+7260,Phillipsburg,117
+7261,Live Oak,107
+7262,Chicopee,103
+7263,San Franisco,106
+7264,Burlington ,103
+7265,Artesia,106
+7266,Round Rock ,107
+7267,Floral Park,113
+7268,AUDUBON,110
+7269,BENTONVILLE ,142
+7270,Marble Falls,107
+7271,LongBeach,106
+7272,Murfreesboro,105
+7273,Boyds,110
+7274,Spring Valley,113
+7275,MISSION ,128
+7276,POMPANO BEACH,118
+7277,St. Joseph,102
+7278,Alma,102
+7279,FALLS CHURCH,108
+7280,Highland Heights,131
+7281,Keosauqua,129
+7282,Bridgewater,103
+7283,SANTA CLAR,106
+7284,Zionsville,135
+7285,ENCINO,106
+7286,St. Peters,111
+7287,Highlands Ranch ,132
+7288,Broomfield ,132
+7289,Freedom,119
+7290,"San Francisco,",106
+7291,Monroe,114
+7292,WILDWOOD,111
+7293,WHEELING ,115
+7294,Crozet,108
+7295,WEST BEND,139
+7296,Salt Lake ,122
+7297,Breckenridge,132
+7298,Stoughton ,103
+7299, Princeton,117
+7300,BLAIRSVILLE,101
+7301,Grover,111
+7302,Alto,102
+7303,ST. PAUL,104
+7304,LAKELAND,118
+7305,Lawrence Township ,117
+7306,MINOT,123
+7307,Chulavista,106
+7308,Surprise,121
+7309,Prince Frederick,110
+7310,Sarasota,118
+7311,Berlin,148
+7312,TRAVERSE CITY,102
+7313,BONNEY LAKE  ,114
+7314,Youngsville,133
+7315,Sturtevant,139
+7316,Shawnee,128
+7317, Reston,108
+7318,MIDDLETOWN,109
+7319,Hurstbourne,116
+7320,South Lebanon,131
+7321,New Brighton,104
+7322,KENNESAW,101
+7323,Uxbridge ,103
+7324,HARRISON ,117
+7325,Bridgeview,115
+7326,Wexford ,119
+7327,Boise City,126
+7328,MONROE TOWNSHIP,117
+7329,Lawrence ,103
+7330,"Hagerstown,",110
+7331,CORONA,106
+7332,Easton,110
+7333,Gloucester,103
+7334,Ridgewood,117
+7335,LANSDALE ,119
+7336,CUMMING ,101
+7337,RESTON ,108
+7338,Lakewood,131
+7339,princeton,117
+7340, CUMMING,101
+7341,HANOVER,119
+7342,AMHERST,103
+7343,SANTA CLARA   ,106
+7344,ST PETERSBURG,118
+7345,BRIGHTON,103
+7346,REDMOND ,114
+7347,Peabody,103
+7348," Atlanta,",101
+7349,Palos Heights,115
+7350,Logan,122
+7351,WESTWOOD,103
+7352,Williamsport,119
+7353,Lincoln ,127
+7354,Port Orange,118
+7355,PUYALLUP,114
+7356,"Newark, ",137
+7357,Auburndale,103
+7358,Union ,134
+7359,RICHARDSON ,107
+7360,Farmington ,109
+7361,Nesconset,113
+7362,Riverton,122
+7363,Sewickley,119
+7364,Wyckoff,117
+7365,La Palma,106
+7366,Encino,106
+7367,Melbourne Village,118
+7368,Laguna Hills,106
+7369,Fulton ,110
+7370,MILTON ,101
+7371,Umatilla,130
+7372,Berkeley,111
+7373,Manhatten,113
+7374,Windermere,118
+7375,Grovetown,101
+7376,"Chicago,",115
+7377,ISLAND PARK,113
+7378,Atchison,128
+7379,Dresher,119
+7380,Clemson,134
+7381,Twin Falls,126
+7382,"WASHINGTON, D.C.",138
+7383,Eugene ,130
+7384,Columbia ,134
+7385,WATERLOO,129
+7386,CENTERVILLE,105
+7387,Stafford,108
+7388,BOston,103
+7389,VISALIA,106
+7390,Sanford,102
+7391, Indianapolis,135
+7392,Westlake,131
+7393,Olive Branch,144
+7394,RENO,140
+7395, Piscataway,117
+7396,LIve Oak,106
+7397,METAIRIE,133
+7398,Wilkes-Barre,119
+7399,Menomonie,139
+7400,Chalfont,119
+7401,Huntington ,146
+7402,Ewing ,117
+7403,Springfield ,103
+7404,Eureka,140
+7405,Gaithsburg,110
+7406, DALLAS,107
+7407,Columbia,105
+7408,Big Rock,105
+7409,EL MONTE,106
+7410,ARCADIA,106
+7411,OSCODA,102
+7412,Oklahoma,112
+7413,Martinez,106
+7414, Kirkland  ,114
+7415,Lincolnton,120
+7416,MINNEAPOLIS ,104
+7417,HIllsboro,130
+7418,Tewksbury,103
+7419,SPRING ,107
+7420,Rock Point,121
+7421,Vista ,106
+7422,Telford,119
+7423,Shelbyville,135
+7424,Thousand Oaks ,106
+7425,RAMSEY,117
+7426,Hawthorne,113
+7427,North RichlandsHills,107
+7428,NEWYORK,113
+7429,Borger,107
+7430,Charlottesville,135
+7431,Temple,119
+7432,Lexington ,103
+7433,FOLSOM ,106
+7434,Thibodaux,133
+7435,West Chester Township,131
+7436,NORTHVILLE,102
+7437, Chandler,121
+7438,San Fransisco,106
+7439,Winsted,109
+7440,Farmer's Branch,107
+7441,WORTHINGTON,131
+7442,Revere,103
+7443,BAINBRIDGE     ,131
+7444,Cedar Grove,117
+7445,Beaverton ,130
+7446,Lebanon,117
+7447,Gray Court,134
+7448,Chelsea,102
+7449,Mission,128
+7450,WESTBOROUGH,103
+7451,Fort Mill ,134
+7452,North Royalton,131
+7453,chicago,115
+7454,HOPKINTON,103
+7455,Sunnyvalle,106
+7456,Stennis Space Center,144
+7457,NEW CASTLE,137
+7458,Fort Washington,110
+7459,Roanoke,135
+7460,SILOAM SPRINGS,142
+7461,EDGEWATER,118
+7462,MOUNTLAKE TERRACE,114
+7463,Vermillion,145
+7464,Aventura,118
+7465, Boston,103
+7466,ST. LOUIS ,111
+7467,STROUDSBURG ,119
+7468,Mount Laurel ,117
+7469,Wilson,150
+7470,MA,103
+7471,St Charles,115
+7472,Johns Creeek,101
+7473,WASHINGTON D.C.,138
+7474,Saratoga Springs,113
+7475,West  Sacramento ,106
+7476,Macungie,119
+7477,Wayzata,104
+7478,Canton,101
+7479,RICHBURG,134
+7480,La Jara,132
+7481,Centerville,105
+7482, Cary,120
+7483,Duluth,104
+7484,    Frisco,107
+7485,BANNOCKBURN,115
+7486,Sugar Hill ,101
+7487,CHELMSFORD,103
+7488,Foxboro,103
+7489,GLEN ALLEN ,108
+7490,Commack ,113
+7491,Saint Peters,111
+7492,Arab,124
+7493,St Augustine,118
+7494,Fairfax Station,108
+7495,Chanhassen ,104
+7496,Oakbrook Terrace ,115
+7497,Meadowbrook,119
+7498,Doylestown,119
+7499,PHARR,107
+7500,Palm Springs,118
+7501,Omaha ,127
+7502,West Henrietta,113
+7503,QUINCY ,103
+7504,CROSSWICKS,117
+7505,Carthage,115
+7506,Suffolk,108
+7507,Santa Monica`,106
+7508, Newport News,108
+7509,PELHAM,125
+7510,WEST HILLS ,106
+7511,North Saint Paul,104
+7512,Salem,108
+7513,Ledgewood,117
+7514,Walker ,102
+7515,Nutley ,117
+7516,MONONA,139
+7517,Durham,125
+7518,Kendall Park,117
+7519, Stratham,125
+7520, Corvallis,130
+7521,Chicago  ,115
+7522,MELISSA,107
+7523,Matthews,120
+7524,LA JOLLA ,106
+7525,Center,107
+7526,Salt Lake,122
+7527,Braintree,103
+7528,Oak creek,139
+7529,Decatur,124
+7530,LAFAYETTE,133
+7531,RENSSELAER,113
+7532,Boynton Beachg,118
+7533,Trinity,120
+7534,NW Washington,138
+7535,Pacific Palisades,106
+7536,Ann Arbor ,102
+7537, Diamond Bar,106
+7538,Rancho Mirage,106
+7539,MARINA DL REY,106
+7540,OSCEOLA,142
+7541,Westfield,117
+7542,CORNWALL,113
+7543,Saddle Brook,117
+7544,Manalapan,117
+7545,Palno,107
+7546,Pasadena,110
+7547,Lake St Louis,111
+7548,Clarksboro,117
+7549,North Adams,103
+7550,Marietta,131
+7551,Montgomery,117
+7552,Basking Ridge ,117
+7553,East Peoria ,115
+7554,AZUSA,106
+7555,Irvington,117
+7556,Blaine,114
+7557,"Irving,",107
+7558,"Franklin Lakes, NJ",117
+7559,Lakeworth,118
+7560, Fort Mill,134
+7561,QUEENS,113
+7562,Springdale,142
+7563,Old Hickory ,105
+7564,Staten Island,113
+7565,Dayton ,131
+7566,Highland Park,117
+7567,Willoughby Hills ,131
+7568,Monroe Twp.,117
+7569,LAWRENCEVILLE,117
+7570,APARTMENT #1014,117
+7571,Lexington,144
+7572,Lake Charles,133
+7573,Watchung,117
+7574,South Weymouth ,103
+7575,Dripping Springs,107
+7576,Edmonds,114
+7577,Black Mountains,120
+7578,SARATOGA,106
+7579,Northampton,119
+7580,North Tonawanda,113
+7581, Englewood Cliffs,117
+7582,Pikesville,110
+7583,Hutto,107
+7584,SALINAS,106
+7585, Baltimore,110
+7586, Baltimore ,110
+7587,SAN BRUNO,106
+7588,LA JOLLA,106
+7589,Canyon,107
+7590,APT 2817,106
+7591,Anoka,104
+7592,Hicksville,131
+7593,Harleysvlle,119
+7594,Duncan,134
+7595, Chevy Chase,110
+7596,STURTEVANT,139
+7597,CHAPEL HILL,120
+7598,Perry,118
+7599,EAST HARTFORD ,109
+7600,Tuba City,121
+7601,Moon,119
+7602,Versailles,131
+7603,DENTON,107
+7604,MILTON,101
+7605,ROBBINSVILLE,117
+7606,Novi ,102
+7607, Philadelphia,119
+7608, Woodbridge,117
+7609,Fairview,130
+7610,St Olathe  ,128
+7611,Oxford,144
+7612,FRACKVILLE,119
+7613,Kyle,107
+7614,West Desmoines,129
+7615,ENGLEWOOD CLIFFS ,117
+7616,Willoughby Hills,131
+7617,Deer Park,115
+7618,Cleveland Hts.,131
+7619,Washington,120
+7620,Elmwood Park,117
+7621,Park City,122
+7622,Louisville,144
+7623,Tooele,122
+7624,Westland ,102
+7625,South Kirkland,114
+7626,Murrieta ,106
+7627,PEAPACK,117
+7628,Mather,106
+7629,PEACHTREE CITY ,101
+7630,Creve Couer,111
+7631,FONTANA,106
+7632,Leander ,107
+7633,"Mayfield Heights, OH ",131
+7634,Montgomery,115
+7635,ST. LOUIS PARK,104
+7636,Newton,119
+7637,MIAMI     ,125
+7638,"Columbia,",134
+7639,Parlin,117
+7640,West Sacramento ,106
+7641,Chico,106
+7642,RUTHERFORD,117
+7643,Bellevue	,114
+7644, Washington,138
+7645,East Lancing,102
+7646,MILFORD,109
+7647,Bend,130
+7648,Fanwood,117
+7649,Leonardtown,110
+7650, Niskayuna,113
+7651,Birmingham ,102
+7652, Bridgewater Township,117
+7653,Mebane,120
+7654,Colorado Spring,132
+7655,Deer Park,107
+7656,CONROE,107
+7657,Suite 600,114
+7658,ARVADA,132
+7659,St Helena,106
+7660,Providence ,136
+7661,Oakland ,106
+7662, Cedar Park,107
+7663,NEWPORT NEWS,108
+7664,Concord ,106
+7665,Canton,131
+7666,Carnegie,119
+7667,Terrytown,113
+7668,SEATTLE ,114
+7669,Caledonia,102
+7670,Chandler,112
+7671,Cross Lanes,146
+7672,Concord ,120
+7673,Kokomo,135
+7674,"Port Washington, ",113
+7675,Oak Park,106
+7676,Culpeper,108
+7677,Albany,106
+7678,Claypool,121
+7679,Willmar,104
+7680,KENSINGTON,106
+7681,Wausau,139
+7682, PRINCETON JUNCTION,117
+7683,Flowermound,107
+7684,Mosel,139
+7685, Middleton,139
+7686,Mosul,139
+7687,Bountiful,122
+7688,Wood Dale,115
+7689,Victor,113
+7690,Pleasant Hill,129
+7691,FARGO,123
+7692,Schaumberg,115
+7693,Perryville,111
+7694,Christianburg,108
+7695,Prescott,121
+7696,Goodfield,115
+7697,Junction City,130
+7698,College Park,101
+7699,Arlington ,107
+7700,Woodbridge,108
+7701,St Petersburg ,118
+7702,KAUKAUNA,139
+7703,Mineral Wells,107
+7704,Suitland,110
+7705,NORMAL,115
+7706,Apple Valley,104
+7707,FOREST PARK,115
+7708,LITHIA,118
+7709,Lake Buena vista,118
+7710,CONNECTICUT,109
+7711,Tysons Corner ,108
+7712,North Grafton,103
+7713, Weehawken ,117
+7714,Springfield ,108
+7715,Salem,117
+7716,LA MIRADA,106
+7717,EDISON,107
+7718,BRENTWOOD,113
+7719,PLAINVIEW,113
+7720,Raliegh,120
+7721,Athens,105
+7722,New Market,110
+7723,Clinton Township,102
+7724,Circleville,131
+7725,Jersey City,106
+7726,SHAWNEE MISSION,128
+7727,Pleasenton,106
+7728,phoenix,121
+7729,PLAINVIEW ,113
+7730,MARYLAND,110
+7731,cincinnati,131
+7732,Tonawanda,113
+7733,CARSON CITY,140
+7734,SHARONVILLE,131
+7735,Bloomfield,117
+7736,MONTEBELLO ,106
+7737,FRANKLIN ,105
+7738,SOUTH SAN FRANCISCO ,106
+7739, Sandy,122
+7740,Clayton,120
+7741,Rocky hill,109
+7742,Swedesboro,117
+7743,LOS ALTOS,106
+7744,HERNDON ,108
+7745,BOYNTON BEACH,118
+7746,Morris,104
+7747,NORTH HOLLYWOOD,106
+7748,Foxborough,103
+7749,Springdale ,142
+7750,Cornelius,130
+7751,IRMO,134
+7752,Estero,118
+7753,WASHINGTON DC,138
+7754,MERRILLVILLE,135
+7755,Cincinati,131
+7756,Colfax,120
+7757,Riverdale,122
+7758, MORRISVILLE,120
+7759,Pinnellas park,118
+7760,Tulsa ,112
+7761,PENSACOLA,118
+7762,New City,117
+7763,Clarksville,110
+7764,ST. CHARLES,111
+7765,Bad Axe,102
+7766,Rowland Heights,106
+7767,GREGORY,107
+7768,Woodland Park,117
+7769,32746,118
+7770,DURHAM,119
+7771,MACLEAN,108
+7772,Grafton,103
+7773,Research Triangle,120
+7774,BRISTOL,105
+7775,MCDONALD,119
+7776,Monroe,133
+7777,Monmoth Jct,117
+7778,Chelmsford ,103
+7779,Ellisville,144
+7780,Chicago Heights,115
+7781,Northlake,107
+7782,  Phoenix,121
+7783,Arlingtion,108
+7784, Symmes Township,131
+7785,Alexandria,133
+7786,Wood Ridge,117
+7787,CANYON COUNTRY,106
+7788,Rome,101
+7789,Mount Pleasant,107
+7790,Cordova ,105
+7791,ERLANGER,116
+7792,Hollister,120
+7793,Lusby,110
+7794,CORAL SPRINGS,118
+7795,Pike Road,124
+7796,Los Lunas,143
+7797,orlando,118
+7798,WATERBURY,109
+7799,"Boston,      ",103
+7800,Merrimack ,125
+7801,ELK GROVE VILLAGE,115
+7802,"Eden Prairie,",104
+7803, Milpitas,106
+7804,Suite B,107
+7805,Edgewater,110
+7806,Hernon,108
+7807,HUNTINGDON,119
+7808,Thonotosassa,118
+7809,North Miami Beach,118
+7810,Bluffdale,122
+7811,"Stony Brook, NY ",113
+7812,Germanton,110
+7813,Pikesville ,110
+7814,Webster ,103
+7815,MOUNTAIN VIEW ,106
+7816,Fountainville,119
+7817,New Castle ,137
+7818,Berkley,102
+7819,Charlottesville ,108
+7820,Auburn,114
+7821,Verona ,139
+7822,Kingman,121
+7823,Chesterfield ,111
+7824,Inglewood,106
+7825,Pollocksville,120
+7826,Bar Harbor,147
+7827,CONCORD,106
+7828,Seattle WA ,114
+7829,Lake Villa,115
+7830,Phoenixville,119
+7831,Ste. Genevieve,111
+7832,Mishawaka ,135
+7833,Hampton,108
+7834,JACKSONVILLE ,118
+7835,Groton,103
+7836, Duluth,101
+7837,BENSENVILLE,115
+7838,Manchester ,109
+7839,Parsippany-Troy Hills,117
+7840,West Hollywood ,106
+7841,Moreno Valley,106
+7842,ATTLEBORO,103
+7843,Trophy Club,107
+7844,COLLEGEVILLE,119
+7845,Berkely,106
+7846,Front Royal,108
+7847,WOOD RIDGE,117
+7848,Washington,108
+7849,DANVILLE,119
+7850,College Park ,110
+7851,Morganville,117
+7852,Seffner,118
+7853,Jaffrey,125
+7854,Maumelle,142
+7855,La Crosse,139
+7856,Green Brook,117
+7857,MARICOPA,121
+7858,Opa-Locka,118
+7859,ROCK ISLAND,115
+7860,west valley City,122
+7861,Marion,129
+7862," Louisville,",116
+7863,Commerce City,132
+7864,MISSION VIEJO,106
+7865,Cincinnatti,131
+7866,Virginia Gardens,118
+7867,Boone,120
+7868,Carteret,117
+7869, Louisville,116
+7870,LENEXA,128
+7871,Mt. Vernon,114
+7872,CLARKSBURG,110
+7873,MOORPARK,106
+7874,Salinas,106
+7875,"Vienna,",108
+7876,Northeast Sandy Springs,101
+7877,Medford,117
+7878,Wildwood,111
+7879, Tempe,121
+7880,Whitehall,119
+7881,Basking Rodge,117
+7882,Florence,134
+7883,AVENTURA,118
+7884,Los Banos,106
+7885,Newtonville,103
+7886,TIFTON,101
+7887,El Dorado Hills ,106
+7888,Mansfield ,103
+7889,Ladera Ranch,106
+7890,SAINT AUGUSTINE ,118
+7891,POWAY,106
+7892,Vernon Hill,115
+7893,High Point ,120
+7894,Rancho Santa Margarita ,106
+7895,NORTH HAVEN,109
+7896,SPARTANBURG,134
+7897,"Columbus,",131
+7898,Visalia,106
+7899,Evergreen,132
+7900,Shelbyville,105
+7901,phoenix ,121
+7902,"Winston-Salem,",120
+7903,Cincinanti,131
+7904,Indian Trail ,120
+7905,PARSIPANNY,117
+7906,Mamaroneck,113
+7907,WILSON,120
+7908,SWANSEA,103
+7909,San Pedro,106
+7910,OAK PARK,106
+7911,Sturevant,139
+7912,SECANE,119
+7913,St. Leo,118
+7914,Abilene,107
+7915,Statesville,120
+7916,"Piscataway,",117
+7917,Grover Beach,106
+7918,La Palma ,106
+7919,Buford,101
+7920,Ridgecrest,106
+7921,PEKIN,115
+7922,CANYON ,107
+7923,Newton,128
+7924,Dalllas,107
+7925,Beverly,103
+7926, INDIANAPOLIS,135
+7927,Villa Park,115
+7928,BOSTON (ALLSTON),103
+7929,Larchmont,113
+7930,STEPHENVILLE,107
+7931,Sleepy Eye,104
+7932,Springfield,130
+7933,Woodstock,115
+7934,WALNUT,106
+7935,Cookeville,105
+7936,Schaumnburg,115
+7937,Lutherville Timonium,110
+7938,West Hartford,109
+7939,OAK PARK,115
+7940,Corning,113
+7941,WESTCHESTER,115
+7942,La Vergne,105
+7943,South Salt Lake City,122
+7944,Sabine Pass,107
+7945,Shoreline,114
+7946,Hallandale Beach,118
+7947,Montgomery Village,110
+7948,Altadena,106
+7949,Bristol,125
+7950,URBANDALE,129
+7951, Seattle ,114
+7952,Bellbrook,131
+7953,las Vegas,140
+7954,Waukee,129
+7955,Birmingham ,124
+7956,LOWELL ,142
+7957,Wheat Ridge,132
+7958,SPRINGFIELD,111
+7959,MALVERN ,119
+7960, Austin ,107
+7961,Port Sulphur,133
+7962, Falls Church ,108
+7963,LOS ALAMOS,143
+7964,Burlington Township,117
+7965,Durant,112
+7966,GREENWOOD VILLAGE ,132
+7967,North Miami ,118
+7968,Abbott Park Road,115
+7969,CHAMBERSBURG,119
+7970,Covington ,101
+7971,Palm Beach,118
+7972, The Woodlands,107
+7973,Colleyville,107
+7974,Norwich,109
+7975,Waterford,102
+7976,Lindsay,106
+7977,Belmont ,106
+7978,Parma Heights,131
+7979,Ferndale,114
+7980,MT. AIRY,120
+7981,Westwood,117
+7982,Rochester ,113
+7983,Miwaukee,139
+7984,Arlington Hts,115
+7985, Grinnell,129
+7986,Ellisville,111
+7987,Clarksville,105
+7988,Farmimgton,102
+7989,Niles,102
+7990,Thornton,132
+7991,Big Rapids,102
+7992,Greenville ,134
+7993,St. Charlotte,120
+7994,East Granby,109
+7995,HOOVER,124
+7996,Coos Bay,130
+7997,windsor,109
+7998,Schuamburg,115
+7999,Scahumburg,115
+8000,Schaumbrug,115
+8001,Lemont Furnace,119
+8002,Douglassville,119
+8003,CITY OF INDUSTRY,106
+8004,SPRING VALLEY,113
+8005,CLEVELAND,144
+8006,Telluride,132
+8007,O'Fallon,115
+8008,ALPHARETTA ,101
+8009,MONMOUTH JUNCTION,117
+8010,Apt 15 Bentonville,142
+8011,RiverRidge,133
+8012,Loves Park,115
+8013,MUNDELEIN,115
+8014,Washinton,114
+8015,North Olmsted,131
+8016,Framingham ,103
+8017,Overland Parks,128
+8018,Gainesville,108
+8019,Grand Island,127
+8020,North Providence ,136
+8021,Pennsburg,119
+8022,College Point,113
+8023,Washington,111
+8024,INDIANAPOLIS ,135
+8025,TAVARES,118
+8026,West Jacksonville,118
+8027,ISELIN ,117
+8028,Elkins Park,119
+8029,Denver City,107
+8030,Newton ,128
+8031,East Meadow,113
+8032,Grendale,106
+8033, North Reading,103
+8034,East Clayton,120
+8035,NATICK,103
+8036,Dearborn City,102
+8037,Mountain  View,106
+8038,GAINESVILLE ,108
+8039,Shaker Hts.,131
+8040,West Lake,107
+8041,PLAINFIELD,135
+8042,CLINTON,113
+8043,Avon Lake,131
+8044,Bartlesville,112
+8045,Purchase ,113
+8046,Los  Angeles,106
+8047,Middletown ,137
+8048,NAPERVILLE ,115
+8049,Muskogee,112
+8050,Wyomissing,119
+8051,Mattawan,102
+8052,TAMPA ,118
+8053,Bay City,139
+8054,Chester,119
+8055,Medina ,104
+8056,Moscow,126
+8057, ST Louis,111
+8058,Bismarck ,123
+8059,Fox River Grove,115
+8060,Goshen,135
+8061,Munster,135
+8062,Springdsale,142
+8063, Bloomington,115
+8064,72712,142
+8065, 1000 Lowe's Boulevard,120
+8066,Garden Grove,106
+8067,Fortworth,107
+8068,Norwell,103
+8069, Dublin ,106
+8070,Los Angeles,140
+8071,Auburn,106
+8072,West Covina,106
+8073,FARMINGTON HILLS ,102
+8074,SANFORD,120
+8075,Normal,124
+8076,Dultuh,101
+8077,Edgewater Park,117
+8078, Winchestreeter,116
+8079,BRIDGEVILLE,119
+8080,"Sunnyvale, CA",106
+8081,los angeles,106
+8082,Moraga,106
+8083,Woodinville,114
+8084,MEQUON,139
+8085,THE COLONY,107
+8086,Romulus,102
+8087,Washington,114
+8088,Suite 800,102
+8089,Ashland,130
+8090, Ellicott City,110
+8091,Hyattsville,110
+8092,Charlestown ,103
+8093,STOCKBRIDGE,102
+8094,Saint Augustine,118
+8095,Brdgeport,109
+8096,EAST WAREHAM,103
+8097,Coleman,107
+8098,Sarpy,127
+8099,Sanger,106
+8100,North Babylon,113
+8101,Pacifica,106
+8102,ARMONK,113
+8103,Eden,120
+8104,Highland Park,102
+8105,Montclair,106
+8106,BERWYN,119
+8107,GRAPEVINE,107
+8108,Grayling,102
+8109,Toms River,117
+8110,SOUTHBOROUGH,103
+8111,Brooklyn ,131
+8112,Eagle,126
+8113,Rock Tavern ,113
+8114,Salisbury Cove,147
+8115,Harper Woods,102
+8116,Longview ,107
+8117,Coolidge,121
+8118,NEW HOLLAND,119
+8119,Elkins,146
+8120,San Angelo,107
+8121,Lenexa ,128
+8122,CLAYTON,111
+8123,Liberal,128
+8124, Greenwood Village,132
+8125,Paterson,117
+8126,Lewisport,116
+8127,SOUTH JORDAN,122
+8128,Malibu,106
+8129,FORT LEE,117
+8130,CHANHASSEN,104
+8131,DUNCAN,134
+8132,Statesboro,101
+8133,Monaca ,119
+8134,Southgate,106
+8135,Moosic Park,119
+8136,Hockessin,137
+8137,Liberty Hill,107
+8138,Jackson ,102
+8139,Ft Lauderdale,118
+8140,Carver,104
+8141,Sachse,107
+8142,Newburgh,135
+8143, Indian Land,134
+8144,East Palo Alto ,106
+8145,hartford,109
+8146,Orrville,131
+8147,Scottdale,121
+8148, SANTA CLARA,106
+8149,ALbany,113
+8150, Denver,132
+8151,Safford,121
+8152,Groveton,125
+8153,Live Oak,106
+8154,Manhatan,128
+8155,Seatte,114
+8156,Cliffside Park,117
+8157,Sanford,120
+8158,Nacogdoches,107
+8159,VERNON,106
+8160,Milipitas,106
+8161,Greenfield ,106
+8162,HOCKLEY,107
+8163,Lindenhurst,113
+8164, East Windsor,117
+8165, Newton,120
+8166,Manitowoc,139
+8167,Santa Fe,143
+8168,Mississippi State,144
+8169,Water Valley,144
+8170,Seneca,134
+8171,Middleburg,108
+8172, Piscataway ,117
+8173,BIRMINGHAM ,124
+8174,WASHINGTON,114
+8175,Marshfield,139
+8176,Rosharon,107
+8177,Saint Paul ,104
+8178,WATERTOWN,113
+8179,PARSIPPANY ,117
+8180,Albany,130
+8181,REDLANDS,106
+8182,Richfiled,104
+8183,Monroe,102
+8184,Porter Ranch,106
+8185,South Burlington,148
+8186,SAN MARCOS,106
+8187,"Houston,",107
+8188,SCHAUMBURG ,115
+8189,Monterey Park ,106
+8190,Washginton,138
+8191,Canton,113
+8192,Dimondale,102
+8193,WARREN,142
+8194,Lantana,107
+8195, Beaverton,130
+8196,Mounds Viewv,104
+8197,JOHNSTOWN,132
+8198,LANCASTER,113
+8199,"Philadelphia,",119
+8200,Brown Deer,139
+8201,San Marcos ,106
+8202,Ridgeville,134
+8203,SPRINGS ALTAMONTE ,118
+8204,Little Falls,117
+8205,Audubon ,119
+8206,South Windsor ,109
+8207,Mt. Pleasant,105
+8208,Farmville,108
+8209,Hillsborough,120
+8210,TOPEKA,128
+8211,Owings Mills ,110
+8212,New Berlin,139
+8213,Juno,118
+8214, New York ,113
+8215,"Durham, NC",120
+8216,Floor 2,103
+8217,Madison,145
+8218,Beverly Hills,107
+8219,Wappingers Falls,113
+8220,Orange County,106
+8221,Plymouth,103
+8222,FERNDALE,114
+8223,Brunswick,131
+8224,Cupertinon,106
+8225, Batavia,131
+8226,Rapid City,145
+8227,Ona,118
+8228,EAST RUTHERFORD,117
+8229,Millbrae,106
+8230,Western Springs,115
+8231,Elkhart ,135
+8232,Bowling Green,131
+8233, Kansas City,111
+8234,Wimauma,118
+8235,Bohemia,113
+8236,Mobile ,124
+8237,JACKSON,102
+8238,Sterling,115
+8239,St. Peter,104
+8240,Bethesday,110
+8241,Greenfield,135
+8242,Palmer,103
+8243,North Platte,127
+8244,East Amherst,113
+8245,Clay,113
+8246,Lambertville,117
+8247,GREEN BAY,139
+8248,Emporia,128
+8249,DEARBORN HEIGHTS,102
+8250,HANOVER ,110
+8251,WARRENDALE ,119
+8252,Miami Lakes,118
+8253,Jackosnville,118
+8254,CARROLLTON ,107
+8255,MORRISTOWN,117
+8256,Alabaster,124
+8257,WHITESTOWN,135
+8258,Baldwin Park,106
+8259,SAN LUIS OBISPO,106
+8260,DANBURY,109
+8261,Livonia ,102
+8262,Pembroke,120
+8263,Bartlett,115
+8264,Saint Augustine ,118
+8265,Ganado,121
+8266, Parsippany,117
+8267,Saint  Louis,111
+8268,Elkton,108
+8269,Peekskill,113
+8270,Stephenville,107
+8271,Bellefontaine,131
+8272,Bushland,107
+8273,Van Buren Charter Township,102
+8274,Dodge Center,104
+8275,Bristol,135
+8276,Williston,148
+8277,Long Branch ,117
+8278,Houghton,102
+8279,Asbury Park,117
+8280,North Maple Grove ,104
+8281,North Potomac,110
+8282,APPLE VALLEY,104
+8283,Spearman,107
+8284, Bedford,103
+8285,Denver City,132
+8286,Ocoee,118
+8287,Suite 260,105
+8288,Arlington,121
+8289,Lihue,141
+8290,ELKRIDGE,110
+8291,ASTORIA,113
+8292,Littleton ,132
+8293,Barstow,106
+8294,Norfolk ,108
+8295,"Hopkins,",104
+8296,Tyler,107
+8297,clinton,129
+8298,Ellisville ,111
+8299,Jenkintown,119
+8300,Mountain View,114
+8301,Seymour,105
+8302, WYLIE,107
+8303,Lakeville,103
+8304,Monaca,119
+8305,King of Purssia,119
+8306,LARGO,118
+8307,WINCHESTER,103
+8308,Sharon,103
+8309,MANCHESTER,125
+8310,W. Columbia,134
+8311,santa monica,106
+8312,ATHOL,103
+8313,Kennett Square,119
+8314,Grimes,129
+8315,Fayetteville ,142
+8316,Pahrump,140
+8317,Marion,115
+8318,Las Vegas,143
+8319,Mount Pleasant,102
+8320,Saratoga Springs,122
+8321,River Falls,139
+8322,Binghamton,113
+8323,Superior,139
+8324,Plainville,109
+8325,Platteville,139
+8326,newburg,111
+8327,Danville,115
+8328,Westfied,135
+8329,PRIOR LAKE,104
+8330,La Verne,106
+8331,WEST MELBOURNE ,118
+8332,LELAND,144
+8333,Gainesville,101
+8334,UNIVERSAL CITY,106
+8335,Kearney,111
+8336,Newberry ,134
+8337,North Bay Village,118
+8338, Clarksburg,110
+8339,CAMARILLO,106
+8340,LIVERMORE,106
+8341,Rancho Palos Verdes,106
+8342,Paincourtville,133
+8343,SUPERIOR TOWNSHIP,102
+8344, Natick,103
+8345,HEATHROW,118
+8346,Rumford,136
+8347,ELLENSBURG,114
+8348,19820 DETROIT MSA,102
+8349,Harrisburg ,119
+8350,WARRENDALE,119
+8351,Menifee,106
+8352,RUSTON,133
+8353, Malvern,119
+8354,Terre Haute,135
+8355,Sandy springs,101
+8356,Weston ,118
+8357,NORTH BRUNSWICK ,117
+8358,Mountain Lakes,117
+8359,BROOKHAVEN,101
+8360,Henrico ,108
+8361, LEANDER,107
+8362,Rutland,148
+8363,Braselton,101
+8364,HAMILTON,117
+8365,TACOMA,114
+8366,Potomac Falls,108
+8367,Little Elm ,107
+8368,Sandwich,115
+8369,Bargersville,135
+8370,Somerst,117
+8371,New Philadelphia,131
+8372,MANHATTAN BEACH,106
+8373,NORTH CAROLINA,120
+8374,San Rafael ,106
+8375,New Paltz,113
+8376,Hattiesburg,144
+8377,TITUSVILLE,117
+8378,osceola,142
+8379, Atlanta,101
+8380,Kirksville,111
+8381,YONKERS,113
+8382,JAMESTOWN,120
+8383,Boerne,107
+8384,Wayne ,119
+8385,Tempe  ,121
+8386,Suite 201,106
+8387,Palo Alo,106
+8388,North Augusta,134
+8389,Delhi,113
+8390,Elmhust,113
+8391,CYPRESS,106
+8392,Northbridge,103
+8393,New Yok,113
+8394,Apt. 1717,110
+8395, Newport Beach,106
+8396,Mukilteo,114
+8397,Freeport,107
+8398,"New Haven, CT",109
+8399,Mclean ,108
+8400,GREENSBORO ,120
+8401,Palisades Park,117
+8402,City Point,103
+8403,Stamford ,109
+8404,Sparks Glencoe,110
+8405,TAYLOR,102
+8406,PALM BAY,118
+8407,CLIFTON ,117
+8408,JEFFERSON HILLS,119
+8409,Gretna,133
+8410,Roslindale,103
+8411,LITCHFIELD PARK,121
+8412,Milford ,109
+8413,Central lslip,113
+8414,Vineyard,122
+8415,Madison Heights ,102
+8416,Troy,124
+8417,St Menomonie ,139
+8418,Graniteville,134
+8419,"San Antonio,",107
+8420,"Jersey City,",117
+8421,Mesa ,121
+8422,St Joseph,102
+8423,Bottineau,123
+8424,St. Albans,148
+8425,Montville,117
+8426,Bay Saint Louis,144
+8427,District of Columbia,138
+8428,Angleton,107
+8429,Atlantic Highlands,117
+8430,St. Louis Park ,104
+8431,Louis Park ,104
+8432,Suite G300,107
+8433,MT. LAUREL,117
+8434,Broomall,119
+8435,Boonton,117
+8436,Bridgewater Townshi,117
+8437,Coral Gables ,118
+8438,Leonardo,117
+8439,St. Helena,106
+8440,Grass Lake,102
+8441,North Plains,130
+8442,Dexter,102
+8443,Siwanee,101
+8444,Oneonta,113
+8445,Klamath Falls,130
+8446, Ashburn,108
+8447,Nelsonville,131
+8448,East Fallowfield,119
+8449,Lincoln,106
+8450,ROCKY HILL,109
+8451,Chapel HIll,120
+8452,NEW ALBANY,131
+8453,Riverview  ,118
+8454,SEATTLA,114
+8455,Kinnelon,117
+8456,Pleasant Hills,119
+8457,MARIETTA ,101
+8458,MT. LAUREL ,117
+8459,  Seattle,114
+8460,Pittsburg,128
+8461," Irving,",107
+8462,East Newark,117
+8463,Zanesville,131
+8464,Belleville,102
+8465,Walker,102
+8466,Niskayuna,113
+8467,Golconda,140
+8468,Saylorsburg,119
+8469,Austin,104
+8470,UNION CITY,117
+8471,Champaign ,115
+8472,Uhrichsville,131
+8473,McDonald ,119
+8474,Lewis Center ,131
+8475,Amherst ,103
+8476,Cincinnnati,131
+8477,East Durham,113
+8478,#41740 SAN DIEGO CA MSA,106
+8479,Sonora,106
+8480,Suite 213,121
+8481,Knightdale,120
+8482,Pennsylvania,119
+8483,Newbury,106
+8484,Broomfiled,132
+8485,Grove City,131
+8486,Lincolnshire ,115
+8487,FLOWER MOUND,107
+8488,Brookfield ,139
+8489,Big Bear City,106
+8490,Lithia,118
+8491,NJ,117
+8492,Ruidoso,143
+8493,OCALA,118
+8494,O'FALLEN,111
+8495,HAMILTON ,117
+8496,"San Carlos, ",106
+8497,Idaho ,126
+8498,Mansfield,131
+8499,Randolph,148
+8500,Dover,131
+8501,ACWORTH ,101
+8502,Altanta,101
+8503," Atlanta, ",101
+8504,SALEM,130
+8505,Mossville ,115
+8506,Westlake TX,107
+8507,"New York, ",113
+8508,Saint Joseph,111
+8509,Bellevuee,114
+8510,Cedar Knolls,117
+8511,Woodcliff Lake ,117
+8512, Eden Prairie ,104
+8513, Woburn,103
+8514,Chappaqua,113
+8515,GLENDALE,121
+8516, Greenville,134
+8517,miami,118
+8518,LIVINGSTON,117
+8519,Elkhorn,127
+8520,Nevada City ,106
+8521,North Providence,136
+8522,READING,119
+8523,Webster ,113
+8524,Bay Sant Louis,144
+8525,EDISON ,117
+8526,Cleveland,107
+8527,Appleton ,139
+8528,East Boston,103
+8529,Manor,107
+8530,BATON ROUGE ,133
+8531,"Temple Terrace,",118
+8532,PLANTATION,118
+8533,Radnor,119
+8534,Ware,103
+8535,STATE COLLEGE,119
+8536,Mt. Prospect,115
+8537,SOMERVILLE,117
+8538,St. Joseph,111
+8539,Bloomington ,104
+8540,Colorado Springs ,132
+8541,TOMBALL,107
+8542,PHILADELPHIA ,119
+8543,Downingtown ,119
+8544,HYATTSVILLE,110
+8545,Branchville,117
+8546,Mount Holly,117
+8547,Smyrna ,101
+8548,Egg Harbor,117
+8549,Riverdale ,113
+8550,CARROLLTON ,107
+8551,Lakeland ,118
+8552,Dekalb,115
+8553,BRIDGEWATER TWP.,117
+8554,Horsham ,119
+8555,Williamson,107
+8556,South Jordan ,122
+8557,Garnet Valley ,119
+8558,Philadelphia,117
+8559,Bethel Park,119
+8560,Yardley,119
+8561,Kalamazoo ,102
+8562,NAPA,106
+8563,Charleston,115
+8564,CASA GRANDE,121
+8565,Walpole,103
+8566,"Warrington,",119
+8567,Buckhannon,146
+8568,St. Cloud,118
+8569,Plain City,131
+8570,North Chelmsford,103
+8571,Morisvlille,120
+8572,Parma,131
+8573,Central City,127
+8574,BELLAIRE,107
+8575,Marietta ,101
+8576,Gilroy,106
+8577,Alsip,115
+8578,FORTH WORTH,107
+8579,Minnetonka ,104
+8580,Smryna,101
+8581,DALLAS ,107
+8582,East Greenbush ,113
+8583, Seattle,114
+8584,"Maryland Heights, ",111
+8585,"Atlanta, ",101
+8586,South Park,119
+8587, Hoffman Estates,115
+8588,"524, Old Ocean",107
+8589,Stillwater,104
+8590,COMSTOCK PARK,102
+8591,Washington,110
+8592,Bloomfield ,109
+8593,Des Moines,114
+8594,Sayreville ,117
+8595,Rochester,102
+8596,Brookline ,103
+8597,NEW KENSINGTON,119
+8598,NEW JERSEY,117
+8599,PORTLAND ,130
+8600,Valrico,118
+8601,MARSHFIELD,139
+8602,Joliet,115
+8603,MCKINNEY ,107
+8604,New Hartford,113
+8605,Cheraw,134
+8606,Watervliet,102
+8607,AVON LAKE,131
+8608,DORAL ,118
+8609,Milptias,106
+8610,Logan ,122
+8611,"Richardson,",107
+8612,Lutherville,110
+8613,Katy ,107
+8614,League City ,107
+8615,Advance,120
+8616,GOLETA,106
+8617,DAVIS,106
+8618,Cicero,115
+8619,IRWINDALE,106
+8620, Wyoming,104
+8621,HOBE SOUND ,118
+8622,Bronx ,113
+8623,Franklin Park,115
+8624,Worthington,131
+8625,Tumwater,114
+8626,Oak Harbor,114
+8627,ILWACO,114
+8628,Ridgeland ,144
+8629,Chagrin Falls,131
+8630,Green Island,113
+8631,Blacklick,131
+8632,Sterling Heights ,102
+8633,Sumter,134
+8634,Cortland,113
+8635,WEST TEANECK,117
+8636,Blackstone,103
+8637,Omak,114
+8638,Channahon,115
+8639,Land O' Lakes,118
+8640,JOHNS CREEK ,101
+8641,New Smyrna Beach,118
+8642,MARS,119
+8643,Hickory Creek,107
+8644,Cartersville,101
+8645,FOSTER CITY ,106
+8646,Elgin ,115
+8647,Charleroi,119
+8648,St. James,133
+8649,North Chesterfield,108
+8650,NEWARK ,137
+8651,New Franklin,131
+8652,SANTA FE,143
+8653,ALLENTOWN,119
+8654,Batesville ,135
+8655,Amherst,125
+8656,Cold Spring,116
+8657,South Riding,108
+8658,NEW MILFORD,109
+8659,LAFAYETTE,135
+8660,Litchfield Park,121
+8661,NORTH OLMSTED,131
+8662,Falmouth,103
+8663,LANGHORNE,119
+8664,Aubrey ,107
+8665,Belgrade,151
+8666,Madisonville,116
+8667,Oquawka,115
+8668,Richmond ,107
+8669,MILPITAS ,106
+8670,Lavergne,105
+8671,Salt Lake CIty,122
+8672,DeSoto,107
+8673,Dade City,118
+8674, Irving ,107
+8675,East Haven,109
+8676,"Greenfield, WI",139
+8677,VACAVILLE,106
+8678,Orange,107
+8679,Northfied,115
+8680,WINCHESTER,108
+8681,Lake St. Louis,111
+8682, HARTFORD,109
+8683,Dover Plains,113
+8684,New Orleans ,133
+8685,Cordova ,149
+8686,Grand Reapids,102
+8687,Adairsville,101
+8688,COLUMBIA ,134
+8689,Stilwell,128
+8690,Dobbs Ferry,113
+8691,Watervliet,113
+8692, Lombard,115
+8693,Greenbelt ,110
+8694,Tuscon,121
+8695,Warrendale,119
+8696,Demopolis,124
+8697,Granville,131
+8698,Fruita,132
+8699,Rusk,107
+8700,New Century,128
+8701,Rohnert Park,106
+8702,Muscatine,129
+8703,EAST LANSING,102
+8704,Sunnuyvale,106
+8705,St. Atlanta,101
+8706,Woodstock,101
+8707, New Albany,131
+8708,Erie ,119
+8709,Spring ,107
+8710,NEW MILFORD,117
+8711,CARY ,120
+8712,New York   ,113
+8713,Plainfield,117
+8714,WEST WARWICK,136
+8715,Winona Lake,135
+8716,midland,102
+8717,BRAMBLETON,108
+8718,BASALT,132
+8719,Los Gatos ,106
+8720,"Middletown,",117
+8721,SPOKANE,114
+8722,PANA,115
+8723,CANTON ,102
+8724,Downey ,106
+8725,Grand Island,113
+8726,Auburn,101
+8727,City Of Industry ,106
+8728,Clarion,119
+8729,Moon Twp.,119
+8730,Whitehall,131
+8731,Frostburg,110
+8732,Winfield,124
+8733,Hawarden,129
+8734,Washington ,130
+8735,Stanfords,106
+8736,Colonia,117
+8737,Oxford,131
+8738,Heathrow ,118
+8739,Sanibel,118
+8740,Friscon,107
+8741,HUNTINGTON,146
+8742,Brownsville,107
+8743,BEACHWOOD,131
+8744,Hopewell Junction,113
+8745,Pawtucket,136
+8746,ELKTON,110
+8747,BATTLE CREEK,102
+8748,Lewes,137
+8749,ELK GROVE,115
+8750,Edina ,104
+8751,Howell,117
+8752, East Brunswick,117
+8753,Augusta,116
+8754,"Westlake,",107
+8755,HARRISBURG ,119
+8756,Charlotte,113
+8757,CHANTILLY,108
+8758,Hoover ,124
+8759,Dartmouth,103
+8760,KANNAPOLIS,120
+8761,YOUNGSTOWN,131
+8762,"Norcross,",101
+8763, North Quincy,103
+8764,BAYONNE ,117
+8765,Starke,118
+8766,Rowlett,107
+8767,STAMFORD ,109
+8768,Windsor,111
+8769,Wayland,103
+8770,Lehu,122
+8771,Burien,114
+8772,Marion,135
+8773,KINGSVILLE,107
+8774,Hamilton,124
+8775, Westlake,107
+8776,FORT MYERS,118
+8777,Cold Spring Harbor ,113
+8778,REston,108
+8779,Boyertown,119
+8780,El Paso ,107
+8781,DENVER ,132
+8782,NEW BREMEN,131
+8783,Morrow,101
+8784,East Providence,136
+8785,Morris Plaines,117
+8786,Milledgeville,101
+8787,Summerfield,120
+8788,FAIRAX,108
+8789,WARREN ,131
+8790,South Brunswick,117
+8791,BENICIA,106
+8792, Boerne,107
+8793,GRAND PRAIRIE,107
+8794,"Glen Allen, ",108
+8795,Aurora,131
+8796,Prarie View,115
+8797,Waltham City,103
+8798,ALDIE,108
+8799,Mattawan ,102
+8800,Lincolnwood ,115
+8801,Fort Scott,128
+8802,McKees Rocks,119
+8803,HALETHORPE,110
+8804,Hoschton,101
+8805,North Claymont,137
+8806,Neptune Beach,118
+8807,COLLEGEVILLE ,119
+8808,East Princeton,117
+8809,HAWLEY,119
+8810,Parker,121
+8811,"Hartford, ",109
+8812,Osseo,139
+8813,Alamo,106
+8814,Red Bank,117
+8815,COTTAGE GROVE,139
+8816, Shrewsbury,103
+8817, Southfield,102
+8818,Lowell ,142
+8819,Louisburg,128
+8820,Anderson,134
+8821,Anniston,124
+8822,PRINCETON JUNCTION,117
+8823,Jamestown,120
+8824, Browntown,139
+8825,SILVER CITY,143
+8826,BAY CITY,107
+8827,Bardstown,116
+8828,Signal Hill,106
+8829,Binghampton,113
+8830,Beloit,139
+8831,Ballstone Lake,113
+8832,Kahului,141
+8833,PURCHASE ,113
+8834,Fortson,101
+8835,"San Diego, CA 95110",106
+8836,NORTH LAS VEGAS,140
+8837,Pittsfield,147
+8838,Hamburg,117
+8839,Farmersbranch,107
+8840,Maiden,103
+8841,SCRANTON ,119
+8842,Meno Park,106
+8843,Aston,119
+8844,Westlake Village ,106
+8845,Glasgow,116
+8846,Shelby,120
+8847,St. Charles,115
+8848,HOBE SOUND,118
+8849,WELCH,146
+8850,Connecticut,109
+8851,FUQUAY-VARINA,120
+8852,MELBOURNE ,118
+8853,Macon,101
+8854,Lothian,110
+8855,Milford,137
+8856,Wethersfield,109
+8857,The Colony ,107
+8858,Rancho Cordova ,106
+8859,Chesterfield,102
+8860,Hixon ,105
+8861,OKMULGEE,112
+8862,EAST PALO ALTO,106
+8863,"GRAND RAPIDS, ",102
+8864,Apple Valley,106
+8865,Plantation City,118
+8866,Sandy Springs ,101
+8867,NEW PORT RICHEY,118
+8868,Coconut Creek ,118
+8869,Michigan City,135
+8870,O’FALLON,111
+8871,Big Spring,107
+8872,Wshington,138
+8873,Saco,147
+8874, Edison,117
+8875,FLUSHING ,113
+8876,Linden,117
+8877,N BRUNSWICH,117
+8878,Okmulgee,112
+8879,Middle town ,117
+8880,Galesburg,115
+8881,Fall River,103
+8882,Sweetwater,107
+8883,PORTAGE,102
+8884,SPENCER,135
+8885,Pontiac ,102
+8886,Union ,117
+8887,Union ,116
+8888,Celina ,107
+8889,BRIDGETON,111
+8890,Coatesville,119
+8891,Marlin ,107
+8892,Sherman,107
+8893,Yorktown,108
+8894,Anderson,135
+8895,SAINT LOUIS ,111
+8896,ENGLEWOOD ,132
+8897,FORT COLLINS,132
+8898,Manhattan Beach ,106
+8899,Great Falls,108
+8900,Benson,104
+8901,Angwin,106
+8902,Farmington ,122
+8903,Lorton,108
+8904,Warrington ,119
+8905,Enid,112
+8906,University City,111
+8907,"Brighton, MA",103
+8908,Martin,105
+8909,Boulder ,132
+8910,MASON ,131
+8911,MADISON,135
+8912,NORTH MIAMI,118
+8913,Neptune City,117
+8914,Clarence,113
+8915,Southlake ,107
+8916,Winsted,104
+8917,CENTERVILLE,135
+8918, Redwood City,106
+8919,North Kansas City,111
+8920,Dundalk,110
+8921,Apt 831,107
+8922,Siler City,120
+8923,MENTOR,131
+8924,Thompsons Station,105
+8925,"WASHINGTON, DC",138
+8926,Lagrange,101
+8927,GILBERT ,121
+8928,Huntsville ,124
+8929,Lighthouse Point,118
+8930, Culver City,106
+8931,Windsor,148
+8932,Fort Collins ,132
+8933, BLUE ASH,131
+8934,San Francisico ,106
+8935,Bedminster Township,117
+8936,Ft. Meyers,118
+8937,Solana Beach,106
+8938,Pataskala,131
+8939,GRAPEVINE ,107
+8940,Newton Square,119
+8941,Union Beach,117
+8942,Millbury,103
+8943,Moorestown ,117
+8944,Sun prairie,139
+8945,Ferndale,102
+8946,NORTH CHESTERFIELD,108
+8947,Newcomb,143
+8948,Hastings ,102
+8949,Plainsboro Township,117
+8950,  Jersey City ,117
+8951,MATHER,106
+8952,Walled Lake,102
+8953,Anniston ,124
+8954,Tarboro,120
+8955,Greesnburg,119
+8956,Wilkes Barre,119
+8957,St. Petresburg,118
+8958,Parsippan,117
+8959,GREENVILLE,120
+8960,Pontiac,115
+8961,COLUMBIA CITY,135
+8962,Palisades,113
+8963,MARLBOROUGH ,103
+8964,El Dorado,142
+8965,FARMINGTON ,102
+8966,Herriman,122
+8967,ROSSLYN,108
+8968,LUTHERVILLE-TIMONIUM,110
+8969,Commerce Township,102
+8970,Poquoson,108
+8971,PALISADES PARK ,117
+8972,LANCASTER,106
+8973,WHIPPANY ,117
+8974,Zeeland,102
+8975,Shillington,119
+8976,Glenwood,110
+8977,Oak Ridge ,105
+8978,"Deerfield,",115
+8979,Roxbury,103
+8980,Fletcher,120
+8981,DuBois,119
+8982,San Roman,106
+8983,Warwick,136
+8984,FARMERS BRANCH ,107
+8985,Clinton Twp,102
+8986,ANOKA,104
+8987,Collegeville ,119
+8988,Montvale ,117
+8989,Morristown ,117
+8990,Tampaa,118
+8991,POMONA,106
+8992,Austell,101
+8993,Boscawen,125
+8994,FLOWERMOUND,107
+8995,Dallas,114
+8996,troy,124
+8997,Celebration,118
+8998, West Trenton,117
+8999,South Salt Lake,122
+9000,DAYTONA BEACH ,118
+9001,Ocean Township,117
+9002,SOUTH PLAINFIELD    ,117
+9003,El Paso  ,107
+9004,Sioux Center,129
+9005,SHIPPENSBURG,119
+9006,Florham Park ,117
+9007,Maharishi Vedic City,129
+9008,Hermann,111
+9009,Suite 201,107
+9010,Claremore,112
+9011,South Boston,103
+9012,TANNER,124
+9013, Newark,117
+9014, Salt Lake City,122
+9015, Whippany,117
+9016,Fulton,113
+9017,SACHSE,107
+9018,Hiliard,131
+9019,AUDUBON,119
+9020,Middle Village,113
+9021,Nashua City ,125
+9022,Haines City,118
+9023,Orangevale,106
+9024,London,131
+9025,CREVE COEUR ,111
+9026,Vienna ,108
+9027,"Owings Mills,",110
+9028, Waltham,103
+9029,Convington,133
+9030,Windsor Mil,110
+9031,FAR ROCKAWAYS,113
+9032,Unionville,109
+9033,St. Cloud,104
+9034,KANSAS,111
+9035,MAPLE VALLEY,114
+9036,Woodland,106
+9037,KEARNY,117
+9038,Elkton,102
+9039,Gainesville ,108
+9040,West Pike,119
+9041, Pflugerville,107
+9042,Clearcreek Township,131
+9043,East Greenville,119
+9044,Alachua,118
+9045,Ringgold,108
+9046,Jersey  City,117
+9047,MT LAUREL,117
+9048,SUNNYWALE,106
+9049,Noxon,151
+9050,YORK,119
+9051, Covington,133
+9052,Warren ,102
+9053,LUTZ ,118
+9054,Winfield ,146
+9055,Northville Twp.,102
+9056,Oakland,117
+9057,Windsormill,110
+9058,WASHINGTON ,138
+9059,Bolton,103
+9060,North Charleston ,134
+9061,El Segundo ,106
+9062,Hilsboro,130
+9063,Pembroke Pines ,118
+9064,Lewiston,147
+9065,BALA CYNWYD,119
+9066,SONOMA,106
+9067,Fair Lawn,117
+9068,Houston  ,107
+9069,CORAOPOLIS,119
+9070,Pilot Point,107
+9071,Roselle,115
+9072,MECHANICSVILLE,108
+9073,Cottleville,111
+9074,Putnam,109
+9075,Fairway,128
+9076,Eagle Mountain,122
+9077,RACINE,139
+9078,Wintersprings,118
+9079,Naugatuck,109
+9080,Rocklin ,106
+9081,Tyngsborough,103
+9082,Joshua Tree,106
+9083,MEDFORD,130
+9084,Livingston ,117
+9085,JANESVILLE,139
+9086,Ottawa,115
+9087,Monroe,117
+9088,Washington,119
+9089,Milan,105
+9090,Bolinas,106
+9091,ERIE ,119
+9092,Elmhurst,115
+9093,AMERICAN FORK,122
+9094,Odessa ,107
+9095, Foster City,106
+9096,Douglas,101
+9097,San Franscisco,106
+9098,Manor ,107
+9099,FREEHOLD,117
+9100,Pittsboro,120
+9101,FORT WORTH ,107
+9102,Richmond Heights,111
+9103,WATSONVILLE,106
+9104,Glenmont ,113
+9105,Scarborough,147
+9106,tampa,118
+9107,Niagara Falls,113
+9108,Calvert,124
+9109,Big Rapids ,102
+9110,Seattle,107
+9111,Lakewood,113
+9112,Conshocken ,119
+9113,Indianapolis,118
+9114,Springfield,117
+9115,Carmichael,106
+9116,Bossier City ,133
+9117,Mystic,109
+9118,Dinuba,106
+9119,GOlden,132
+9120,McPherson,128
+9121,SAN CLEMENTE,106
+9122,CHULA VISTA,106
+9123,TAYLORSVILLE,122
+9124,STILLWATER,112
+9125,Wexfor,119
+9126,Flowery Branch,101
+9127,Charles Town,146
+9128,Jacksonsville,118
+9129,Bridgeville,119
+9130,San Franciso,106
+9131,Oroville,106
+9132,ROUND LAKE,115
+9133,Culver City ,106
+9134, Portland,130
+9135,Troy,108
+9136,Jal,143
+9137,dover,137
+9138,Santa Rosa ,106
+9139,CLAYTON,120
+9140, Prosper,107
+9141,HIGH POINT,120
+9142,Evesham,117
+9143,Greensboro ,120
+9144,NEWNAN,101
+9145,Harwood Heights,115
+9146,Arcadia,112
+9147,FRANKLIN PARK,117
+9148,West Union,134
+9149,Apt. 4420,106
+9150,Highland Park,115
+9151,NORRISTOWN,119
+9152,empe,121
+9153,Hanover ,110
+9154,Cordova,106
+9155,Chestersprings,119
+9156,PRAIRIE VIEW,107
+9157,FOND DU LAC,139
+9158,rensselaer,113
+9159,Pleasanton,107
+9160,Rye Brook,113
+9161,Petaluma ,106
+9162,Waddell,121
+9163,West Lafayette ,135
+9164,St Louis Park,104
+9165,North Lauderdale,118
+9166,SAMMAMISH ,114
+9167,PALATINE,115
+9168,COLUMBIA,111
+9169,ROLLING MEADOWS,115
+9170,ALBUQUERQUE ,143
+9171,HALF MOON BAY,106
+9172,Hudson ,103
+9173,CENTERVILLE,131
+9174,EDGEWATER,117
+9175, NORTH BRUNSWICK ,117
+9176,Meriden,109
+9177, Stamford,109
+9178,Patton,106
+9179,WEST COLUMBIA,134
+9180,UMATILLA,130
+9181,Kirland,114
+9182,SUMMIT ,117
+9183,Bedford,125
+9184,Dorchester ,103
+9185,Goochland,108
+9186,CHAMBLEE,101
+9187,BROOKLINE,103
+9188,Yukon,112
+9189,Griffin,101
+9190,HIGHLAND PARK,117
+9191,Hobe Sound,118
+9192, Phoenix,121
+9193,20510 NW EVERGREEN PKWY,130
+9194,NEW YORK ,113
+9195,Jamestown,113
+9196,McMinnville,105
+9197,Vidalia,133
+9198,Elmhurst,113
+9199,Story,129
+9200,Greensboro,101
+9201,STERLING ,108
+9202,Pleasant Prarie,139
+9203,BLOOMINGTON ,104
+9204,345 Spear Street,106
+9205,Roseburg,130
+9206,GARDEN CITY,102
+9207,Van Nuys,106
+9208,Melvindale,102
+9209,Reidsville,120
+9210,Santa Moncia,106
+9211,Muskegon,102
+9212,Canandaigua,113
+9213,MILLS,150
+9214, E. Charlotte,120
+9215,BAR HARBOR,147
+9216,Kenilworth,115
+9217,Indianapolis,115
+9218,MARINA DEL REY ,106
+9219,Bellemead,107
+9220,Ridgewood,113
+9221, Hartford,109
+9222,DURANT,112
+9223,New York	,113
+9224,North Reading town,103
+9225,MCCOOK,127
+9226,GUILDERLAND,113
+9227,Brooksville,118
+9228,Hinsdale,115
+9229,GAHANNA,131
+9230,DUNCANVILLE,107
+9231,Duncanville,107
+9232,Bentoville,142
+9233,Sunnyvale,105
+9234,Jercho,113
+9235,Minden,140
+9236,BOTHELL ,114
+9237,Luverne,104
+9238,Germantown,139
+9239,APOPKA,118
+9240,NORTH ARLINGTON,117
+9241,VIRGINIA BEACH ,108
+9242,Shawnee Mission,128
+9243,Land O Lakes,118
+9244,Highland Village,107
+9245,RUTLAND,112
+9246,Mount Vernon,114
+9247,vEstero,118
+9248, Calhoun,101
+9249,San ANtonio,107
+9250,FRANKLIN LAKES ,117
+9251,Charlorre,120
+9252,Gainsville,108
+9253,"MCCOOK,",127
+9254,Glen Head,113
+9255,Fairburn ,101
+9256,kalamazoo,102
+9257,Murfreesboro ,105
+9258,PEMBROKE PINES,118
+9259,Lodi ,106
+9260,NEW PROVIDENCE,117
+9261,Annapolis Junction,110
+9262,GRAND ISLAND,127
+9263,WATERLOO,139
+9264,Mt Laurel Township,117
+9265,Ottawa,131
+9266,PRINCETON,107
+9267,Holbrook,113
+9268,Painesville,131
+9269,STRONGSVILLE,131
+9270,FAIRFIELD,117
+9271,DeLand,118
+9272,FORT STOCKTON,107
+9273,"Aventura, FL",118
+9274,Danbury ,109
+9275,Shreveport ,133
+9276,Sunnyside,113
+9277,Vernon Rockville,109
+9278, Mt Laurel Township,117
+9279,STOUGHTON,103
+9280, DURANT,112
+9281,"Redwood City, CA",106
+9282,LAUDERDALE,118
+9283,Aventura ,118
+9284,Jupiter ,118
+9285,Summerland Key,118
+9286,San Martin,106
+9287,HICKSVILLE ,113
+9288,Herdon,108
+9289,"DURANT,",112
+9290, Minneapolis,104
+9291,Mounds View ,104
+9292,Peachtree Corner,101
+9293,RUTLAND,148
+9294,Lima,131
+9295,Columbus ,135
+9296,Pocatello,126
+9297,ST LOUIS ,111
+9298,KANSAS CITY ,128
+9299,West Jordan,122
+9300,Newburyport,103
+9301,Mason City,129
+9302,New YOrk,113
+9303,Dickinson,107
+9304,BEDFORD,107
+9305,HELENA,151
+9306,OPELIKA ,124
+9307,SOUTHPLAINFIELD,117
+9308,OCEANSIDE,106
+9309,Napolean,131
+9310, SACRAMENTO,106
+9311,FLOWERY BRANCH,101
+9312, MENLO PARK,106
+9313,SPRINGDALE,131
+9314,Columbus,117
+9315,Tioga,123
+9316, RICHMOND,108
+9317,TEXAS,107
+9318, DEARBORN,102
+9319,LAWRENCEVILLE,101
+9320,RARITAN ,117
+9321,DUNCANVILLE ,107
+9322,DUNCAMVILLE,107
+9323,CENTREVILLE ,108
+9324,Painted Post ,113
+9325,GLADSTONE,117
+9326, THE WOODLANDS,107
+9327, Brookline,103
+9328,South El Monte ,106
+9329,GRAND ISLAND ,127
+9330,"ROCKVILLE,",110
+9331, LAWRENCEVILLE,101
+9332, MENLO PAR,106
+9333, Duncanville,107
+9334,Hampden Township,119
+9335,Mt Laurel,117
+9336,LAFAYETTE ,133
+9337, CLEVELAND,131
+9338,AMHERST,113
+9339,ST PHOENIX,121
+9340, KLEIN,107
+9341, WHIPPANY,117
+9342,Channhassen,104
+9343,Falmouth,147
+9344,RDSILVER SPRING,110
+9345,Melissa,107
+9346,Rockville  ,110
+9347,Weatherford,107
+9348,WASHINGTON DC,114
+9349, Torrance,106
+9350,Rock Island,115
+9351,Langhorne ,119
+9352,SMITHFIELD,136
+9353,MANHATTAN,113
+9354,WASHINGTON D,138
+9355, Union,117
+9356,"SACRAMENTO,",106
+9357, GREENSBORO,120
+9358,Lenox,103
+9359, LAFAYETTE,133
+9360,Sandersville,101
+9361, SW ROCHESTER,104
+9362, ALAMEDA,106
+9363,St. Loius Park,104
+9364,Bellevue,127
+9365,Augusta,128
+9366,St.Petersburg,118
+9367,PAOLI,119
+9368,Columbia ,111
+9369,Mars Hill,120
+9370,Congers,113
+9371, PISCATAWAY,117
+9372,PENNSYLVANIA,119
+9373,Greenwood,134
+9374,MCCOOK,135
+9375,ST. NW ATLANTA ,101
+9376, GLADSTONE,117
+9377,DAYTON ,117
+9378, ADDISON,107
+9379, NORTHBROOK,115
+9380,Lincoln,124
+9381,"CORAL GABLES,",118
+9382,DODGEVILLE,139
+9383,New Town,123
+9384,Opa-locka,118
+9385,SW ROCHESTER,104
+9386, REDMOND,114
+9387,Sidney,131
+9388,Apple Valley ,104
+9389,WASHINGTON SQUARE LANSING,102
+9390,REGO PARK,113
+9391, BEAVERTON,130
+9392,WESTFIELD ,117
+9393,Derwood,110
+9394, DUNWOODY,101
+9395, RICHARDSON,107
+9396,LINTHICUM HEIGHTS,110
+9397,Coralville,129
+9398, BELLEVUE,114
+9399,Hacienda Heights,106
+9400,DURANT ,112
+9401,WEBSTER,103
+9402,IOWA CITY,129
+9403,DRCHICAGO,115
+9404,ST. SW ROCHESTER,104
+9405,Fort Kent,147
+9406, WASHINGTON SQUARE LANSING,102
+9407,DON AVENUE,106
+9408, Hopewell Junction,113
+9409,Schumburg,115
+9410,"RICHMOND,",108
+9411, CHARLOTTE,120
+9412,PARKER,132
+9413, LONG BEACH,106
+9414,Boyertown ,119
+9415, ROCHESTER,104
+9416,SOLON,131
+9417,EDRMOND ,114
+9418, Spring,107
+9419,ROCKLEDGE,118
+9420,Morehead,116
+9421, WASHINGTON ,102
+9422,Oaks ,119
+9423,Buena Vista,108
+9424,98004,114
+9425,Jerome,126
+9426,STE 100,118
+9427,Greenwood,137
+9428,Holdrege,127
+9429, CHICAGO,115
+9430,KING OF PRUSSIA ,119
+9431, HOUSTON,107
+9432,CINCINNATI ,131
+9433,ARDEN HILLS,104
+9434, WASHINGTON,138
+9435, SAN CARLOS,106
+9436,LONG BEACH ,106
+9437,Wynnewood,119
+9438, DOWNERS GROVE,115
+9439,Bay Lake,118
+9440,NW ATLANTA,101
+9441,Sutter Creek,106
+9442,SAN CARLOS ,106
+9443,Upland ,106
+9444,Harvey,133
+9445,HARLOTTE,120
+9446,Marion,134
+9447,Stronghurst,115
+9448,Glen Rock,117
+9449,Laguna Niguel,106
+9450,Hudson	,103
+9451,"HERNDON, ",108
+9452,Marrietta,101
+9453,"SEATTLE,",114
+9454,Whippany ,117
+9455,HOFFMAN ESTATE,115
+9456,WORCESTER,103
+9457,MERIDIAN,126
+9458,STANFORD,106
+9459,Broomall ,119
+9460,SHOREVIEW,104
+9461,SEATLLE,114
+9462,HAMILTON,131
+9463, DUBLIN,131
+9464,ILLINOIS,115
+9465,",IRVING",107
+9466,MONROVIA,110
+9467,"SMITHFIELD,",136
+9468, IOWA CITY,129
+9469, RESTON,108
+9470,SANJOSE,106
+9471, KING OF PRUSSIA,119
+9472," COLUMBIA, MD ",110
+9473,Rockleigh,117
+9474," BOSTON, ",103
+9475," CINCINNATI, ",131
+9476, MCKINNEY,107
+9477," NASHVILLE, ",105
+9478, LITTLETON,132
+9479,BURNSVILLE,104
+9480,"DALLAS,TX,",107
+9481, COLUMBIA,110
+9482,SHOREVIEW ,104
+9483,Americus,101
+9484,Clermont,118
+9485,NW ATLANTA ,101
+9486, RENTON,114
+9487,CONCORD ,120
+9488, MALVERN,119
+9489, CHESTERFIELD,111
+9490,WOODBRIDGE,117
+9491,"PLANO, TX ",107
+9492,"DALLAS,",107
+9493,WAY STANFORD,106
+9494, NW ATLANTA ,101
+9495,WIXOM,102
+9496,Indianopolis,135
+9497, Rutland,148
+9498,Oregon,130
+9499,Tuckahoe,113
+9500,DAYTON NEW JERSEY,117
+9501,ARLINGTON,103
+9502,"ALBANY, NY,",113
+9503,Sullivan,111
+9504, WORCESTER,103
+9505,Saint Johns ,118
+9506, NEW ATLANTA,101
+9507,Mc Lean,108
+9508,"PLANO, ",107
+9509, SAN RAMON,106
+9510,Hazard ,116
+9511,Butler,117
+9512, MOUNTAIN VIEW,106
+9513, CINCINNATI,131
+9514, SMITHFIELD,136
+9515,Monee,115
+9516,Pasco,114
+9517,JERSEY,117
+9518,SPARKS,110
+9519,"PHOENIX , ",121
+9520," IRVING,",107
+9521, Frankfort,116
+9522,SEVEN HILLS,131
+9523,JERSEY ,117
+9524,COPLEY,131
+9525,CINCINNATI ,131
+9526,"SAN ANTONIO, ",107
+9527,CLEVELAND ,131
+9528," PLANO, ",107
+9529, CINCINNATI ,131
+9530,"Duncanville, TX ",107
+9531,CHESTERFIELD ,111
+9532," GRAND ISLAND,",127
+9533,Hannibal,111
+9534,"NEW YORK, ",113
+9535,"NORTH, SHOREVIEW",104
+9536,MIDDLEBURG HEIGHTS,131
+9537,Huntington Woods,102
+9538, CHICAGO ,115
+9539, FREMONT,106
+9540,Henry,111
+9541,KENTUCKY ,116
+9542,Mercedes,107
+9543, SUNNYVALE,106
+9544,McConnellsburg,119
+9545,Wixom ,102
+9546,Ypsilanti ,102
+9547, NW ATLANTA GA ,101
+9548,Lewisburg,119
+9549,Schiller Park,115
+9550,"GRAND ISLAND,",127
+9551, PHOENIX ,121
+9552,LOUIS,111
+9553,BUFORD,101
+9554, Tysons,108
+9555,Laurel,144
+9556, LINTHICUM HEIGHTS,110
+9557,Kansas,128
+9558,"MOUNTAIN VIEW, ",106
+9559, SCHAUMBURG,115
+9560,Lake Forest Park,114
+9561, RICHFIELD,104
+9562,MIAMI`,118
+9563,Haltom City,107
+9564,BAKERSFIELD,106
+9565,"MOORESVILLE,",120
+9566, BOSTON,103
+9567, Eden Prairie,104
+9568, CONCORD,106
+9569,"ENGLEWOOD, ",132
+9570,New Hampton,129
+9571,MOONACHIE,117
+9572,"PHOENIX,",121
+9573,ROCKLEDG,118
+9574,IOWA ,129
+9575, RALEIGH,120
+9576,West Deptford,117
+9577,RICE CREEK,104
+9578,Oklahoma ,112
+9579,RICHFIELD\,104
+9580,NEW ATLANTA ,101
+9581,LEHI ,122
+9582,"DUBLIN,",131
+9583,Yuba City,106
+9584,"Duncanville, ",107
+9585,"JERSEY CITY, ",117
+9586,"ST CHARLOTTE,",120
+9587,Oakwood,101
+9588,"HOFFMAN ESTATES,",115
+9589,TUMWATER,114
+9590,West Seneca,113
+9591,CALIFORNIA,106
+9592,Moultrie,101
+9593, SEATTLE,114
+9594,Superior,132
+9595, WESTLAKE,107
+9596,"HOUSTON, ",107
+9597,RICHFIELD ,104
+9598,GREENWICH ,113
+9599,Mechanisburg,119
+9600,SAN BERNARDINO,106
+9601,"COSTA MESA, ",106
+9602,IOWA,129
+9603, ENGLEWOOD,132
+9604,SANTA CLARA CA,106
+9605,LIBERTY HILL,107
+9606, NASHVILLE,105
+9607,Rochester MN,104
+9608," MALVERN,",119
+9609, DULUTH,101
+9610,PITTSBURGH ,119
+9611," Rutland, VT.",148
+9612,"MADISON, WI",139
+9613,Port Washington ,113
+9614,GLENDALE ,106
+9615,Rocky Hill ,109
+9616,Rice Lake,139
+9617,Englewood,117
+9618,Los Angelos,106
+9619,Moss Landing,106
+9620,West Warwick,136
+9621,Bayside,139
+9622,Miama,118
+9623,Stony Brook ,113
+9624, NEW JERSEY,117
+9625,Ashton,110
+9626,CHINO HILLS,106
+9627,WACKER DRCHICAGO,115
+9628,"MADISON, ",139
+9629,Leland,144
+9630,"BRIGHTON,",103
+9631,Gainesville ,118
+9632,"NASHVILLE, ",105
+9633, COLUMBUS,131
+9634,Marianna,118
+9635,"GRAND ISLAND, ",127
+9636,CINCINNATI OH ,131
+9637,Port St. Joe,118
+9638,Newberry,134
+9639,"Rutland, ",148
+9640,Winooski,148
+9641, STANFORD,106
+9642, SHOREVIEW,104
+9643, DAYTON ,117
+9644,ST. CLAIR SHORES,102
+9645,Lewisville,120
+9646,"KING OF PRUSSIA,",119
+9647,Jermyn,119
+9648,WALLER,107
+9649,Tamaqua,119
+9650,"FREMONT, ",106
+9651,West Haven ,109
+9652,Tucson ,121
+9653,Franklin ,116
+9654,Sanborn,113
+9655,"MALVERN,",119
+9656,Glen allen,108
+9657,Bellmead,107
+9658,"ALBANY,  ",113
+9659, SOUTHLAKE,107
+9660,Danville,108
+9661, OAK BROOK,115
+9662,Salt lake city ,122
+9663,New york,113
+9664, MADISON,139
+9665,Avon,132
+9666, DALLA,107
+9667,Newton ,103
+9668,ST CHARLOTTE,120
+9669,Chester Springs ,119
+9670,OAKWOOD,131
+9671, GRAND ISLAND,127
+9672,Adelphi,110
+9673,"DUBLIN, ",131
+9674,Markle,135
+9675,Duncanville,127
+9676,"HOUSTON,",107
+9677,"GRAND ISLAND, NE",127
+9678," JERSEY CITY, ",117
+9679,"HOFFMAN ESTATES, ",115
+9680,"SUNNYVALE, ",106
+9681,Laie,141
+9682,"SANTA CLARA CA, USA ",106
+9683," SAN ANTONIO, ",107
+9684,"ST. LOUIS, ",111
+9685,DURHUM,120
+9686," PHOENIX,",121
+9687,Takoma Park,110
+9688,LHEI,122
+9689,Simsbury,109
+9690,Azle,107
+9691,Shaker Heights,131
+9692,Bennington,127
+9693,TRONA,106
+9694,NASHVILLE ,105
+9695,TYSON,108
+9696,Yorba Linda,106
+9697,Monmouth Junction ,117
+9698,Greenport ,113
+9699,"WORCESTER, ",103
+9700,ELK GROVE ,106
+9701,"SOLON, ",131
+9702,West bend,139
+9703, MOORESVILLE,120
+9704, ACTON,103
+9705," DALLAS, TX ",107
+9706,"HERNDON, VA ",108
+9707,"PHOENIX, ",121
+9708,Jemez Pueblo,143
+9709, BELLEVUE ,114
+9710,Bennington,148
+9711,Vandalia,131
+9712,Durant ,112
+9713," IOWA CITY,",129
+9714,Jaffrey ,125
+9715,MECHANICSBURG ,119
+9716,Elkhart,135
+9717, IRVING ,107
+9718,TROPHY CLUB,107
+9719,"SANTA CLARA, CA",106
+9720,ARGYLE,107
+9721,"RALEIGH, NC ",120
+9722, LANSING,102
+9723,HICKSVILLE,113
+9724," COSTA MESA, ",106
+9725,WARRINGTON ,119
+9726,Spring Hill,128
+9727,"BOSTON, MA ",103
+9728,Marcellus,113
+9729,Woodside,106
+9730,COLUMBUs,131
+9731,Wooster,131
+9732,"WAY STANFORD,",106
+9733,"IRVING, ",107
+9734,Gilbert ,121
+9735, CALIFORNIA,106
+9736,WILSONVILLE,130
+9737,Orwigsburg,119
+9738,OLDSMAR ,118
+9739,Jenkins Township,119
+9740,East Grand Forks,104
+9741,Oak Park,115
+9742, North Chelmsford,103
+9743,Davenport,129
+9744,Kennesaw ,101
+9745,Dearborn Hights,102
+9746, Englewood Cliffs   ,117
+9747,Rancho Mission Viejo,106
+9748,Harrisburg ,120
+9749,LAKE MARY ,118
+9750,ALEXANDRIA ,108
+9751,long island city,113
+9752,Kinloch,111
+9753,Berwyn ,119
+9754,EI Segundo,106
+9755,WESTPORT,109
+9756,Manchester,116
+9757,Belmonot,103
+9758,Pulaski,105
+9759,BETHESDA ,110
+9760,Lewistown,119
+9761,Clinton,113
+9762,Bethesda,108
+9763,Bozeman ,151
+9764,ST. BONAVENTURE,113
+9765,Canfield,131
+9766,Hingham ,103
+9767, Bridgewater,117
+9768,Parsippany,101
+9769,McMinnville,130
+9770,Dixon,115
+9771,NORTH BRANCH,117
+9772,TAMARAC,118
+9773,WATERVLIET,113
+9774,FORTH WEST,107
+9775,Buffalo ,113
+9776,DRAPER ,122
+9777,BRIDGEPORT ,109
+9778,Apt. 16,113
+9779,Auburn hillls,102
+9780,Lake Jackson,107
+9781,MERRILL,139
+9782,Tyngsboro,103
+9783,Sunnyvale,107
+9784,CARNATION,114
+9785,MOUNT VERNON,114
+9786,Strongsville ,131
+9787,Langston,112
+9788,Lanham,110
+9789,Madison,109
+9790,Balko,112
+9791,"Franklin,",105
+9792,NORTH PITTSBURG,107
+9793,Kingwood,107
+9794,ATHENS,101
+9795,Johnston ,136
+9796, Coraopolis,119
+9797,Careu,131
+9798,Middletown,131
+9799,Toone,105
+9800,WILLISTON,123
+9801,Groveland,103
+9802,Coshocton,131
+9803,Circle Pines,104
+9804,PEACHTREE,101
+9805,Corinth,144
+9806,Ottumwa,129
+9807,Mannasas,108
+9808,Wilsonville,124
+9809,BESSEMER,124
+9810,EL SEGUNDO ,106
+9811,tho,106
+9812,Land O'Lakes,118
+9813,Clemmons,120
+9814,Gibsonton,118
+9815,Sayreville,117
+9816,Rhode Island,136
+9817,ST. Louis,111
+9818,FRANKLIN PARK,115
+9819,Texas City,107
+9820,Debary,118
+9821,Washingotn,138
+9822,Colombia,105
+9823,WYOMING,104
+9824,Hollis,125
+9825,Rahway ,117
+9826,ABILENE,107
+9827,EDEN PRAIRIE ,104
+9828,Harleysville,119
+9829,RICHMOND ,108
+9830,Cromwell,109
+9831,Palm Harbor,118
+9832,California,116
+9833,Point Lookout,111
+9834,Lynwood,114
+9835,BURBANK ,106
+9836,Roxana,115
+9837,Rockhill,134
+9838,Darien,109
+9839,COPPELL ,107
+9840,West Milwaukee ,139
+9841,Garland ,107
+9842,MADISON ,139
+9843, Leander,107
+9844, Oklahoma city,112
+9845,Texarkana,107
+9846,Maplewood,111
+9847,NORFOLK`,108
+9848,Goodman,144
+9849,Englewwod,132
+9850, Brentwood,105
+9851,Mount Airy,120
+9852,"Nashville,",105
+9853,WATERTOWN ,103
+9854,Reddick,118
+9855,Fond Du Lac,139
+9856,Cameron Park,106
+9857,DESOTO,107
+9858,GrandView Heights,131
+9859, McLean,108
+9860, Mount Juliet,105
+9861,Lawndale,106
+9862,Brookhaven ,113
+9863,HARLINGTON,107
+9864,EULESS,107
+9865,Granada Hills ,106
+9866,Alpine,122
+9867,LULING,133
+9868,Lunenburg,103
+9869,Delhi,133
+9870,Kensington,106
+9871,Glenn Allen,108
+9872,ST.CHARLES,115
+9873, MOORESVILLE ,120
+9874,PENSACOLA ,118
+9875,Lansing ,102
+9876,Rutherford ,117
+9877, Oakland ,106
+9878,HAWTHORNE,106
+9879,KNOXVILLE ,105
+9880,Tinton Falls`,117
+9881,Halethorpe,110
+9882,LaCrosse,139
+9883,Millersville,110
+9884,Anderson ,134
+9885,Middletown,136
+9886,Graham,114
+9887,Atlantic beach,118
+9888,Bellevue,106
+9889,Bartlesville ,112
+9890,Boston City ,103
+9891,whiteriver,121
+9892,MERCER ISLAND,114
+9893,Butte,151
+9894,Greeneville,105
+9895,Sanford ,120
+9896,Beverly Hills ,106
+9897,Daytona,118
+9898,ROCKFORD,102
+9899,New Heaven,109
+9900,MOLINE,115
+9901,redwood city,106
+9902,New York,114
+9903,Broward,118
+9904,Lake Bluff ,115
+9905,Falls Church,106
+9906,Saugus,103
+9907,Sandy ,122
+9908,HARLINGEN,107
+9909, Durham ,120
+9910,98101,114
+9911,Lancaster,134
+9912,Alton,107
+9913,Middletown Township ,117
+9914,HUDSON,103
+9915,Mt. Vernon,115
+9916,Manchester,119
+9917,Tupelo,144
+9918,SANTA MONICA ,106
+9919,Hodges,134
+9920,"Bristol,",119
+9921,Commerce Charter Township,102
+9922,Mountain View CA,106
+9923,Essex Junction,148
+9924,South El Monte,106
+9925,NEW BURY PARK,106
+9926,Lenoir City,105
+9927,Mammoth Lakes,106
+9928,Dakota Dunes,145
+9929, College Station,107
+9930,Aberdeen,126
+9931,FULSHEAR,107
+9932,Queens Village,113
+9933,Westminster,106
+9934,Isla Vista,106
+9935,Dardenne Prairie,111
+9936,"Cupertino, CA",106
+9937,LIVINGSTON ,117
+9938,Duluth,131
+9939,Truckee,106
+9940,Clinton,111
+9941,Haddon Township ,117
+9942,Saint Anthony,104
+9943,BOZEMAN,151
+9944,Irvinng,107
+9945,Newport Coast,106
+9946,Englewood¿,132
+9947,Lawrence ,128
+9948,East Brunswick ,117
+9949,El Centro,106
+9950,White Sulphur Springs,146
+9951,St. Ann,111
+9952,MASSENA,113
+9953,Crystal City,108
+9954,Middlebury,148
+9955,Bedford,131
+9956,Deer Park ,113
+9957,"Raritan,",117
+9958,ARTESIA,106
+9959,ALLEN ,107
+9960,Ranch Cordova,106
+9961,Hays,151
+9962,LAKE STEVENS,114
+9963,New Bedford,103
+9964,Roanoake,108
+9965,newark,106
+9966,Cranston ,136
+9967,Sussex ,139
+9968,Madison ,139
+9969,Santa Fe Springs,106
+9970,DRESHER,119
+9971,West Lake Hills ,107
+9972, PHILADELPHIA,119
+9973,ELLINGTON,109
+9974,UNION,117
+9975,Grambling,133
+9976,Tukwila,114
+9977,BOLINGBROOK,115
+9978,East Amherst ,113
+9979,Broken Arrow,112
+9980,HARVEY,115
+9981,Maywood,117
+9982,HUNTINGTON,113
+9983,Oklahoma City ,112
+9984,Coventry  ,136
+9985,"Northville, ",102
+9986,Argyle,107
+9987,Fairfield ,131
+9988,Carrolton,107
+9989,LAWRENCE TOWNSHIP,117
+9990,Mahter,106
+9991,Ft. Mill,134
+9992,Missouri,111
+9993,BAYSIDE,113
+9994,Vesatavia Hills,124
+9995,Silvis,115
+9996,Newburg,111
+9997,Fishers ,135
+9998,San Ysidro,106
+9999,RIDGEWOOD,117
+10000,DE PERE,139
+10001,Winter Springs ,118
+10002,Moorseville,120
+10003,South Gate,106
+10004,Pittsburg,106
+10005,Emory,108
+10006,Sparks,110
+10007,KAMUELA,141
+10008,Erwin,113
+10009,Oakville,106
+10010,Millburn,117
+10011,  San Antonio,107
+10012,Dunwoody ,101
+10013, Palm Beach Gardens,118
+10014,Austin 	,107
+10015,"Washington, DC",138
+10016, Pleasanton,106
+10017, San Ramon,106
+10018,Olivette,111
+10019,Hoboken,113
+10020,EAST  BRUNSWICK,117
+10021, Scottsdale ,121
+10022,WESTLAKE HILLS,107
+10023,Belleville,117
+10024,"Raleigh, NC ",120
+10025,Marana,121
+10026,Bassett,127
+10027,South Salem,113
+10028,GROTON,109
+10029, Alexandria,108
+10030,TOLEDO,131
+10031,Stroudsburg,119
+10032,Carroll,129
+10033,Englewood Cliffs ,117
+10034,Hiawatha,117
+10035,Ellicott City ,110
+10036, DFW Airport,107
+10037,Buckeye,121
+10038,1100 Twin Lake Road,119
+10039,Inkster,102
+10040,Le Mars,129
+10041,CLINTON,105
+10042,CROWNPOINT,143
+10043,Fort Myers ,118
+10044,Castle Pines ,132
+10045,BOHEMIA,113
+10046,Richmond ,135
+10047,GLEN BURNIE,110
+10048,EL CERRITO,106
+10049,La Vista ,127
+10050,APT # 2159,107
+10051,Dana Point,106
+10052,Addison,115
+10053,Hingham Road,103
+10054,Poland,131
+10055,cumming ,101
+10056,Orange Park,118
+10057,ROGERS,142
+10058,WINDSOR ,109
+10059,ESCONDIDO,106
+10060,Dallas,101
+10061,Burlingme,106
+10062,Driggs,126
+10063,East Elmhurst,113
+10064,Thousand Oak,106
+10065,Thompson,119
+10066,Phildelphia,119
+10067,Franklin,116
+10068, O Fallon,111
+10069,Windsor,132
+10070,Bothel,114
+10071,Lyndhurts,131
+10072,ROSELLE PARK,117
+10073,Gibbstown,117
+10074,Sun Prairie ,139
+10075,PISCATAWAY ,117
+10076,Greensburg,133
+10077,Brunswick,101
+10078,Larkspur,106
+10079, St. Louis,111
+10080,"Richfield, ",104
+10081,SOMERSET ,117
+10082,Glen Ellyn,115
+10083,Housto,107
+10084,Artesia,143
+10085,Staatsburg,113
+10086,Newark,113
+10087, Lone Tree,132
+10088,Elizabeth City,120
+10089,2200,117
+10090,ELY,140
+10091,Crum Lynne,119
+10092,GLENDORA,106
+10093,PATERSON,117
+10094,Strongville,131
+10095,CHEVY CHASE ,110
+10096,Pedricktown,117
+10097,Pedricktown ,117
+10098,South Daytona,118
+10099,Lauderdale Lakes,118
+10100,Cape Girardeau,111
+10101, Carlsbad,106
+10102,Speedway,135
+10103,Woburn ,103
+10104,Middletown Township,117
+10105,Mt Juliet,105
+10106,Livertyville,115
+10107,HOSCHTON,101
+10108,Wake Forest,120
+10109,sunnyvale,106
+10110, Freemont,106
+10111,Davis ,106
+10112,Prairie View,107
+10113,Great Bend,128
+10114,  East Palo Alto,106
+10115,Moultrie  ,101
+10116,SANTAMONICA,106
+10117,WASHINGTON DC ,138
+10118,Allen ,107
+10119,Azusa,106
+10120,Sugarhill,101
+10121,Rochelle Park ,117
+10122,Lake City,104
+10123,ORANGE CITY,118
+10124,Hicksville ,113
+10125,Hesston,128
+10126,WEST SACRAMENTO,106
+10127, Bronx,113
+10128,Albertson,113
+10129,Chillicothe,111
+10130,Carrollton,101
+10131,CHERRY HILL,117
+10132,Land O'Lakes ,118
+10133,Weehauken,117
+10134,Belmont ,103
+10135,Coral gables Miami ,118
+10136, Fenton,111
+10137,Cresskill,117
+10138,Monrovia ,106
+10139,Plover,139
+10140,North Edwards,106
+10141,MINNETONKA ,104
+10142,SIMI VALLEY,106
+10143,DAWSONVILLE,101
+10144,Columbus,144
+10145,Sunnyvalel,106
+10146,Mountain Pass,106
+10147,Wyoming,119
+10148,Dr. Plano,107
+10149,San Lorenzo,106
+10150,Lino Lakes ,104
+10151,CAMP HILL,119
+10152,Dalton,131
+10153,MIDLAND,107
+10154,41740 SAN DIEGO CA MSA,106
+10155,Columbia City,135
+10156,Park Forest,115
+10157,san diego,106
+10158,Monroe,109
+10159,HOMESTEAD,118
+10160,Barberton,131
+10161, North Randall,131
+10162,Brewster,114
+10163, Keller,107
+10164,Dacula,101
+10165,Monticello,142
+10166,Sikeston,111
+10167,Worthington ,131
+10168,FAYETTEVILLE,101
+10169,Woodside,113
+10170,Las Cruces,143
+10171,Loveland ,131
+10172,Corning,129
+10173,Olathe ,128
+10174,Fort Wayne ,135
+10175,Satsuma,124
+10176,Jefferson,124
+10177,Ely,140
+10178, GREENVILLE,134
+10179,Fairview Heights,115
+10180,Storrs Mansfield,109
+10181,Alpharetta  ,101
+10182,Maywood ,115
+10183,Doraville,101
+10184,North Brunswick ,117
+10185, CARY,120
+10186, Madison,139
+10187,Grenloch,117
+10188,NORTHRIDGE,106
+10189,FARMINGTON HILLS,107
+10190,Warrenton,101
+10191,Rdmond,114
+10192,Stoughton,103
+10193,Evans,101
+10194,Leitchfield,116
+10195,Fox Point,139
+10196,Burnsville,104
+10197,LAKEVILLE,104
+10198,Bedford,107
+10199,Avon ,109
+10200,ROCKY HILL ,109
+10201,Germantown,105
+10202,Palo Ato,106
+10203,Tracy ,106
+10204,Siloam Springs,142
+10205,Tarentum,119
+10206,El Segunda,106
+10207,SANFORD ,118
+10208,Van Buren TWP,102
+10209,LAKEWOOD,132
+10210,LaPlata,110
+10211,Federal Way,114
+10212,MANCHESTER ,109
+10213, Las Vegas,140
+10214,Columbus,139
+10215,SOMERVILLE,103
+10216,CANYON,107
+10217,Dos Palos,106
+10218,Puyallup,114
+10219,Etters ,119
+10220,Posen,115
+10221,NORWALK ,109
+10222,San Francisci,106
+10223,Lake St Louis ,111
+10224,FAIRBORN,131
+10225,Jamison,119
+10226, Lewisville,107
+10227,Peabody ,103
+10228,Centerton ,142
+10229,Bellaire,107
+10230,Everett ,103
+10231,Hazelwood,111
+10232,Mingo Junction,131
+10233,Ecorse,102
+10234,Rosemount,104
+10235, PRINCETON,117
+10236,Cambrigde,103
+10237,Garnett Valley,119
+10238, Irvine ,106
+10239,Fortmill,134
+10240,Galena,131
+10241,ST CHARLES,111
+10242,TRUMBULL,109
+10243,West Virginia,146
+10244,Dundee,102
+10245,Van Nuys ,106
+10246,Feasterville,119
+10247,Orinda,106
+10248,Great Neck ,113
+10249,HUDSON,131
+10250,Stonecrest,101
+10251,Soquel,106
+10252,Midlothian,107
+10253,"San Jose,",106
+10254,TOTOWA,117
+10255, Camden,117
+10256,SEWICKLEY,119
+10257,Perry Hall,110
+10258,Monmouth Juntion,117
+10259,MONTVALE,117
+10260, San Mateo ,106
+10261,O'Neill,127
+10262, Provo,122
+10263,"Charlotte,",120
+10264,Washington DC,114
+10265,Baldwin Park ,106
+10266,Upper Arlington,131
+10267,Manakin Sabot,108
+10268,Broadlands,108
+10269,LOS GATOS,106
+10270,CARTERET,117
+10271,Downer's Grove ,115
+10272,LAKE STATION,135
+10273,WESTBOEOUGH ,103
+10274,OR,130
+10275,Wyomissing ,119
+10276,LIBERTYVILLE,115
+10277,North Highlands,106
+10278,Middleton ,139
+10279,Sayre,119
+10280,FULLERTON,106
+10281,MONTEREY PARK,106
+10282,Lindenhurst,115
+10283,Oakmont,119
+10284,Duncan,112
+10285,Royal Palm Beach,118
+10286,BRIDGWATER,117
+10287, Pointe Celeste,133
+10288,Kingsport,105
+10289,Bound Brook,117
+10290,Margate,118
+10291,CHILLICOTHE,115
+10292, Washington DC ,138
+10293,LINCOLN,127
+10294,"Owings Mills, ",110
+10295,Land O’ Lakes,118
+10296,Montecito,106
+10297,VALENCIA,106
+10298,NEW BRITIAN,109
+10299,snoqualmie,114
+10300,Hiram,131
+10301,Sherwood,142
+10302, Northbrook,115
+10303,Willows,106
+10304,Opa Locka,118
+10305,Beaverton,106
+10306,Hilmar,106
+10307, Baton Rouge,133
+10308,Chicao,115
+10309,Natick ,103
+10310,Lodi,117
+10311,MANCHESTER,111
+10312,Kentwood ,102
+10313,SPRINGBORO,131
+10314,Roseville,102
+10315,Tamarac,118
+10316,Kinston,120
+10317,FarmingtonHills,102
+10318,NILES,102
+10319,Woodlands,107
+10320,Lake Worth,107
+10321,Scituate,103
+10322,Nashvile,105
+10323,Arcadia,139
+10324,COVINGTON,116
+10325,Richadson,107
+10326,GLENDALE,139
+10327,Hamilton,113
+10328,centennial,132
+10329,HILLSBORO ,130
+10330,Erwin ,113
+10331,Timberlake,120
+10332,Annapolis,101
+10333,Spring Lake Park,104
+10334,Bishop,106
+10335,LaGrange,115
+10336,PROPSPER,107
+10337,"Miami,",118
+10338,Fort Gibson,112
+10339,Montrose,106
+10340,Henderson,105
+10341,NISKAYUNA,113
+10342,Hillsborough ,117
+10343,"Golden,",132
+10344,Sa Francisco,106
+10345,OSSINING,113
+10346,SHELBY TWP,102
+10347,Parker ,132
+10348,Eastampton,117
+10349,Lousville,116
+10350,MCHENRY,115
+10351,Springfield,131
+10352,Saint louis,111
+10353,NEW HARTFORD,113
+10354,Saint Rose,133
+10355,Lauderhill,118
+10356,Anthony,104
+10357,Building 17,114
+10358,Fitchburg,103
+10359,Ione,106
+10360,RoseMount,104
+10361,ZEPHYRHILLS,118
+10362,Waterloo,115
+10363,Calumet City,115
+10364,Chadds Ford,119
+10365,Greendale,139
+10366,nashville,105
+10367,Alma,101
+10368,Dawsonville ,101
+10369,Waynesboro,101
+10370,"Lake Oswero,",130
+10371,Moonachie,117
+10372, Renton,114
+10373,Harker Heights,107
+10374,Granger,135
+10375,Florence,132
+10376,Corona,113
+10377,Egg Harbor City,117
+10378,BEAR,137
+10379,Maynard,103
+10380,KELLER,107
+10381,MAGNOLIA,107
+10382,Waycross,101
+10383,Oak Grove,111
+10384,Ballston Lake,113
+10385, St. Petersburg,118
+10386,Elkridge ,110
+10387,Neenah ,139
+10388,Emeryille,106
+10389,MONTEREY PARRK,106
+10390,Franklin ,103
+10391,North Reading,107
+10392,Garnet Valley,119
+10393,Elk Grove,115
+10394, Cleveland,131
+10395,BRULINGTON,103
+10396,Palo Also,106
+10397, Fresno,106
+10398,Sun City,121
+10399,Lackland AFB,107
+10400,Lansing,115
+10401,Stockbridge,101
+10402,SEATAC,114
+10403,AUBURN,124
+10404,Columbia,109
+10405, ROSEMEAD,106
+10406,Ashland,108
+10407,South Milwaukee,139
+10408,SAVANNAH,107
+10409,Thomastown,101
+10410,Little Neck ,113
+10411,Hollywood,110
+10412,Murrysville,119
+10413,Mullins,134
+10414,JENISON,102
+10415,"Plano,  ",107
+10416,ROWLETT,107
+10417,Daytona,131
+10418,Rome,113
+10419,Auburn HIlls,102
+10420,O' FALLON ,111
+10421,Pelham,125
+10422,Moorhead,104
+10423,Killeen,107
+10424,"Mountain View,",106
+10425,REVERE,103
+10426,North Jacksonville,124
+10427,Rosslynn,108
+10428,Downington,119
+10429,"LAS VEGAS, ",140
+10430,Daytone,117
+10431,Moriches,113
+10432,"Wauwatosa, ",139
+10433,Hillsborough,106
+10434, Lewis Center,131
+10435, Vernon,106
+10436,Roseau,104
+10437,Hillard,131
+10438,Forest Hills,113
+10439,"Canton, ",102
+10440,NORTH BRUNSWICK      ,117
+10441,PISCATAWAY    ,117
+10442,El Segundo	,106
+10443,Lakeland,105
+10444,Little Neck,113
+10445,Princess Anne,110
+10446,WESTPOINT,119
+10447,Mainville,131
+10448,Short Hills ,117
+10449,"PARSIPPANY, ",117
+10450,East Point,101
+10451,Lowville,113
+10452,WESTON,118
+10453,PONTIAC,102
+10454,WINDHAM,125
+10455,Portola Valley,106
+10456,SAN CLEMENTE ,106
+10457,Jackson,106
+10458,Aloha ,130
+10459,LAKE ELMO,104
+10460,ISELIN ,117
+10461,Elkhaart,135
+10462,HUNT VALLEY,110
+10463,"Benton Harbor, ",102
+10464,Albion,113
+10465,  San Francisco,106
+10466,Prattville,124
+10467,SAN FRANCISOC,106
+10468, Cambridge,103
+10469,Highlands Rach,132
+10470,PITTSBURG,119
+10471,KANSAS,128
+10472,San francisco,106
+10473,Tiffin,131
+10474,Warren,136
+10475,Murfeesboro,105
+10476,Arilington Heights,115
+10477,Fremont,131
+10478,Hermosa Beach,106
+10479,North Smithfield,136
+10480,Athens,146
+10481,HOLMDEL,117
+10482,Brookyln,113
+10483, Santa Cruz,106
+10484, Parker,132
+10485,River Vale,117
+10486,West Point ,119
+10487,Wauchula,118
+10488,Union City ,106
+10489,FortWorth,107
+10490,Fieldale,108
+10491,Camas,114
+10492,Granada Hills,106
+10493, Plano ,107
+10494,Seymour,111
+10495,San Clemente ,106
+10496,WESTMINSTER,132
+10497,Oakland Gardens,113
+10498,Cannon Falls,104
+10499,LAKEWOOD,114
+10500,Pearl River,113
+10501,ROSEVILLE,102
+10502,"Trenton,",117
+10503,Geneva,113
+10504,GLEN ELLENT,106
+10505,Ridgefield,117
+10506,Brookhaven,113
+10507,Smithfield,108
+10508,Sea Tac,114
+10509,Salamanca ,113
+10510,leander,107
+10511,Hollis,113
+10512,East Palo Alto94303,106
+10513,Womelsdorf,119
+10514,Denison,129
+10515,Ocean,117
+10516,La Quinta,106
+10517,Huntingdon,119
+10518,Butte ,151
+10519,Potsdam,113
+10520,MAPLE GROVE,104
+10521,MCPHERSON,128
+10522,ADDISON,115
+10523,Greeley ,132
+10524,NEWTOWN ,109
+10525,Greenfield,129
+10526,ORINDA,106
+10527,Northampton,103
+10528,INKSTER,102
+10529,Lake Orion ,102
+10530,MINEOLA,113
+10531,Old Bridge,117
+10532,Rtp Resrch Tri,120
+10533,Lake City,118
+10534,Victoria,107
+10535,Clyde,131
+10536,Ardmore,112
+10537,Convent,133
+10538,CLAWSON,102
+10539,San Francisco   ,106
+10540,Islandia,113
+10541,Decatur,135
+10542,San Franciscos,106
+10543,Council Bluffs,129
+10544,Merchantville,117
+10545,Perry,112
+10546,Coudersport,119
+10547,Redwood ,106
+10548,Lockney,107
+10549,Euclid,131
+10550,Madison ,117
+10551,Mullan,126
+10552,JEFFERSON,142
+10553,FRONT ROYAL,108
+10554,Sandston,108
+10555,Magnolia,107
+10556,Wahington,138
+10557,N Shoreview ,104
+10558,Gonzales,107
+10559,Atlantic Beach,118
+10560,Ft. Wayne,135
+10561,Shenandoah,107
+10562,ERIE ,119
+10563,SUGAR LAND ,107
+10564,St. Michael ,104
+10565,WEST MADISON,115
+10566,FORT MILL ,134
+10567,Richmond Heights,131
+10568,Garden City,128
+10569,Bondurant,129
+10570,Oxnard ,106
+10571,Crystal Lake,115
+10572,Manchester,129
+10573,Scranton ,119
+10574,New Brunswick ,117
+10575,Monoe,133
+10576,WEST NEW YORK,117
+10577,KENMORE,114
+10578,Phoeniz,121
+10579,Holt,102
+10580,Florence,124
+10581,Miami Lakes ,118
+10582,GRIMES,129
+10583,Princeton Jct,117
+10584,Newton Highlands,103
+10585,Plainview,113
+10586,BATAVIA,115
+10587,LAKEMARY,118
+10588,Pierre,145
+10589,Pender,127
+10590,Lincolnwood,115
+10591,Culver ,106
+10592,MAIDEN,120
+10593,West Carrollton ,131
+10594,Winston Salem ,120
+10595,OLD BRIDGE,117
+10596,WEST BLOOMFIELD,102
+10597,Lebanon,131
+10598,NOVI ,102
+10599,MARYSVILLE ,131
+10600,Enfield,125
+10601, Pueblo,132
+10602,WAXHAW,120
+10603,Taylorville,115
+10604,East Greenbush,113
+10605,Laconia,125
+10606,carrollton,101
+10607,harrisonburg,108
+10608,Norwich CT ,109
+10609,Lawrenceville ,101
+10610,Kansas city ,111
+10611,Rugby,123
+10612,Shirley,103
+10613,League City,107
+10614,NORTH BILLERICA ,103
+10615,MEDFORD ,103
+10616,MANVILLE,117
+10617,Union City ,117
+10618,East Windsor ,109
+10619,Hanover ,119
+10620,folsom,106
+10621,CORPUS CHRISTI,107
+10622,Bethune,134
+10623,MC Lean,108
+10624,OLATHE,128
+10625,Jefferson,111
+10626,WOLF CREEK,151
+10627,Sunset Hills,111
+10628,Kingston,136
+10629,North Columbus,144
+10630,Reno ,140
+10631, Oakwood,131
+10632,Lake Tapps,114
+10633,245A,107
+10634,Westford ,103
+10635,Highland,106
+10636,Wawa,119
+10637,Madison,101
+10638,Coons Rapids,104
+10639, Bridgeton,111
+10640,Alizo Viejo,106
+10641,Wethersfield ,109
+10642,PORT ORANGE,118
+10643,Wenatchee,114
+10644,GREENBROOK,117
+10645,Pooler,101
+10646,Lexington ,116
+10647,ARGYLE ,107
+10648,JOHNSON,129
+10649,Patterson,106
+10650, West Chester,119
+10651,Willits,106
+10652,Havertown,119
+10653,Marathon,118
+10654,Newport,148
+10655,North Haven ,109
+10656,Fort Valley,101
+10657,PaloAlto,106
+10658,AVON,103
+10659,Fuquay-Varina,120
+10660,TYLER,107
+10661,Seneca,128
+10662,Piscatway,117
+10663,Oakton,108
+10664,WALL TOWNSHIP,117
+10665,Waunakee,139
+10666,MILLCREEK,122
+10667, Lafayette,133
+10668,Urbandale ,129
+10669,Eden Praire,104
+10670,Albemarle,120
+10671,Brickell,118
